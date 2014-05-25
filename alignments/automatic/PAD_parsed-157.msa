@@ -1,0 +1,66 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 157 ("Leuten") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6	7
+#
+0	CONSENSUS......	-	l	ɤ→ɪ	th	-	-	-
+#
+24592	Adorf..........	-	l	ɤ̣→ɪ	d	-	n̩	-
+24557	Altentrüdin....	-	l	ɐ̠→ɪ	t	-	-	-
+24571	Bempflingen....	-	l	e̜→ɪ	th	-	-	-
+24556	Billingsbach...	-	l	ɐ̠→ɪ	tʰ	-	-	-
+24553	Brockhausen....	-	l	ʊ̜→ɪ	-	ə	n	-
+24584	Bruch..........	-	l	ɐ→ɪ	d	-	n̩	-
+24598	Burgrieden.....	-	l	e̜→ɪ	tʼ	-	-	-
+24554	Büdesheim......	-	l	ɤ→ɪ	th	-	-	-
+24552	Docelles.......	-	l	ɤ→ɪ	d	ə̰	-	-
+24577	Eichenhofen....	-	l	a→ɪ	th	-	-	-
+24564	Endenburg......	-	l	y	t	ə	-	-
+24601	Engter.........	-	l	yː	-	ə	-	-
+24565	Ensheim........	-	l	ɐ̠→ɪ	th	-	-	-
+24549	Eschelbronn....	-	l	ɐ̠→ɪ	t	-	-	-
+24581	Gelting........	-	l	ʌ̜→ɪ	th	-	-	-
+24576	Hartenstein....	-	l	ɐ→ɪ	d̰	-	n̩	-
+24589	Herrentrup.....	-	l	u̜ʿː	n̥	-	-	-
+24591	Horheim........	-	l	ʏ̣	th	-	-	-
+24578	Höchstädt(Don).	-	l	ʌ→ɪ	th	-	-	-
+24588	Iggingen.......	-	l	ɐ̣→ɪ	t	-	-	-
+24566	Igling.........	-	l	ɐ̣→ɪ	-	-	-	-
+24560	Iversheim......	-	l̠	ʏ̠ʿ	k͡χ	-	-	-
+24580	Kemmern........	-	l	ɤ→ɪ	d̰	-	n̩	-
+24569	Klafferstrass..	-	l	ɐ̟→ɪ	t	-	n̩	-
+24555	Langenbruck....	-	l	ə̠→ɪ	th	-	-	-
+24594	Leuth..........	-	l	yː	-	-	-	-
+24600	Lippramsdorf...	-	l	ʏ̣ː	-	-	-	-
+24551	Maxweiler......	-	l	ɤ→ɪ	tʼ	-	-	-
+24568	Niederauerbach.	-	l	ɐ→ɪ	t	-	-	-
+24590	Oberhomberg....	-	l	ɛ̠→ɪ	th	-	-	-
+24582	Obermaisel.....	-	l	i	tː	ə	-	-
+24586	Oberviehbach...	-	l	ɤ→ɪ	t	-	n̩	-
+24573	Oberwürzbach...	-	l	a→ɪ	tʰ	-	-	-
+24574	Oberwürzbach...	-	l	ã→ɪ	t	-	-	-
+24548	Orferode.......	-	l	i̜ː	d	-	n̩	-
+24596	Ottowind.......	-	l	ɤ→ɪ	d	-	-	-
+24575	Pfaffenrot.....	-	l	ɐ̠→ɪ	th	-	-	-
+24567	Pielenhofen....	-	l	ɐ̜+→ɪ	c	-	-	-
+24595	Pöttmes........	-	l	ɐ→ɪ	t̪͡θ	-	-	-
+24562	Reelkirchen....	-	l	ʊ̣͡ʊ̟	-	-	-	-
+24593	Schachach......	ɾ̩	l	ɐ̟→ɪ	tʼ	-	-	-
+24583	Schauenstein...	-	l	ʌ→ɪ	d	-	-	-
+24559	Schnepfenbach..	-	l	ə̠→ɪ̣	t̰h	-	-	-
+24547	Schömberg......	-	l	ə→ɪ	-	-	-	-
+24599	Seelbach.......	-	l	i	th	-	-	-
+24561	Siebenbach.....	-	l	ə̜→ʏ	tʰ	-	-	-
+24570	Treffelstein...	-	l	ɤ→ɪ	t͡ʔ	ə	n	-
+24579	Ulbering.......	-	l	a̠→ə̣	t̪	-	-	-
+24597	Vielbrunn......	-	l	ɐ̜→ɪ	th	-	-	-
+24550	Volkershausen..	-	l	ɔ→ɪ	t͡θ	-	-	-
+24558	Weidenbach.....	-	l	ɐ̠→ɪ	t̰	-	n̰	t͡θ
+24563	Wemb...........	-	l	y̜	j̰	-	-	-
+24572	Weyhers........	-	l	ʏ̣ː	th	-	-	-
+24587	Wüllen.........	-	l	ʏ̜ː	-	ə	-	-
+24585	Zellingen......	-	l	ɐ̜→ʏ	th	-	-	-

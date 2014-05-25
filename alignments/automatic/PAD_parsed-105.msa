@@ -1,0 +1,66 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 105 ("rot") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4
+#
+0	CONSENSUS......	ɾ	oː	-	th
+#
+16009	Adorf..........	ʁ	ɐ→ʊ	-	th
+16001	Altentrüdin....	ɾ	oː	-	th
+15995	Bempflingen....	ɾ	ɐ→ʊ	-	th
+15967	Billingsbach...	ɾ	o̜͡ə	-	t̪ʰ
+15978	Brockhausen....	ɾ	ə→ʊ	-	th
+15959	Bruch..........	ʁ	ʊ̣ː	-	th
+15999	Burgrieden.....	ɾ	oː	-	tʼ
+16004	Büdesheim......	ɾ	ʊː	-	th
+15994	Docelles.......	ɾ	ʊ̣ː	-	t̪h
+15979	Eichenhofen....	r	a→ʊ	-	th
+15971	Endenburg......	ɾ	ɤʾ͡ʊ	-	t̪ʰ
+15983	Engter.........	ɾ	ɐ̟→ʊ	-	th
+15973	Ensheim........	ɾ	oː͡ʊ̜	-	th
+15968	Eschelbronn....	ʁ	oː	-	tʰ
+15981	Gelting........	ɾ	ə→ʊ	-	tʰ
+15969	Hartenstein....	ɾ	ə→ʊ	-	th
+16002	Herrentrup.....	ʁ	ɐ→ʊ̜	-	th
+15997	Horheim........	ʁ	oː	-	ʔ͡tʰ
+15974	Höchstädt(Don).	ɾ	ɔ̣ʿ͡ə	-	th
+15964	Iggingen.......	ɾ	ɔː	-	tʰ
+15962	Igling.........	r	o̜→ə	-	th
+15986	Iversheim......	ɹ	u	ə	tʼ
+15992	Kemmern........	ɾ	oː	-	tʰ
+15975	Klafferstrass..	ɾ	e	ʊ̜	th
+16007	Langenbruck....	ɾ	ə̠→ʊ	-	th
+15989	Leuth..........	ʁ	ʊ̣	ə	th
+16006	Lippramsdorf...	ɾ	oʿ͡ʊ	-	t̠ʰ
+15965	Maxweiler......	ɾ	oː	-	th
+15970	Niederauerbach.	ɾ	ə̜→ʊ	-	th
+16012	Oberau.........	ɾ	ʊː	-	th
+16011	Oberhomberg....	ʁ	oː	-	tʰ
+15987	Obermaisel.....	ɹ	o̜ʿ→ɐ	-	th
+15982	Oberviehbach...	ɾ	ə→ʊ	-	t̪h
+16005	Oberwürzbach...	ʁ	oʿ→ə	-	th
+15985	Orferode.......	r	u̜ː	-	th
+16003	Ottowind.......	ɾ	ʊ̣ː	-	tʰ
+15977	Pfaffenrot.....	ɾ	oː	-	tʰ
+15984	Pielenhofen....	ɾ	ə→ʊ	-	d̪̰
+16010	Pöttmes........	ɾ	o̜͡ə̜	-	t̪͡θ
+15963	Reelkirchen....	ʁ	ɐ̜→ʊ	-	th
+16000	Schachach......	ɾ	o→ə̜	-	tʼ
+15998	Schauenstein...	r	ʊ̣ː	-	th
+15991	Schnepfenbach..	ɾ	o̜͡ə	-	t̪̰ʰ
+16008	Schömberg......	ɾ	oː	-	th
+15996	Seelbach.......	ʁ	o̜ː	-	tʰ
+15988	Siebenbach.....	ʁ	ʊ̣ː	-	tʼ
+15958	Treffelstein...	r	ɐ̣→ʊ	-	d
+15961	Ulbering.......	ɾ	ə→ʊ	-	d͡ð
+15990	Vielbrunn......	ɾ	ə̜→ʊ	-	th
+15966	Volkershausen..	ɾ	ɔː͡ə	-	t̪̰ʰ
+15960	Weidenbach.....	ɾ	ɔ̣͡ə	-	t̪h
+15980	Wemb...........	ɾ	ə̠→ʊ	-	d
+15993	Weyhers........	r	oː	-	t̪h
+15972	Wüllen.........	ɾ	oʿ͡o	-	th
+15976	Zellingen......	ɾ	o→ə̠	-	tʰ

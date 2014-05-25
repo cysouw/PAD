@@ -1,0 +1,65 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 96 ("meinem") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5
+#
+0	CONSENSUS......	m	ɐ→ɪ	n	-	-
+#
+14368	Adorf..........	m	e→ɪ	n	ə	m
+14410	Altentrüdin....	m	ɐ̣→ɪ	n	-	-
+14398	Bempflingen....	m	ɐ→ɪ	m	-	-
+14383	Billingsbach...	m	ɐ	n	-	-
+14415	Brockhausen....	β̃	ʊ̣→ɪ̣	n	ə	m
+14397	Burgrieden.....	m	ɐ→ɪ	n	-	m̩
+14402	Büdesheim......	m	a̠→ə	m	-	-
+14403	Büdesheim......	m	ɐ̠ʾ→ɪ̰	m	-	-
+14366	Docelles.......	m	ɐ→ɪ	m	-	-
+14418	Eichenhofen....	m	æ→ɪ	n	-	-
+14395	Endenburg......	m	ɪ	m	-	-
+14382	Engter.........	m	ɪ̜͡ɪ	n	-	n̩
+14384	Ensheim........	m	ɔ̜ʿ→ɪ	n	ə	m
+14370	Eschelbronn....	m	ɐ→ɪ	m	-	-
+14372	Gelting........	m	ə̜→ɪ	n	-	-
+14417	Hartenstein....	m	ɐ̟̃→ɪ̃	n	ə̃	n
+14412	Herrentrup.....	m	ʊ̣→ɪ	n	-	n̩
+14419	Höchstädt(Don).	m	ɐ→ɪ	m	-	-
+14381	Iggingen.......	m	ɐ̣̟→ɪ	m	-	-
+14416	Igling.........	m	ɐ→ɪ	m	-	-
+14369	Iversheim......	m	ɪ	ŋ	ə	m
+14379	Kemmern........	m	ɐ→ɪ	n	-	-
+14406	Klafferstrass..	m	a̠	n	-	-
+14380	Langenbruck....	m	ɐ̣→ɪ	n	ə	n
+14413	Leuth..........	m	ɪ̣	n	ə	n
+14393	Lippramsdorf...	m	ɪ	n̩	-	-
+14367	Maxweiler......	m	ɐ→ɪ	m	-	-
+14394	Niederauerbach.	m	ɐ→ɪ	m	-	-
+14376	Oberau.........	m	ɛ→ɪ	n	ə	m
+14377	Oberau.........	m	ɛ̠→ɪ	n	ə	m
+14378	Oberhomberg....	m	ɪ̣	m	-	-
+14371	Obermaisel.....	m	ɪ	ŋ	-	-
+14385	Oberviehbach...	m	ɐ→ɪ	n	-	-
+14401	Oberwürzbach...	m	a̠→ɪ̠	m	-	-
+14386	Orferode.......	m	ɪ	m	ə	-
+14400	Ottowind.......	m	ɒ̣→ɪ	n	-	-
+14387	Pfaffenrot.....	m	ɐ→ɪ	m	-	-
+14374	Pielenhofen....	m	ɛ→ɪ	n	-	-
+14389	Pöttmes........	m	ɐ̟→ɪ	n	-	-
+14414	Reelkirchen....	m	ʊ→ɪ	n	-	n̩
+14409	Schachach......	m	ɐ→ɪ	n͡n̩	-	-
+14411	Schauenstein...	m	ɐ→ɪ	n	-	-
+14405	Schnepfenbach..	m	ɐ→ɪ	n	-	-
+14408	Schömberg......	m	ɐ→ɪ	m	-	-
+14388	Seelbach.......	m	ɪ̣	n	-	m̩
+14407	Siebenbach.....	m	ɐ→ɪ	n	ə	m
+14373	Treffelstein...	m	ɐ	n	-	-
+14404	Vielbrunn......	m	ɐʾ→ɪ	n	ə	m
+14391	Volkershausen..	m	ɐ→ɪ	n	-	-
+14392	Volkershausen..	m	ɐ→ɪ	m	-	-
+14399	Wemb...........	m	ɪ	n	-	-
+14375	Weyhers........	m	ə̟→ɪ	n	-	-
+14390	Wüllen.........	m	ɪ̣ː	n	-	n̩
+14396	Zellingen......	m	ɐ→ɪ	n	-	-

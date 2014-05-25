@@ -1,0 +1,73 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 162 ("anfängt") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6	7	8	9	10	11
+#
+0	CONSENSUS......	oː	n	-	f	-	ɛ	ŋ	-	t	-	-
+#
+25309	Aachen.........	a̠ː	-	-	f	-	ɛ	ŋ	-	t	-	-
+25324	Allna..........	oː	-	-	f	-	æ̣→ɪ	ŋ	-	t	-	-
+25294	Altenberg......	ʌ	n	-	f	-	ɛ	ŋ	-	t	-	-
+25295	Altwarp........	a̠	n	t	f	-	ɛ	ŋ	-	t	-	-
+25313	Astfeld........	a	n	-	f	-	ɛ	ŋ	-	t	-	-
+25301	Atzendorf......	ɔ̜ʿ→ɐ̜	n	-	f	-	ɛ̣	ŋ	ə	t̰	-	-
+25311	Ballhausen.....	ɔʿ→ɐ̟	n	-	f	-	ɛ	ŋ	-	t	s	ə
+25325	Bardenfleth....	a̠ː	n	-	f	-	ã̠	ŋ	-	th	-	-
+25304	Barssel........	ãː	ŋ̰	-	f	-	a	ŋ	-	t	-	-
+25303	Bockelwitz.....	ʌʾ	n	-	f	-	ɛ	ŋ	-	t	-	-
+25306	Cursdorf.......	o̜ʿ→ə̟	n	-	f	-	a	ŋ	-	-	-	-
+25328	Dreeke.........	a̠	ɱ	p	f	-	a̠	ŋ͡n̩̰	-	-	-	-
+25315	Ebertshausen...	oː	-	-	f	-	ɛ	ŋ	-	t	-	-
+25307	Eversen........	ɑ̟	n	-	f	-	ɑ	ŋ	-	th	-	-
+25290	Gersdorf.......	ɔ̃ː	-	-	f	-	ɐ	ŋ	-	t	-	-
+25334	Gornsdorf......	ɔʿː	-	-	f	-	ɛ	ŋ	-	t	-	-
+25329	Grossenwiehe...	a	n	-	ɸ	-	a̠	ŋ	-	-	-	-
+25279	GrossJamno.....	ɐ̠ʾ	n	-	f	-	ɛ	ŋ	-	ð	-	-
+25318	Grünlichtenberg	ʌʾ	n	-	f	-	ɛ	ŋ	-	t	-	-
+25317	Götz...........	ɑ̟	n	-	f	-	ɑ̟	ŋː	-	th	-	-
+25339	Hammah.........	a	n	-	f	-	a	ŋ	-	-	-	-
+25322	Herbornseelbach	o̜ː	-	-	f	-	ɪ	ŋ	-	t	-	-
+25314	Hermannsreuth..	ʊ̃→ɒ̃ʿ	-	-	f͡f	-	ɔ̜̃	ŋ	-	th	-	-
+25321	Herzfeld.......	a̠	m	-	p͡ɸ	-	ɑ̟	ŋ	-	-	-	-
+25281	Hohenkörben....	ã	-	-	f	-	ɔ̃͡õ	ŋ	-	k̰	-	-
+25285	Hohwacht(Os)...	a	n	-	f	-	a	ŋ	-	t	-	-
+25326	Hundisburg.....	ɑ̟	n	-	f	-	ɛ	ŋ	ə	tʼ	-	-
+25291	Hönebach.......	ɔ̣	m	-	f	-	ɛ	ŋ	-	-	-	-
+25302	Jacobsdorf.....	a̠	n	-	f	-	a̠	ŋ	ə̟	n	-	-
+25287	Jesteburg......	ɑ̟	n	-	f	-	ɑ	ŋ	-	-	-	-
+25340	Jonsdorf.......	ɔ͡ɐ	-	-	f	-	ɛ	ŋ	-	t	-	-
+25310	Kruft..........	ɑʾ	n	-	f	-	ɛ	ŋ	-	t	-	-
+25308	Kuhstedt.......	a̠	n	-	f	-	a̠	ŋ	-	th	-	ʊ
+25312	Köln...........	-	-	-	f	-	ɛ	ŋ	-	kh	-	-
+25283	Lampertswalde..	ã̠	n	-	ɸ	-	ɛ	ŋ	-	t	-	-
+25305	Lohra..........	oː	-	-	f	-	æ̠→ɪ	ŋ	-	t	-	-
+25335	Lohrhaupten....	o̜ː	-	-	f	-	ɛ	ŋ	-	t	-	-
+25286	Maibrunn.......	õ̜	-	-	v	-	ɔ̣	ŋ	-	-	-	-
+25332	Mastershausen..	aː	-	-	f	-	ɛ	ŋ	-	t	-	-
+25333	Mirow..........	ɑ̃	ɱ	-	p͡ɸ	-	ɛ	ŋ	-	t	-	-
+25288	Niederasphe....	oː	-	-	f	-	ɪ	ŋ	-	t	-	-
+25296	Niedernhausen..	ɑ̟ː	-	-	f	-	ɛ	ŋ	-	t	-	-
+25297	Nürnberg.......	oː	-	-	f	-	e	ŋ̟	-	-	-	-
+25298	Nürnberg.......	oː	-	-	f	-	e	ɲ	-	-	-	-
+25299	Nürnberg.......	oː	-	-	f	-	e̜	ŋ̟	-	-	-	-
+25300	Nürnberg.......	oː	-	-	f	-	e̜	ɲ	-	-	-	-
+25292	Odenspiel......	ɑ	n	-	p̰	ɸ	ɛ̜	ŋ	-	t	-	-
+25327	Offdilln.......	ʊ̣ː	-	-	f	-	ɪ	ŋ	-	-	-	ə
+25337	Osterbruch.....	ɑ̣	n	-	f	-	a̠	ŋ	-	-	-	-
+25319	Rammenau.......	ʌ	n	-	f	-	ɛ	ŋ	-	t	-	-
+25331	Rosswein.......	ɔʿ	n	-	f	-	ɛ	ŋ	-	th	-	-
+25282	Ruhlsdorf......	a̠	n	-	p͡ɸ	-	i̜	ŋ	-	tʰ	-	-
+25289	Röhrda.........	ɔ̣̃ː	ɱ	-	f	-	ɪ	ŋ	-	-	-	-
+25293	Schraden.......	ɐ	n	-	f	-	ɛ	ŋ	-	t	-	-
+25320	Schwabstedt....	a	n	-	f	-	ạ	ŋ	-	-	-	-
+25336	Tann(Rhön).....	uː	-	-	v	-	a→ɪ	ŋ	-	t	-	-
+25330	Unterellen.....	o	n	-	v	-	æ	ŋ	-	t	-	-
+25316	Verchen........	a̠	n	-	p	ɸ	ɪ	ŋ	-	tʰ	-	ə̠
+25323	Wehrsdorf......	ɒ̃	-	-	f	-	ɛ	ŋ	-	-	-	-
+25280	Wentorf(Sand)..	a	n	-	f	-	a̠	ŋ	-	-	-	-
+25338	Wittelsberg....	oː	-	-	f	-	ɛ̜→ɪ̃	ŋ	-	t	-	-
+25284	Wolgast........	a̠	n	-	f	-	ɪ	ŋ	-	-	-	-

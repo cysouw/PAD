@@ -1,0 +1,64 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 35 ("Ei") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3
+#
+0	CONSENSUS......	-	ɐ→ɪ	-
+#
+4678	Adorf..........	-	ɛ→ɪ	-
+4651	Bempflingen....	-	oʿ→ɪ	-
+4659	Billingsbach...	-	ɐ̟→ɪ	-
+4658	Brockhausen....	-	ɐ→ə̣	-
+4670	Bruch..........	-	a̠ː→ɪ	-
+4679	Burgrieden.....	-	ɐ̟→ɪ	-
+4656	Büdesheim......	-	ɐː→ɪ	-
+4636	Docelles.......	-	a̠→ɪ	-
+4673	Eichenhofen....	o	æ	-
+4639	Endenburg......	-	ɐ̟→ɪ	-
+4682	Engter.........	-	ɛ→ɪ	-
+4677	Ensheim........	-	o̜ː→ɪ	-
+4652	Eschelbronn....	-	ɐ→ɪ	-
+4654	Gelting........	-	o→ə	r̥
+4642	Hartenstein....	oː	ɐ	ɾ
+4646	Herrentrup.....	-	œ	ç
+4653	Horheim........	-	ɐ̠→ɪ	-
+4635	Höchstädt(Don).	-	ɔʿ→ɪ	-
+4668	Iggingen.......	-	oʿ→ɪ	-
+4645	Igling.........	-	a̠→ɪ	-
+4674	Iversheim......	-	ɛ̠ː→ɪ̠ː	-
+4647	Kemmern........	-	a̠→ɪ	-
+4676	Klafferstrass..	-	o→ɐ	ɹ
+4681	Langenbruck....	-	ɔ̣→ə̜	ɽ
+4644	Leuth..........	-	ɐ̟→ɪ	-
+4666	Lippramsdorf...	-	ɐ→ɪ	-
+4648	Maxweiler......	-	ɔ̣→ɪ	-
+4633	Niederauerbach.	-	ɐ→ɪ	-
+4667	Oberau.........	-	ɔ	ɾ̰
+4655	Oberhomberg....	-	ɔʿ→ɪ	-
+4637	Obermaisel.....	-	ã→i̜	-
+4650	Oberviehbach...	-	ɔ̣→ə̜	ɾ
+4634	Oberwürzbach...	-	ɑ̟→ɪ	-
+4675	Orferode.......	-	ɛ̜→ɪ	-
+4641	Ottowind.......	-	ɐ→ɪ	-
+4640	Pfaffenrot.....	-	ɐ→ɪ	-
+4672	Pielenhofen....	-	o→ɐ	-
+4663	Pöttmes........	-	ɔ͡ɔ̜	r
+4680	Reelkirchen....	-	œ	ç
+4632	Schachach......	-	ɔ̣→ə	-
+4661	Schauenstein...	-	a̠ː	r
+4660	Schnepfenbach..	-	ɛ̣ː	-
+4671	Schömberg......	-	ɔ→ɐ	-
+4683	Seelbach.......	-	ɐ→ɪ̣	-
+4643	Siebenbach.....	-	ɛ̣͡e̜	-
+4662	Treffelstein...	o̜ː	ɐ	-
+4657	Ulbering.......	-	ɔ̣→ɐ	-
+4669	Vielbrunn......	-	a̠ː→ɪ	-
+4638	Volkershausen..	-	ɛ̣ː	-
+4664	Wemb...........	-	ɛ→ɪ	-
+4665	Weyhers........	-	æ̜→ɪ	-
+4649	Wüllen.........	-	ɛ	j͡ç
+4684	Zellingen......	-	ɛː	ɾ̥

@@ -1,0 +1,67 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 87 ("Äpfelchen") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6	7	8	9	10
+#
+0	CONSENSUS......	ɛ	p͡f	-	ə	l	-	-	-	-	-
+#
+12995	Adorf..........	a̠	p	-	ə	l	-	-	ə	-	-
+12996	Adorf..........	a̠	p	-	ə	l	-	-	-	-	-
+12981	Altentrüdin....	œ̣	b͡v	-	ə	l	-	-	-	-	-
+12960	Bempflingen....	e	p͡f	-	ə	l	-	-	ə̜	-	-
+12987	Billingsbach...	e̜	p͡f	-	ə	l	-	-	-	-	-
+12964	Brockhausen....	a̠	p	-	ə̠	ɫ	-	-	-	-	-
+13006	Bruch..........	ɛː	p	-	ə	l	-	ʃ	ɐ	-	-
+12998	Burgrieden.....	eː	p͡f	-	-	l̩	-	-	-	-	-
+12971	Büdesheim......	œʿ	p	-	ə	l	t̰	ɕ	-	n̩	-
+12961	Docelles.......	ɛ̜	p	-	ə	l	-	ʒ	ɛ͡ə̜	-	-
+12956	Eichenhofen....	ạː	p͡f	-	ə	l	-	-	ə̟̃	-	-
+12958	Endenburg......	œ	p͡f	-	ə	l	-	-	ɪ	-	-
+12980	Engter.........	a̠	p	-	ə	l	-	s	-	-	-
+12970	Ensheim........	ɛ̣	b	-	ə	l	-	ʃ̠	ə	-	-
+12988	Eschelbronn....	e	p͡f	-	ə	l	-	-	ə	n̰	-
+12972	Gelting........	a	p͡f	-	ə̜˻	l	-	-	-	-	-
+12959	Hartenstein....	œʿ	p͡f	-	ə	l	-	-	-	-	-
+12994	Herrentrup.....	ʌʾ	pʰ	-	ə	l	-	s	-	-	-
+13002	Horheim........	øː	ʔ͡p͡f	-	ə	l	-	-	-	-	-
+12991	Höchstädt(Don).	ɛ	p͡f	-	ə	l	-	-	ə	-	-
+13000	Iggingen.......	e̜	p͡f	-	ə̰	l	-	-	ə̜̃	-	-
+12969	Igling.........	ɛ	p͡f	-	ə̜	l	-	-	ə	-	-
+12967	Iversheim......	æ	p͡p	-	ə	ɫ	t	ʃ̟	ə	-	-
+12962	Kemmern........	ɛ̠	p̰͡f	-	ə	l	-	-	-	-	-
+13003	Klafferstrass..	ɛ̣	ɸ	f	-	l̩	-	-	-	-	-
+12968	Langenbruck....	e̜	p͡f	-	ə̟	l̰	-	-	-	-	-
+12979	Leuth..........	ɛ̜	p	-	ə	l	-	k	ə	s	-
+12965	Lippramsdorf...	ɛ	b	-	ə	l̠	-	k	ə	s	-
+12986	Maxweiler......	e	p	-	ə	ɮ	-	-	-	-	-
+12957	Niederauerbach.	e̜	p	-	ə	l	-	-	-	-	-
+12955	Oberau.........	e	p͡f	-	ə	l	-	-	-	-	-
+12975	Oberhomberg....	e̜	p͡f	-	ə̜	l	-	-	ə	-	-
+13005	Obermaisel.....	ɛ̣ː	p͡f	-	ə	l̠	-	-	əʾ	-	-
+12997	Oberviehbach...	ɛ	p͡f	-	ɪ	-	-	-	-	-	-
+12999	Oberwürzbach...	e	p	-	-	l̩	-	t͡ɕ	ɐ	-	-
+12993	Orferode.......	ɛ	b	-	ə̜+	ʁ	-	-	ɪʾ	ç͡j	n̩
+12978	Ottowind.......	œ̣	p͡f	-	ə	l	-	-	-	-	-
+13008	Pfaffenrot.....	e̜	p͡f	-	ə	l	-	-	ə	-	-
+13007	Pielenhofen....	eː	p͡f	-	ə	l	-	-	-	-	-
+12983	Pöttmes........	e͡ẹ	p͡f	-	ə	l̰	-	-	-	-	-
+12974	Reelkirchen....	ɛ	p͡p	-	ə	l	-	ç	ə̃	-	-
+12982	Schachach......	ɛ	p͡f	-	-	l̩	-	-	-	-	-
+12989	Schauenstein...	ɛ	p͡f	-	ə	l	-	-	ə̜+	-	-
+12977	Schnepfenbach..	œ	p	f	ə	l	-	-	-	-	-
+12990	Schömberg......	ɛ̣	p͡f	-	ə̜	l	-	-	ɪ	-	-
+12953	Seelbach.......	ɛ	p͡f	-	ɪ̜	l	-	-	i̜	-	-
+12963	Siebenbach.....	ɛ	p	-	ə	l	t	ç	ə	-	-
+12973	Treffelstein...	e	p͡f	-	ə	l	-	-	-	-	-
+13004	Ulbering.......	ɛː	p͡f	-	ə̣+	-	-	-	-	-	-
+13001	Vielbrunn......	ɛ̣	p	-	-	l̩	-	ʃ	-	n̩	-
+12984	Volkershausen..	ø̜	p͡f	-	ə	l	-	-	-	-	-
+12954	Weidenbach.....	ɛ	p͡f	-	ə	l	-	-	-	-	-
+12976	Wemb...........	æ	p	-	ə	l	-	k͡x̰	ə	s	-
+12992	Weyhers........	æ	β	-	ə	l	-	r	eː	-	-
+12966	Wüllen.........	ɛ̜	p	-	ə	l̠	-	k	ə	z̠	-
+12985	Zellingen......	œ̣	p͡f	-	ə	l	-	-	ɪ	-	-

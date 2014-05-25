@@ -1,0 +1,65 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 18 ("alter") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6
+#
+0	CONSENSUS......	-	a̠	l	d	ə	-
+#
+2147	Adorf..........	-	ɑ̟	l̠	-	ɑ̟	-
+2136	Altentrüdin....	-	a̠	l	ð	ə	ɾ
+2145	Bempflingen....	-	a̠	l	d̪̰	ə	-
+2179	Billingsbach...	-	a̠	l	d	ə	ɾ
+2150	Brockhausen....	-	ɔ	l̠	-	ə̜	-
+2181	Bruch..........	-	a	l̠	n̩	-	-
+2154	Burgrieden.....	h	a	l	t	-	ɾ̩
+2161	Büdesheim......	-	ɑ̟ː	l	-	ə	ɾ
+2165	Docelles.......	-	a̠	l	d	ə˻	-
+2151	Eichenhofen....	-	ɔ	ɭ	tʰ	ə̠	-
+2149	Endenburg......	-	a̠	l͡t	-	ə	n
+2131	Engter.........	-	ɐ̠→ʊ	l	-	ə̜	-
+2163	Ensheim........	-	a	l	d	ə̜	-
+2152	Eschelbronn....	-	a̠	l	d	a̠	-
+2159	Gelting........	-	ɔ→ɪ	-	t͡θ	ə	-
+2135	Hartenstein....	-	ɔ	l	d̪̰	ə̜	-
+2141	Herrentrup.....	-	ɑʾː	l̠	d	ə	-
+2143	Horheim........	-	a	l	t	ə	-
+2173	Höchstädt(Don).	ɦ	ɑ̟͡ə̣	-	t	ə	ɾ
+2146	Iggingen.......	-	a	l	d̰	ə	ɾ
+2171	Igling.........	-	a	i	t	ə	ɾ
+2172	Igling.........	-	a	l	t	ə	ɾ
+2144	Iversheim......	-	ɑ	ɫ	-	-	-
+2166	Kemmern........	-	o̜	l	d	ə	-
+2132	Klafferstrass..	ɦ	ɔ	l	d	-	ɹ
+2167	Langenbruck....	ɦ	ɔ→ɪ	l	-	ə̜	-
+2134	Leuth..........	-	ɔ̜ː	-	-	ə	n
+2142	Lippramsdorf...	-	ɔ	l̠	-	ə̜	-
+2158	Maxweiler......	ɦ	ɒ̣	l	d	ə	-
+2170	Niederauerbach.	-	a̠ʾ	l	d	ə̜	-
+2175	Oberhomberg....	-	aː	l	t	ə	-
+2148	Obermaisel.....	-	ɒ	l̠ː	t	ɑʾ	-
+2133	Oberviehbach...	-	-	wʾ→ɪ	ð	ə̜	-
+2177	Oberwürzbach...	-	ɑ̟ː	l	t̪	ɐ	-
+2164	Orferode.......	-	ɔ̜ː	l̠	d	ə̰	ɾ
+2156	Ottowind.......	-	ɔ	l	d	ə	-
+2153	Pfaffenrot.....	-	a̠	l	d	ə̜	-
+2174	Pielenhofen....	-	ɒ̣	l	t	ə̟	ɾ̰
+2169	Pöttmes........	-	ɔ̣→ɪ	-	ð	ə	ɾ
+2176	Reelkirchen....	-	ɑː	l̠	-	ɐ	-
+2160	Schauenstein...	-	ɑ̣ʾ	l	d	ə	ɾ
+2157	Schnepfenbach..	-	ɔʿ	l	d̪	ə	ɹ
+2184	Schömberg......	-	a	l	t	ə	-
+2180	Seelbach.......	-	a	l	d̰	ə̜	-
+2139	Siebenbach.....	-	a̠	l	-	ə	-
+2182	Treffelstein...	-	ɑ̣ʾ	l	t	ə	ɾ
+2137	Ulbering.......	-	ɒ̣ː	l	t	ə	ɾ
+2168	Vielbrunn......	-	a̠	l	d	ə̜	-
+2178	Volkershausen..	-	ɑ̟	l	ð	ə	-
+2162	Weidenbach.....	-	ɑ̟	l	ð	ə	-
+2138	Wemb...........	-	ɑ̟ː	l̠	d	ə	n
+2155	Weyhers........	-	ɔ̜	l̠	-	ə	ɹ
+2183	Wüllen.........	-	o	l̠	-	ə	-
+2140	Zellingen......	-	a̠	l	d	ə	ɾ

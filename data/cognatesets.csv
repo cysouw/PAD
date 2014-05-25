@@ -1,0 +1,204 @@
+# Names of cognate sets, with indication of the original context
+#
+# The column COGNATE lists the names as used in the naming of the alignment files.
+# The columns COGNATE_ID lists the COGIDs as used in the file "words.csv".
+# e.g. /PAD/alignments/corrected/abend_1001.mca is a valid path to an alignment file.
+# All COGNATE_IDs starting from 1188 in the file "words.csv" do not have an alignment file
+# They occur only incidentally in the data (maximally 12 occurrences for "Zaterdag" and "Pfinztag")
+#
+# The column NUMBER_OF_WORDS lists how many words are available for in each alignment.
+# The column WENKER_ID lists the number of sentence in which this word occurs (cf. http://staff-www.uni-marburg.de/~naeser/wenker.htm).
+# The column WENKER_SENTENCE shows the original context in which the words occurred. 
+# Note that there are a few words that occur multiple times in the text.
+# We have no way to reconstruct which of these occurrences were selected in the phonetic transcription.
+# We have chosen one context here to represent each cognate set
+# Weekdays and numerals were collected separately, so when not present in the sentences, they are marked as NA.
+#
+COGNATE	COGNATE_ID	NUMBER_OF_WORDS	WENKER_ID	WENKER_SENTENCE
+#
+abend	1001	147	24	Als wir gestern Abend heim kamen, da lagen die anderen schon im Bett und waren fest eingeschlafen.
+acht	1002	182	NA	NA
+Aepfelchen	1003	189	26	Hinter unserem Hause stehen drei schöne Apfelbäume mit roten Äpfelchen.
+Affe	1004	185	11	Ich schlage dich gleich mit dem Kochlöffel um die Ohren, du Affe.
+alle	1005	177	38	Die Leute sind heute alle draußen auf dem Feld und mähen.
+als	1006	136	15	Du hast heute am meisten gelernt und bist artig gewesen, du darfst früher nach Hause gehen als die anderen.
+alte	1007	186	4	Der gute alte Mann ist mit dem Pferd auf dem Eis eingebrochen und in das kalte Wasser gefallen.
+anderen	1008	57	15	Du hast heute am meisten gelernt und bist artig gewesen, du darfst früher nach Hause gehen als die anderen.
+anfaengt	1009	116	3	Tu Kohlen in den Ofen, damit die Milch bald zu kochen anfängt.
+Apfelbaeume	1010	188	26	Hinter unserem Hause stehen drei schöne Apfelbäume mit roten Äpfelchen.
+auch	1011	181	9	Ich bin selber bei der Frau gewesen und habe es ihr gesagt, und sie sagte, sie wolle es auch ihrer Tochter sagen.
+auf	1012	166	2	Es hört gleich auf zu schneien, dann wird das Wetter wieder besser.
+Augenblick	1013	162	27	Könnt ihr nicht noch einen Augenblick auf uns warten? Dann gehen wir mit.
+auszutrinken	1014	155	16	Du bist noch nicht groß genug, um eine Flasche Wein allein auszutrinken, du musst erst noch wachsen und größer werden.
+bald	1015	166	3	Tu Kohlen in den Ofen, damit die Milch bald zu kochen anfängt.
+bauen	1016	188	33	Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
+Bauern	1017	185	37	Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
+bei	1018	185	9	Ich bin selber bei der Frau gewesen und habe es ihr gesagt, und sie sagte, sie wolle es auch ihrer Tochter sagen.
+beissen	1019	168	14	Mein liebes Kind, bleib hier unten stehen, die bösen Gänse beissen dich tot.
+Berge	1020	186	29	Unsere Berge sind nicht so hoch, die euren sind viel höher.
+besser	1021	187	2	Es hört gleich auf zu schneien, dann wird das Wetter wieder besser.
+bestellt	1022	178	20	Er tat so, als hätten sie ihn zum Dreschen bestellt (; sie haben es aber selbst getan).
+Blaetter	1023	185	1	Im Winter fliegen die trockenen Blätter in der Luft herum.
+bleib	1024	186	14	Mein liebes Kind, bleib hier unten stehen, die bösen Gänse beissen dich tot.
+boesen	1025	162	14	Mein liebes Kind, bleib hier unten stehen, die bösen Gänse beissen dich tot.
+braune	1026	184	39	Geh nur, der braune Hund tut dir nichts.
+Brot	1027	188	30	Wieviel Pfund Wurst und wieviel Brot wollt ihr haben?
+Bruder	1028	194	33	Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
+das	1029	179	2	Es hört gleich auf zu schneien, dann wird das Wetter wieder besser.
+deiner	1030	181	17	Geh, sei so gut und sag deiner Schwester, sie soll die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
+dich	1031	164	11	Ich schlage dich gleich mit dem Kochlöffel um die Ohren, du Affe.
+die	1032	338	1	Im Winter fliegen die trockenen Blätter in der Luft herum.
+Dienstag	1033	176	NA	NA
+Donnerstag	1034	178	NA	NA
+Dorf	1035	172	37	Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
+drei	1036	306	26	Hinter unserem Hause stehen drei schöne Apfelbäume mit roten Äpfelchen.
+Dreschen	1037	192	20	Er tat so, als hätten sie ihn zum Dreschen bestellt (; sie haben es aber selbst getan).
+du	1038	336	12	Wo gehst du hin? Sollen wir mitgehen (mit dir gehen)?
+duerft	1039	57	28	Ihr dürft nicht solche Kindereien treiben.
+durchgelaufen	1040	119	8	Die Füße tun mir weh, ich glaube, ich habe sie durchgelaufen.
+Durst	1041	187	23	Wir sind müde und haben Durst.
+Eier	1042	132	7	Er isst die Eier immer ohne Salz und Pfeffer.
+eingebrochen	1043	131	4	Der gute alte Mann ist mit dem Pferd auf dem Eis eingebrochen und in das kalte Wasser gefallen.
+eingeschlafen	1044	176	24	Als wir gestern Abend heim kamen, da lagen die anderen schon im Bett und waren fest eingeschlafen.
+eins	1045	189	NA	NA
+Eis	1046	187	4	Der gute alte Mann ist mit dem Pferd auf dem Eis eingebrochen und in das kalte Wasser gefallen.
+elf	1047	179	NA	NA
+erzaehlt	1048	178	21	Wem hat er die neue Geschichte erzählt?
+Feld	1049	165	38	Die Leute sind heute alle draußen auf dem Feld und mähen.
+fest	1050	124	24	Als wir gestern Abend heim kamen, da lagen die anderen schon im Bett und waren fest eingeschlafen.
+Feuer	1051	183	6	Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt.
+Fleisch	1052	176	19	Wer hat mir meinen Korb mit Fleisch gestohlen?
+fliegen	1053	179	1	Im Winter fliegen die trockenen Blätter in der Luft herum.
+Frau	1054	176	9	Ich bin selber bei der Frau gewesen und habe es ihr gesagt, und sie sagte, sie wolle es auch ihrer Tochter sagen.
+Freitag	1055	187	NA	NA
+fuenf	1056	237	37	Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
+fuer	1057	50	17	Geh, sei so gut und sag deiner Schwester, sie soll die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
+Gaense	1058	188	14	Mein liebes Kind, bleib hier unten stehen, die bösen Gänse beissen dich tot.
+Garten	1059	186	33	Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
+geblieben	1060	178	25	Der Schnee ist diese Nacht liegen geblieben, aber heute morgen ist er geschmolzen.
+gebracht	1061	164	37	Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
+gebrannt	1062	153	6	Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt.
+gefahren	1063	190	40	Ich bin mit den Leuten da hinten über die Wiese ins Korn gefahren.
+gefallen	1064	160	4	Der gute alte Mann ist mit dem Pferd auf dem Eis eingebrochen und in das kalte Wasser gefallen.
+gefunden	1065	177	32	Habt ihr kein Stückchen weiße Seife auf meinem Tisch gefunden?
+gekannt	1066	186	18	Hättest du ihn gekannt! Dann wäre es anders gekommen, und es täte besser um ihn stehen.
+gekommen	1067	173	18	Hättest du ihn gekannt! Dann wäre es anders gekommen, und es täte besser um ihn stehen.
+genug	1068	184	16	Du bist noch nicht groß genug, um eine Flasche Wein allein auszutrinken, du musst erst noch wachsen und größer werden.
+geschmolzen	1069	44	25	Der Schnee ist diese Nacht liegen geblieben, aber heute morgen ist er geschmolzen.
+gestern	1070	179	24	Als wir gestern Abend heim kamen, da lagen die anderen schon im Bett und waren fest eingeschlafen.
+gestohlen	1071	139	19	Wer hat mir meinen Korb mit Fleisch gestohlen?
+gestorben	1072	169	5	Er ist vor vier oder sechs Wochen gestorben.
+glaube	1073	173	8	Die Füße tun mir weh, ich glaube, ich habe sie durchgelaufen.
+gleich	1074	124	2	Es hört gleich auf zu schneien, dann wird das Wetter wieder besser.
+groesser	1075	186	16	Du bist noch nicht groß genug, um eine Flasche Wein allein auszutrinken, du musst erst noch wachsen und größer werden.
+gross	1076	182	16	Du bist noch nicht groß genug, um eine Flasche Wein allein auszutrinken, du musst erst noch wachsen und größer werden.
+gut	1077	113	17	Geh, sei so gut und sag deiner Schwester, sie soll die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
+Haeuser	1078	191	33	Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
+hat	1079	164	19	Wer hat mir meinen Korb mit Fleisch gestohlen?
+Hause	1080	181	15	Du hast heute am meisten gelernt und bist artig gewesen, du darfst früher nach Hause gehen als die anderen.
+heiss	1081	175	6	Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt.
+Herzen	1082	186	34	Das Wort kam ihm von Herzen.
+hoch	1083	186	29	Unsere Berge sind nicht so hoch, die euren sind viel höher.
+hoeher	1084	190	29	Unsere Berge sind nicht so hoch, die euren sind viel höher.
+hoert	1085	149	2	Es hört gleich auf zu schneien, dann wird das Wetter wieder besser.
+ich	1086	188	8	Die Füße tun mir weh, ich glaube, ich habe sie durchgelaufen.
+isst	1087	111	7	Er isst die Eier immer ohne Salz und Pfeffer.
+ist	1088	174	4	Der gute alte Mann ist mit dem Pferd auf dem Eis eingebrochen und in das kalte Wasser gefallen.
+ja	1089	106	6	Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt.
+kalte	1090	189	4	Der gute alte Mann ist mit dem Pferd auf dem Eis eingebrochen und in das kalte Wasser gefallen.
+kein	1091	156	32	Habt ihr kein Stückchen weiße Seife auf meinem Tisch gefunden?
+Kind	1092	127	14	Mein liebes Kind, bleib hier unten stehen, die bösen Gänse beissen dich tot.
+Kochloeffel	1093	179	11	Ich schlage dich gleich mit dem Kochlöffel um die Ohren, du Affe.
+Kohlen	1094	186	3	Tu Kohlen in den Ofen, damit die Milch bald zu kochen anfängt.
+Kuehe	1095	183	37	Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
+lauter	1096	162	31	Ich verstehe euch nicht, ihr müsst ein bisschen lauter sprechen.
+Leuten	1097	186	40	Ich bin mit den Leuten da hinten über die Wiese ins Korn gefahren.
+liebes	1098	186	14	Mein liebes Kind, bleib hier unten stehen, die bösen Gänse beissen dich tot.
+liegen	1099	174	25	Der Schnee ist diese Nacht liegen geblieben, aber heute morgen ist er geschmolzen.
+Luft	1100	185	1	Im Winter fliegen die trockenen Blätter in der Luft herum.
+machen	1101	176	17	Geh, sei so gut und sag deiner Schwester, sie soll die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
+Mann	1102	172	4	Der gute alte Mann ist mit dem Pferd auf dem Eis eingebrochen und in das kalte Wasser gefallen.
+meinem	1103	181	32	Habt ihr kein Stückchen weiße Seife auf meinem Tisch gefunden?
+Milch	1104	185	3	Tu Kohlen in den Ofen, damit die Milch bald zu kochen anfängt.
+mit	1105	139	4	Der gute alte Mann ist mit dem Pferd auf dem Eis eingebrochen und in das kalte Wasser gefallen.
+mitgehen	1106	174	12	Wo gehst du hin? Sollen wir mitgehen (mit dir gehen)?
+Mittwoch	1107	168	NA	NA
+Montag	1108	189	NA	NA
+muede	1109	187	23	Wir sind müde und haben Durst.
+muesst	1110	154	31	Ich verstehe euch nicht, ihr müsst ein bisschen lauter sprechen.
+muss	1111	131	22	Man muss laut schreien, sonst versteht er uns nicht.
+Mutter	1112	178	17	Geh, sei so gut und sag deiner Schwester, sie soll die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
+naehen	1113	119	17	Geh, sei so gut und sag deiner Schwester, sie soll die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
+neue	1114	188	21	Wem hat er die neue Geschichte erzählt?
+neun	1115	185	37	Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
+oben	1116	54	36	Was sitzen da für Vögelchen oben auf dem Mäuerchen?
+Ochsen	1117	189	37	Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
+Ofen	1118	186	3	Tu Kohlen in den Ofen, damit die Milch bald zu kochen anfängt.
+ohne	1119	191	7	Er isst die Eier immer ohne Salz und Pfeffer.
+Ohren	1120	127	11	Ich schlage dich gleich mit dem Kochlöffel um die Ohren, du Affe.
+Pfeffer	1121	188	7	Er isst die Eier immer ohne Salz und Pfeffer.
+Pfund	1122	185	30	Wieviel Pfund Wurst und wieviel Brot wollt ihr haben?
+recht	1123	160	35	Das war recht von ihnen!
+rot	1124	236	26	Hinter unserem Hause stehen drei schöne Apfelbäume mit roten Äpfelchen.
+Salz	1125	188	7	Er isst die Eier immer ohne Salz und Pfeffer.
+Samstag	1126	63	NA	NA
+Sonnabend	1142	110	NA	NA
+schlechte	1127	182	13	Das /es sind schlechte Zeiten.
+Schnee	1128	181	25	Der Schnee ist diese Nacht liegen geblieben, aber heute morgen ist er geschmolzen.
+schneien	1129	129	2	Es hört gleich auf zu schneien, dann wird das Wetter wieder besser.
+schoene	1130	165	26	Hinter unserem Hause stehen drei schöne Apfelbäume mit roten Äpfelchen.
+schwarz	1131	174	6	Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt.
+Schwester	1132	189	17	Geh, sei so gut und sag deiner Schwester, sie soll die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
+sechs	1133	357	5	Er ist vor vier oder sechs Wochen gestorben.
+Seife	1134	197	32	Habt ihr kein Stückchen weiße Seife auf meinem Tisch gefunden?
+sein	1135	167	33	Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
+selbst	1136	56	20	Er tat so, als hätten sie ihn zum Dreschen bestellt (; sie haben es aber selbst getan).
+sich	1137	122	33	Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
+sie	1138	163	9	Ich bin selber bei der Frau gewesen und habe es ihr gesagt, und sie sagte, sie wolle es auch ihrer Tochter sagen.
+sieben	1139	185	NA	NA
+so	1140	166	17	Geh, sei so gut und sag deiner Schwester, sie soll die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
+sollen	1141	150	12	Wo gehst du hin? Sollen wir mitgehen (mit dir gehen)?
+Sonntag	1143	196	NA	NA
+Stueckchen	1144	179	32	Habt ihr kein Stückchen weiße Seife auf meinem Tisch gefunden?
+Tisch	1145	177	32	Habt ihr kein Stückchen weiße Seife auf meinem Tisch gefunden?
+Tochter	1146	169	9	Ich bin selber bei der Frau gewesen und habe es ihr gesagt, und sie sagte, sie wolle es auch ihrer Tochter sagen.
+tot	1147	181	14	Mein liebes Kind, bleib hier unten stehen, die bösen Gänse beissen dich tot.
+treiben	1148	53	28	Ihr dürft nicht solche Kindereien treiben.
+tu	1149	145	3	Tu Kohlen in den Ofen, damit die Milch bald zu kochen anfängt.
+tut	1150	123	39	Geh nur, der braune Hund tut dir nichts.
+ueber	1151	179	40	Ich bin mit den Leuten da hinten über die Wiese ins Korn gefahren.
+um	1152	110	11	Ich schlage dich gleich mit dem Kochlöffel um die Ohren, du Affe.
+und	1153	181	4	Der gute alte Mann ist mit dem Pferd auf dem Eis eingebrochen und in das kalte Wasser gefallen.
+uns	1154	55	22	Man muss laut schreien, sonst versteht er uns nicht.
+unsere	1155	57	29	Unsere Berge sind nicht so hoch, die euren sind viel höher.
+unserem	1156	128	26	Hinter unserem Hause stehen drei schöne Apfelbäume mit roten Äpfelchen.
+unten	1157	169	14	Mein liebes Kind, bleib hier unten stehen, die bösen Gänse beissen dich tot.
+verkaufen	1158	186	37	Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
+versteht	1159	124	22	Man muss laut schreien, sonst versteht er uns nicht.
+viel	1160	170	29	Unsere Berge sind nicht so hoch, die euren sind viel höher.
+vier	1161	240	5	Er ist vor vier oder sechs Wochen gestorben.
+von	1162	192	34	Das Wort kam ihm von Herzen.
+vor	1163	107	5	Er ist vor vier oder sechs Wochen gestorben.
+wachsen	1164	186	16	Du bist noch nicht groß genug, um eine Flasche Wein allein auszutrinken, du musst erst noch wachsen und größer werden.
+waere	1165	100	18	Hättest du ihn gekannt! Dann wäre es anders gekommen, und es täte besser um ihn stehen.
+was	1166	55	36	Was sitzen da für Vögelchen oben auf dem Mäuerchen?
+Wasser	1167	178	4	Der gute alte Mann ist mit dem Pferd auf dem Eis eingebrochen und in das kalte Wasser gefallen.
+weh	1168	238	8	Die Füße tun mir weh, ich glaube, ich habe sie durchgelaufen.
+Wein	1169	129	16	Du bist noch nicht groß genug, um eine Flasche Wein allein auszutrinken, du musst erst noch wachsen und größer werden.
+weisse	1170	185	32	Habt ihr kein Stückchen weiße Seife auf meinem Tisch gefunden?
+wem	1171	159	21	Wem hat er die neue Geschichte erzählt?
+werden	1172	185	16	Du bist noch nicht groß genug, um eine Flasche Wein allein auszutrinken, du musst erst noch wachsen und größer werden.
+Wetter	1173	157	2	Es hört gleich auf zu schneien, dann wird das Wetter wieder besser.
+wieviel	1175	289	30	Wieviel Pfund Wurst und wieviel Brot wollt ihr haben?
+will	1176	107	33	Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
+Winter	1177	186	1	Im Winter fliegen die trockenen Blätter in der Luft herum.
+wo	1178	186	12	Wo gehst du hin? Sollen wir mitgehen (mit dir gehen)?
+Wochen	1179	185	5	Er ist vor vier oder sechs Wochen gestorben.
+wollt	1180	100	30	Wieviel Pfund Wurst und wieviel Brot wollt ihr haben?
+Wort	1181	184	34	Das Wort kam ihm von Herzen.
+Wurst	1182	191	30	Wieviel Pfund Wurst und wieviel Brot wollt ihr haben?
+zehn	1183	185	NA	NA
+Zeiten	1184	185	13	Das /es sind schlechte Zeiten.
+zum	1185	131	20	Er tat so, als hätten sie ihn zum Dreschen bestellt (; sie haben es aber selbst getan).
+zwei	1186	360	33	Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
+zwoelf	1187	233	37	Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.

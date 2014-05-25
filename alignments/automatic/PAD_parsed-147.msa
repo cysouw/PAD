@@ -1,0 +1,61 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 147 ("für") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3
+#
+0	CONSENSUS......	f	ʏ	-
+#
+23234	Altentrüdin....	f	ʏ͡ə	-
+23256	Bempflingen....	f	y	ɹ
+23243	Billingsbach...	f	ə̰	ɾ
+23255	Bruch..........	f	ɪ→ə̜	-
+23245	Burgrieden.....	f	ɪ→ə	-
+23260	Büdesheim......	pʰ	ʏʿ→ə̜	-
+23250	Docelles.......	p	ʏ→ə	-
+23276	Eichenhofen....	f	ɨ	ʁ
+23241	Engter.........	f	o→ə̜	-
+23258	Ensheim........	f	ʌ	-
+23246	Eschelbronn....	f	ʏ→ɐ	-
+23271	Gelting........	f	ʏ͡ə	-
+23231	Hartenstein....	f	ɪ→ə̜	-
+23264	Horheim........	f	əʾ	-
+23247	Höchstädt(Don).	f	ʏ	ɾ
+23267	Iggingen.......	f	ʏ	ɾ̰
+23232	Igling.........	f	ʏ	-
+23262	Iversheim......	ɸ	yʿ	-
+23263	Kemmern........	f	ʏ→ə	-
+23273	Klafferstrass..	f	ɪʾ	-
+23229	Leuth..........	f	ə	ʔ
+23248	Lippramsdorf...	f	ə̜	-
+23254	Maxweiler......	f	ï͡ə	-
+23228	Niederauerbach.	f	ə	-
+23251	Oberau.........	f	yː	ʁ
+23252	Oberau.........	f	ʏʿ	ɾ
+23253	Oberhomberg....	f	ɪ̠	ʁ̰
+23238	Obermaisel.....	f	ø	ɾ
+23230	Oberviehbach...	f	ɪ̜	-
+23275	Oberwürzbach...	f	ɔ	ʁ
+23249	Orferode.......	f	ɛ	ɾ
+23236	Ottowind.......	f	ə	-
+23268	Pfaffenrot.....	f	ə	-
+23240	Pielenhofen....	f	ɪ→ə	-
+23265	Pöttmes........	f	ɪ̣	ɾ
+23261	Schachach......	f	ə	-
+23242	Schauenstein...	f	ɪ̣͡ə	ɾ
+23272	Schnepfenbach..	f	ɪ̠͡ə	-
+23227	Schömberg......	f	ɪ̠	ɾ
+23239	Seelbach.......	f	ɪ˻	-
+23257	Siebenbach.....	f	ʏ→ə̰	-
+23259	Treffelstein...	f	ɪ→ə	-
+23270	Ulbering.......	ɸ	ʏ	-
+23244	Vielbrunn......	f̰	ɪ̰→ə̰	-
+23269	Volkershausen..	f	ʏ͡ə	-
+23237	Weidenbach.....	f	y	ɾ
+23233	Wemb...........	v	œ	ə̜
+23235	Weyhers........	ɸ	ɪ→ə̜	-
+23266	Wüllen.........	f	œ	ɾ
+23274	Zellingen......	f	ʏ	ɾ̰

@@ -1,0 +1,66 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 192 ("heisse") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4
+#
+0	CONSENSUS......	ɦ	ɐ→ɪ	s	-
+#
+29896	Adorf..........	ɦ	ɛ̜→ɪ	tʰ	ə
+29912	Altentrüdin....	ɦ	ɔ̣͡ə̰	s	-
+29937	Bempflingen....	ɦ	ɔ→ɪ	s	ə
+29904	Billingsbach...	ɦ	ɑ̟ː	s	-
+29916	Brockhausen....	ɦ	ɤ→ɪ	t	ə
+29899	Burgrieden.....	ɦ	ɐ→ɪ	z	ə̟
+29900	Büdesheim......	ɦ	a̠ː	s	-
+29936	Docelles.......	ɦ	ɑ̟	s	-
+29931	Eichenhofen....	ɦ	o→ɐ̟	s	-
+29920	Endenburg......	ɦ	ɐ→ɪ	z	ə
+29901	Engter.........	ɦ	ɛ̣→ɪ	t	n̩
+29927	Ensheim........	ɦ	ɒʿː	s	-
+29894	Eschelbronn....	ɦ	ɐ̠→ɪ	s	ə̟
+29944	Gelting........	h͡ɦʾ→ɔ̣→ə̜	-	s	ə̟
+29919	Hartenstein....	ɦ	ɑ̣̃ː	s	ə̟̃
+29908	Herrentrup.....	ɦ	ɔ→ə̣	d	n̩
+29895	Horheim........	ɦ	ɐ→ɪ	z	-
+29932	Höchstädt(Don).	ɦ	ɔ̈→ɪ	s	n̩
+29938	Iggingen.......	ɦ	ɔ→ɪ	z	ə
+29915	Igling.........	ɦ	ɐ̠→ɪ	z͡s	-
+29935	Iversheim......	ɦ	e̜ː	s̠	ə
+29924	Kemmern........	ɦ	ɑː	s	-
+29939	Klafferstrass..	ɦ	ɔ̜→ɐ	s͡s	ə
+29909	Langenbruck....	ɦ	ɐ→ɪ	s	ə̟
+29917	Leuth..........	ɦ	eː	t	ə
+29929	Lippramsdorf...	ɦ	e̜	t̪	ə
+29928	Maxweiler......	ɦ	ɔ͡ə	s	ə̟
+29910	Niederauerbach.	ɦ	ɐ→ɪ	s	-
+29933	Oberau.........	h	o̜→ɐ	s	e
+29934	Oberau.........	ɦ	o̜→a̠	z	ə̟
+29940	Oberhomberg....	ɦ	ɔ→ɪ	s	-
+29921	Obermaisel.....	ɦ	ɐ→ɪ̣	s̠ː	-
+29941	Oberviehbach...	h	ɔ→ə̜	s	ɪ
+29907	Oberwürzbach...	ɦ	ɐ→ɪ	s̠	-
+29898	Orferode.......	ɦ	ɛ̣→ɪ	z	ə
+29906	Ottowind.......	ɦ	ɛː	s	-
+29914	Pfaffenrot.....	ɦ	ɐ̠→ɪ	s̠	ə̟
+29913	Pielenhofen....	ɦ	ɔ̣→ə̜	s	-
+29911	Pöttmes........	ɦ	ɔ→ə̜	s	-
+29918	Reelkirchen....	ɦ	ɤ̜→ɪ	tʰ	ə
+29942	Schachach......	ɦ	ɔ̜→ɐ	s	ə̟
+29902	Schauenstein...	ɦ	ɑ̟ː	z͡s	ạ
+29945	Schnepfenbach..	ɦ	ɐ̠→ɪ	z	n̩
+29893	Schömberg......	ɦ	ɔ→ɐ	s	-
+29905	Seelbach.......	h	a→ɪ	s	-
+29922	Siebenbach.....	ɦ	ɛː	s	ə
+29947	Treffelstein...	ɦ	ɔ̣→ɐ	s	ə̣
+29946	Ulbering.......	ɦ	ɔ→ɐ	s	ə̣+
+29903	Vielbrunn......	ɦ	ɑ̟ː	s	-
+29925	Volkershausen..	ɦ	ɛ̣͡ɪ	s	-
+29923	Weidenbach.....	ɦ	ɔ̜ː	s	-
+29926	Wemb...........	ɦ	ɛ	tʰ	ə
+29943	Weyhers........	ɦ	æ̣→ɪ	s	-
+29897	Wüllen.........	ɦ	eː	tʰ	ə
+29930	Zellingen......	ɦ	ɛ	s	ə

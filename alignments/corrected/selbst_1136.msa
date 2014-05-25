@@ -1,0 +1,69 @@
+# collection : 44 ("selbst") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+# modified   : 2013-11-30 22:09 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : some strings are "selber", the "r" is put in a different column 10
+# modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+#
+:ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10
+#
+:ANN	STANDARD.......	s	e	l	.	b	.	.	s	t	.
+:ANN	COMPLEX........	.	.	.	.	<	>	.	.	.	.
+#
+6251	Adorf..........	z	œʿ	l	-	β	-	ə̜	-	-	-
+6283	Altentrüdin....	s	ɛ	l	-	β	-	ə	-	-	ɾ̥͡ɕ
+6236	Bempflingen....	s	ɛ	l	-	b	-	ə˻	-	-	-
+6240	Billingsbach...	s	ɛ	l	-	β	-	ə	-	-	ɾ̰
+6269	Brockhausen....	s	ɛ̠	l	-	β	-	ə̜	-	-	-
+6259	Bruch..........	s	ɛ̣	l	ə	β	-	ɐ	-	-	-
+6273	Burgrieden.....	s	ɛ	l	-	ɸ	-	-	s	-	-
+6274	Büdesheim......	s	ɛ̠	l̠	-	p	-	-	s	-	-
+6241	Docelles.......	s	ɛ̜	l̠	-	p̰	-	-	s	-	-
+6285	Endenburg......	s	a	l	-	β	-	ə	-	-	-
+6286	Endenburg......	s	a	l̠	-	b	-	ə	-	-	-
+6260	Engter.........	s	ʏ	l	-	b	m̩	-	-	-	-
+6257	Ensheim........	s	ɛ	l	-	ɸ	-	-	ʃ	-	-
+6280	Eschelbronn....	s	e̜	l	-	β	-	ɐ	-	-	-
+6268	Gelting........	s	ɛ	l	-	β	-	ə	-	-	-
+6261	Hartenstein....	s	œʿ	l	-	β	-	ə̜	-	-	-
+6234	Herrentrup.....	s	ɯ̣ː	-	-	w	-	-	z	-	-
+6247	Horheim........	s	ɛ	l	-	p	-	ə̜	-	-	-
+6278	Höchstädt(Don).	s	ɛ→ɪ	-	-	p	-	ə	-	-	-
+6248	Iggingen.......	s	æ̣	l	-	β	-	ə	-	-	-
+6264	Igling.........	s	e̜	l	-	b	-	-	-	-	ɾ̩
+6238	Iversheim......	s̟	ɛ	l̠	-	-	-	əʾ	ʃ̫	-	-
+6239	Iversheim......	s̟	ɛ	l̠	ɐ	β	-	e̠	-	-	-
+6258	Kemmern........	s	ɛ	l	-	p̰	-	-	s	-	-
+6276	Klafferstrass..	s͡z	œ̣	l	-	β	-	ə	-	-	-
+6246	Langenbruck....	s	ɛ	l̰	-	β	-	ə̜	-	-	-
+6245	Leuth..........	s	ɛ̜	l̠	ə	f	-	-	-	-	-
+6242	Lippramsdorf...	θ	æ̠	l̠	-	ɸ	-	-	s	-	-
+6243	Lippramsdorf...	s	ɔ	l̠	-	f	-	-	s	-	-
+6265	Maxweiler......	s	ɛ	-	-	β	-	ə	-	-	-
+6275	Niederauerbach.	s	ɛ	l	-	β	-	ə̜	-	t	-
+6267	Oberau.........	s	ɛʾ	l̰	-	β	-	ə̜	-	-	-
+6282	Oberhomberg....	s	ɛ̜	l̠	-	p	-	ə	-	-	ʁ̰
+6249	Obermaisel.....	s	ɛ	ɭ	-	-	-	-	-	-	-
+6253	Oberviehbach...	z	ɛ̠→ə̣	-	-	β	-	ə	-	-	-
+6233	Oberwürzbach...	s	ɛ̠	l	-	β	-	əʾ	-	-	-
+6250	Orferode.......	s	ạ̠	l̠	-	β	-	ə̰	-	-	ɾ̰
+6237	Ottowind.......	s	ɐ̟	l	-	β	-	ə	-	-	-
+6281	Pfaffenrot.....	s	ɛ	l	-	β	-	ə̜	-	-	-
+6244	Pielenhofen....	s	ɛʾ	l̜	-	β	-	ə	-	-	-
+6277	Pöttmes........	s͡z	œ̣	l̰	-	β	-	ə	-	-	-
+6252	Reelkirchen....	s	y̜	-	-	m	p̰	-	s	-	-
+6271	Schachach......	s	ə̜	-	-	b	ɦ	ə	-	-	-
+6272	Schauenstein...	s	ɛ	l	-	β	-	ə	-	-	ɾ
+6231	Schnepfenbach..	s	ɛ	l̰	-	p	-	-	ʃ	t	-
+6232	Schömberg......	s	ɛ	l̠	-	β	-	ə	-	-	-
+6263	Seelbach.......	z	ɛ	l	-	β	-	ə	-	-	-
+6279	Siebenbach.....	s	ɛʾ	l	ə̰	v	-	ə	-	-	-
+6254	Treffelstein...	s	ɛ	l̜	-	ɸ	-	-	s	-	-
+6270	Ulbering.......	s	ɛ	-	-	β	-	ə̟	-	-	-
+6266	Vielbrunn......	s	ɛ	l	-	β	-	ɛ	-	t	-
+6262	Volkershausen..	s	ɛ	l	-	β	-	ə˻	-	-	-
+6284	Weidenbach.....	s	ɛ̠	l̰	-	β	-	ə	ʔ	-	-
+6255	Weyhers........	s	æ	l	-	β	-	ə	-	-	ɹ
+6235	Wüllen.........	s	œ̠	-	-	β	-	ə	z̠	-	-
+6256	Zellingen......	s	æ	l	-	β	-	ə	-	-	-

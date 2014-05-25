@@ -1,0 +1,64 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 6 ("treiben") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6	7
+#
+0	CONSENSUS......	t	ɾ	-	ɐ→ɪ	β	-	-
+#
+704	Adorf..........	d	ʀ	-	ɛ̣→ɪ	v	ə̠	th
+696	Altentrüdin....	t	ɾ	-	ɐ̠→ɪ	β	ə	-
+703	Bempflingen....	d	ɾ	-	ə̜→ɪ	b	ə	t̪ʰ
+688	Billingsbach...	d̪	ɾ	-	ɐ→ɪ	β	ə	-
+665	Brockhausen....	d	r	-	ọ→ɪʾ	β	ə	th
+670	Bruch..........	t	ʁ	-	ɐ→ɪ	β	ə	n
+684	Burgrieden.....	ð	ɾ	-	ə̟→ɪ	β	ə	tʼ
+664	Büdesheim......	t	ɾ	-	ɐʾ→ɪ	β	ə	-
+681	Docelles.......	t	ɾ	-	ɐ→ɪ	β	ə	-
+698	Eichenhofen....	t	ɾ	-	ạ→ɪ	b̰	-	m̩
+685	Endenburg......	ð	ɾ	-	i̜ː	β	ə	-
+689	Engter.........	d̪	ɾ	-	ɪ̣ː	β	ə	th
+674	Ensheim........	t̪	ɾ	-	ɐ̠→ɪ	β	ə	n
+675	Ensheim........	t̪	ɾ	-	ɐ̠→ɪ	β	-	n̩
+691	Eschelbronn....	d	ʁ	-	ɐ→ɪ	β	ə̟	-
+702	Gelting........	t	ɾ	-	ɐ→ɪ	m	-	-
+667	Hartenstein....	t	ɾ̰	-	ɐ→ɪ	m̩	-	-
+700	Herrentrup.....	d	ʁ	-	ʊ→ə̣	β	ə	t
+663	Höchstädt(Don).	t	ɾ	-	ɐ̠→ɪ	b	-	m̩
+680	Iggingen.......	d	ɾ	-	ɛ̠→ɪ	β	ə	t
+682	Igling.........	t	ɾ	-	ɛ̣̠→ɪ	ɸ͡β	ə	th
+661	Iversheim......	d	ɹ	-	i̠ː	p͡f	ə̰ʾ	-
+683	Kemmern........	t	r	-	ɐ→ɪ	b̰	-	m̩
+662	Klafferstrass..	t	ɾ	-	ɐ̟→ɪ	m̩	-	-
+690	Langenbruck....	ð	ɾ	-	ɐ→ɪ	m̩	-	-
+673	Leuth..........	d	ʁ	-	ɪ̣ː	f͡v	ə	-
+695	Lippramsdorf...	d	ɾ	-	ɪː	f	-	th
+692	Maxweiler......	t	ɾ	-	ɛ̠͡e̠	b̰	-	n̩
+697	Niederauerbach.	t	r	-	ɐ→ɪ	β	ə	-
+654	Oberau.........	t	ɾ	-	ɛ→ɪ	b̰	-	m
+655	Oberau.........	t	ɾ	-	ɛ̠→ɪ	m̩	-	-
+701	Obermaisel.....	t̪	ɾ	-	iː	v	ə̣ʾ	th
+653	Oberviehbach...	d	ɾ	-	ɐ→ɪ	m̩	-	-
+686	Oberwürzbach...	d	ʁ	-	ɛ→ɪ	ɒ	əʾ	-
+669	Orferode.......	t	r	-	i̜ː	b	-	m̩
+677	Ottowind.......	t	ɾ	-	ɐ→ɪ	b	-	m̩
+687	Pfaffenrot.....	ð	ɾ	-	ɐ→ɪ	β	ə	tʰ
+671	Pielenhofen....	t	ɾ	-	ɐ̟→ɪ	m̩	-	-
+676	Pöttmes........	t̪	ɾ	-	ɐ→ɪ	m̩	-	-
+699	Reelkirchen....	t	ʁ	ʊ̣	ə	β	ə	tʰ
+657	Schachach......	t	r	-	ɐ̟→ɪ	m	-	-
+658	Schauenstein...	t	r	-	ʌ→ɪ	m	-	-
+672	Schnepfenbach..	ð	ɾ	-	ɐ̠→ɪ	m	-	-
+656	Schömberg......	t	ɾ	-	ə→ɪ	b	ə	tʰ
+678	Seelbach.......	t	ʁ	-	ə̰͡i	β	ə	-
+693	Siebenbach.....	t	r	-	ɐ̜→ɪ	v	ə	m̰
+679	Treffelstein...	t̪	ɾ	-	ɐ→ɪ	b̰	-	m̩
+659	Ulbering.......	t	ɾ	-	a̠→ə̣+	m̩	-	t̪
+694	Vielbrunn......	t	ɾ	-	ɐ̜→ɪ	β	ə	-
+660	Weidenbach.....	ð	ɾ	-	æ→ɪ	m	-	-
+668	Weyhers........	t	r	-	ɪ̣ː	β	ə	-
+705	Wüllen.........	d	ɾ	-	ɪ̣ː	β	-	th
+666	Zellingen......	t	r	-	ɐ→ɪ	β	ə	-

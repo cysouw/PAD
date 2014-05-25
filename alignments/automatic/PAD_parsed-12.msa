@@ -1,0 +1,70 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 12 ("dreschen") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6	7	8	9	10
+#
+0	CONSENSUS......	-	-	t	ɾ	ɛ	-	ʃ	-	ə	-
+#
+1548	Adorf..........	-	-	d	-	ɪ̣→ə̜+	-	ʃ	ɡ	ɪ	n
+1549	Adorf..........	-	-	t	-	ɪ→ə	-	ʃ	k	-	ŋ̩
+1533	Altentrüdin....	-	-	t	ɾ	ɛ	-	ʒ	-	ə	-
+1589	Bempflingen....	-	-	t	ɾ	ɛ	-	ʒ	-	ə	-
+1584	Billingsbach...	-	-	d̪	ɾ	ɛ	-	ʃ	-	ə	-
+1581	Brockhausen....	-	-	d	-	ɪ→ə̜+	-	s	k	-	ŋ̩
+1580	Bruch..........	-	-	t	ʁ	ɛː	-	ʃ	-	ə	-
+1542	Burgrieden.....	-	-	d	ɾ	ɛ	-	z̠̰	-	ə̜+	-
+1554	Büdesheim......	-	-	t̰	ɾ	ɛ̠	-	ʃ̠	-	ə	-
+1585	Docelles.......	-	-	t	ɾ	ɛ	-	ʒ	-	ə	-
+1577	Eichenhofen....	-	-	d	ɾ	ɛ	-	ʃ	-	-	n̩
+1550	Endenburg......	ɡ	ə	t	ɾ	œ͡ə	-	ʒ	-	ə	-
+1551	Endenburg......	-	-	t	r	œ	-	ʒ	-	ə	-
+1537	Engter.........	-	-	d	-	a̠	-	s̠	k	ə	n
+1559	Ensheim........	-	-	t̪	ɾ	œ	-	ʒ	-	ə	-
+1564	Eschelbronn....	-	-	t	ʁ	ɛ	-	ʃ̠	-	ə	-
+1578	Gelting........	-	-	t	ɾ	ɛ̣	-	ʃ	-	-	ŋ̩
+1567	Hartenstein....	-	-	θ	ʁ	ẹ	-	ʃ͡ʒ	-	-	ŋ̩
+1561	Herrentrup.....	-	-	d	-	ɛ	-	s	k	ə	n
+1543	Horheim........	k	ə̟	t	ʁ	ə→ɪ	-	ʃ̠	-	ə	-
+1573	Höchstädt(Don).	-	-	d	ɾ	ɛ	-	ʃ	-	ə	-
+1538	Iggingen.......	-	-	t	ɾ	ɛ	-	ʒ	-	ə	-
+1546	Igling.........	-	-	t	ɾ	e̜̠	-	ʃ	-	ə	-
+1535	Iversheim......	-	-	t	ɹ	ɛ→ɪ	-	ʃ	-	ə̣	-
+1570	Kemmern........	-	-	t	ɾ	ɛ̠	-	ʃ	-	-	ŋ̩
+1571	Kemmern........	-	-	t	ɾ	ɛ̠	-	ʃ	-	-	n̩
+1587	Klafferstrass..	-	-	t	ɾ	e̜	-	ʃ	-	-	n̩
+1590	Langenbruck....	-	-	d	ɹ	e͡ẹ	-	ʃ	-	-	ŋ̩
+1539	Leuth..........	-	-	d	-	ɔ	ʀ̥	s̠	-	ə	-
+1586	Lippramsdorf...	-	-	dʼ	-	æ→ə̜	-	s	k	ə	ŋ
+1583	Maxweiler......	-	-	t	ɾ	ɛ̃	ə	ʃ	-	ə	-
+1547	Niederauerbach.	-	-	t	r	e̜	-	ʃ	-	ə	-
+1541	Oberau.........	-	-	t	ɾ	ɪ	-	ʃ	-	-	n̩
+1536	Oberhomberg....	-	-	t	ʁ	e̜	-	ʃ̠	-	ə	-
+1568	Obermaisel.....	-	-	t	ɹ	ɛ	-	ɕ	-	ə	-
+1588	Oberviehbach...	-	-	t	ɾ	ẹ	-	ʃ	-	-	n̩
+1545	Oberwürzbach...	-	-	t	ʁ	œʿ	-	ʃ	-	ə	-
+1576	Orferode.......	-	-	t	r	a̠	-	ʃ	-	-	n̩
+1560	Ottowind.......	-	-	θ	ɾ	ʌ̜	-	ʃ	-	-	-
+1579	Pfaffenrot.....	-	-	t	ɾ	ɛ	-	ʒ	-	ə	-
+1572	Pielenhofen....	-	-	t	ɾ	ɛ	-	ʃ	-	-	ŋ̩
+1563	Pöttmes........	-	-	d̪	ɾ	e̜	-	ʃ	-	-	ŋ̩
+1582	Reelkirchen....	-	-	d	-	ɛ	-	s	k	ə	n̰
+1544	Schachach......	-	-	t	ɾ	e̜	-	ʃ	-	-	n̩
+1569	Schauenstein...	-	-	t	ɾ	ɛ̜	-	ʒ	-	-	n̩
+1562	Schnepfenbach..	-	-	ð	ɾ	ɛ	-	ʃ	-	ə	ŋ
+1534	Schömberg......	ɡ	ə̟	t	ɾ	e	-	ʃ	-	ə	-
+1565	Seelbach.......	-	-	t	ʁ	œʿ	-	ʃ̬	-	-	-
+1566	Siebenbach.....	-	-	t	ʁ	æ̣	-	ʃ	-	ə	-
+1556	Treffelstein...	-	-	t	ɾ	e	-	ʃ	-	-	n̩
+1555	Ulbering.......	-	-	ð	ɾ	e͡ẹ	-	ʃ	-	-	ŋ̩
+1552	Vielbrunn......	-	-	t	ɾ	ɛ	-	ʒ	-	ə	-
+1557	Volkershausen..	-	-	ð	ɾ	œ	-	ʃ	-	-	-
+1540	Weidenbach.....	-	-	ð	ɾ	ɛ̠	-	ʃ	-	-	ŋ̩
+1553	Wemb...........	-	-	d	-	ɔ̜ʿ	-	s̠	-	ə	-
+1558	Weyhers........	-	-	t	r	a	-	ʒ	-	ə	-
+1574	Wüllen.........	-	-	d	-	œ̜	-	s̠	k	ə	n
+1575	Wüllen.........	-	-	d	ɾ	ɛ	-	s	ɣ	ə	n
+1591	Zellingen......	-	-	t	r	ɛ	-	ʃ	-	ə	-

@@ -1,0 +1,190 @@
+# collection : 10 ("austrinken") 
+# collection : 194 ("trinken")
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+# modified   : 2013-11-30 11:33 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : reflexes of "ausgetrunken" are moved back into here, separated at the top, columns 7+8 are "ge"
+# comment    : reflexes of "saufen" removed
+# comment    : column 4+5 are "zu". Reflexes separated at top. Most do not have this
+# comment    : errors corrected in alignment @JML
+# comment    : alignments of 194 "trinken" (without "aus") added to this alignment, they are separated at the bottom
+# comment    : some of collection 10 "austrinken" actually didn't have any "aus", so they are moved to the bottom
+# comment    : no merger for -en recommended, this is otherwise too loose, so let's keept this separated @JML
+# modified   : 2013-12-27 by Johann-Mattis List <mattis.list@uni-marburg.de>
+#
+:ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16
+#
+:ANN	STANDARD.......	.	.	au	s	z	u	g	e	t	r	i	n	k	.	e	n
+:ANN	COMPLEX........	.	.	.	.	.	.	.	.	.	.	.	.	<	>	.	.
+:ANN	IGNORE.........	x	x	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+#
+# "ausgetrunken"
+#
+1309	Helmers........	-	-	u̟ʿ	s	-	-	k	ə	t	ʁ	e̜	ŋ	kh	-	-	-
+1313	Unterellen.....	-	-	ɯ	s	-	-	ɡ	ə	d	ɾ	ɛ	ŋ	k̰	-	-	-
+#
+# "getrunken"
+#
+1335	Hönebach.......	-	-	-	-	-	-	k	ə	t	ʁ	æʾ	ŋ̩	kʼ	-	-	-
+30183	Orferode.......	-	-	-	-	-	-	ɣ	ə	t̪	r	e̜̠	ŋ	ɡ	-	ə	-
+30175	Ottowind.......	-	-	-	-	-	-	ɣ	ə	t̪	ɾ	i̜	ŋ	kʰ	-	-	-
+30137	Volkershausen..	-	-	-	-	-	-	ɣ	ə	θ͡ð	ɾ	ɪ	ŋ	c	ç̰	-	-
+30180	Weyhers........	-	-	-	-	-	-	ɣ	ə	d	r	ɛ̠	ŋ	kʰ	-	-	-
+30149	Zellingen......	-	-	-	-	-	-	k	ə	d	r	ɪ	ŋ	k	-	-	-
+#
+# "auszutrinken"
+#
+1331	Ballhausen.....	-	-	ɯː	s	ç	ə	-	-	t	ʁ	ɪ̜	ŋ	k	-	ə	-
+1284	Cursdorf.......	-	-	a→ʊʿ	z	j	ə̣	-	-	t	ʁ	ɪ̜	ŋ	kʰ	-	ə̟	-
+1257	Mörshausen.....	-	-	ʏ̠ʿ	s	ç	e̠	-	-	t	ʁ	ɛ̠	ŋ	ɡ	-	-	n̩
+1341	Osterhagen.....	-	-	u̜	d	-	ə	-	-	d	ʁ	ɪ̜	ŋ	kʰ	-	ə̟	n
+1286	Warpe..........	-	-	ʊ̣	tʰ	-	ʊ̣	-	-	d	ʁ	ɪ̜	ŋ	k	-	-	ŋ̩̥
+1345	Wasbek.........	-	-	ʊ	tʰ	-	ʊ̜	-	-	t	ɾ	ɪ	ŋ	k	-	-	ŋ̩
+#
+# "austrinken"
+#
+1307	Aachen.........	-	-	ʊ̣ː	s	-	-	-	-	t	ʁ	ɪ̠	ŋ	k	-	ə	-
+1308	Ahrbergen......	-	j	u	t	-	-	-	-	t	ʁ̟	ɪ	ŋ	k̟͡x̟	-	ə	n
+1322	Albersloh......	-	-	u	-	-	-	-	-	t	ɾ	ɪ	ŋ	kh	-	ɪ	n̥
+1259	Altenberg......	-	-	ʌ→ɯ̟	s	-	-	-	-	d	ʁ	ɪ	ŋ	-	-	-	ŋ̩
+1249	Altlandsberg...	-	-	ɐ→ʊ	s	-	-	-	-	t	ʁ	ɪ̜	n̰	ʔ	-	-	ŋ̩
+1274	Astfeld........	-	-	ʊʿ→ɪ	-	-	-	-	-	t	ʁ	ɪ̠	ŋ	ɣ	-	ə	-
+1252	Bennin.........	-	-	u̜	-	-	-	-	-	t	ɾ	ɪ̜̃	ŋ	-	-	-	ŋ̩
+1248	Bockelwitz.....	-	-	a̠→ɯ	s	-	-	-	-	t	ʁ	ɪ̜	ŋ	ʔ	-	-	n̩
+1281	Borstendorf....	-	-	ạ→ɤ̟→ə	s	-	-	-	-	t	ʁ	ɪ	ŋ	ʔ	-	-	ŋ̩̥
+1279	Breddin........	-	-	u̜	-	-	-	-	-	d	ɾ	ɪ	ŋ	ʔ	-	-	ŋ̩
+1299	Brelingen......	-	-	u̜	-	-	-	-	-	t	r	ɪ	ŋ	ɦ	-	-	ŋ̩
+1264	Bremscheid.....	ɪ	j	u̟ʿ	-	-	-	-	-	t	ɾ	ɪ	ŋ	kʰ	-	ə̣	n̥
+1319	Clausthal(Zf)..	-	-	a̠→ʊ̜	s	-	-	-	-	t̪	ʁ	ɪ̠	ŋ	ʔ	-	-	ŋ̩
+1311	Dexbach........	-	-	ɐ̟→ʊ	s	-	-	-	-	θ	ɾ	ɛ̣	ŋ	ɡ	-	ə	-
+1283	Diekhusen......	-	-	ʊ̣	-	-	-	-	-	t	ɾ	eː	ŋ	ʔ	-	-	ŋ̩
+1275	Dreeke.........	-	-	uʿ	-	-	-	-	-	t͡t	r	ɪ	ŋ	kʰ	-	ə̣̰	n
+1243	Ebstorf........	-	-	ʊ̣	-	-	-	-	-	t	ɾ	ɪ	n	ʔ	-	-	ŋ̩
+1325	Einöllen.......	-	-	a→ʊ	s̠	-	-	-	-	t	ɹ	ɪ	ŋ	ɡ͡j	-	ɛ̠	-
+1261	Eversen........	-	-	ɯ̟	-	-	-	-	-	t	ɾ	ɪ̜	ŋ	ʔ	-	-	ŋ̩
+1306	Falkenthal.....	-	-	ʊ	-	-	-	-	-	t	ɾ	ɪ̃	ŋ	ʔ	-	-	ŋ̩
+1339	Freden.........	-	-	œʿ→ʊ̟	-	-	-	-	-	t͡t	ɾ	ɪ	ŋ	k	-	ə	n
+1292	Frohnhausen....	-	-	ɐ→ʊ	s	-	-	-	-	θ	ɾ	ɪ̠	ŋ	ɡ	-	ə	-
+1343	Gerbstedt......	-	-	a̠→ɯ	s	-	-	-	-	t	ʁ	ɪ	ŋ	ɡ	-	ə	n
+1280	Gornsdorf......	-	-	a̠→ɯ	s	-	-	-	-	t	ʁ	ẹ	ŋ	-	-	-	ŋ̩
+1305	Gottsbüren.....	-	-	ʊ	-	-	-	-	-	t	ʁ	ɪ	ŋ	k	-	-	ŋ̩͡ŋ̥
+1260	Gresenhorst....	-	-	ʊʿ	-	-	-	-	-	t	ɾ	ẹ	n	ʔ	-	-	ŋ̩
+1315	Grossenwiehe...	-	-	u̜	-	-	-	-	-	t	ɹ	ɪ̜	ŋ	ʔ	-	-	n̩͡n̥
+1266	GrossJamno.....	-	-	ɑ̟→ʊ	s	-	-	-	-	t	ʁ	ɪ̜	ŋ	ʔ	-	-	ŋ̩
+1278	GrossMohrdorf..	-	-	ʊ̣	-	-	-	-	-	t̪	ɾ	ɛ̣	ŋ̩	-	-	-	-
+1340	Grosswechsungen	-	-	u̜ʿ	s̟	-	-	-	-	d	ʁ	e	ŋ	k̟	-	ɐ̠̤̃	-
+1262	Grünlichtenberg	-	-	a̠→ɯ	s	-	-	-	-	t	ʁ	ɪ	ŋ	-	-	-	ŋ̩
+1273	Grünow.........	-	-	ʊ	-	-	-	-	-	d̪	ɾ	ɪ	ŋ	ʔ	-	-	ŋ̩
+1288	Götz...........	-	-	u	-	-	-	-	-	t	r	ɪ	ŋ	k	-	ɛ	n
+1310	Haddorf........	-	-	ʊʿ	-	-	-	-	-	d	ɾ	ɪ̠	ŋ͡ʔ	-	-	-	ŋ̩
+1312	Hagen..........	-	-	ʊ	t	-	-	-	-	d	ɾ	ĩ̜	ŋ̩	-	-	-	-
+1265	Hammah.........	-	-	u	ʔ	-	-	-	-	t	ɾ	ɪ̜	ŋ	ʔ	-	-	ŋ̩
+1301	Hartenfels.....	-	-	ɐ→ʊ	s	-	-	-	-	t	ɾ	ɛ	ŋ	k͡j̟	-	ɪ	n
+1324	Herbornseelbach	-	-	ɐ→ʊ	s	-	-	-	-	t	ɾ	ɪ	ŋ	ɡ	-	ə	-
+1285	Hermannsreuth..	-	-	ʌ̟̃ː	s	-	-	-	-	θ	ɹ	ɪ	ŋ	k	-	-	n̩
+1314	Herssum........	-	-	uʿ	t	-	-	-	-	d	ɾ	ɪ̜	ŋ	kh	-	ə̟	n
+1294	Herzfeld.......	-	-	ʊ	-	-	-	-	-	t͡t	ɹ	ɪ	-	ʔ	-	-	ŋ̩
+1317	Hohwacht(Os)...	-	-	ʊ̣	-	-	-	-	-	t͡d	r	ɪ	ŋ	ʔ	-	-	ŋ̩
+1327	Holmkjer.......	-	-	uʿ	t	-	-	-	-	t	ɾ	ẹ	ŋ	k	-	-	ŋ̩
+1333	Huddestorf.....	-	-	u	-	-	-	-	-	t	ɾ	ɪ̜	ŋ͡ɡ	-	-	ə̣	n
+1290	Hundisburg.....	-	-	ʊ̣	-	-	-	-	-	t	ʁ	ɪ̜	ŋ	k	-	ə̣	n
+1302	Jacobsdorf.....	-	-	uː	-	-	-	-	-	t	ɾ	ɪ̜	ŋ	kʰ	-	ɛ	-
+1287	Jeetzel........	-	-	u̜	-	-	-	-	-	t	ʁ	ɪ̠	-	ɡ	-	-	ŋ̩
+1277	Jesteburg......	-	-	ʊ̣	-	-	-	-	-	t	ɾ	ɪ̠	ŋ	k	-	-	ŋ̩
+1298	Jonsdorf.......	-	-	a̠→ɯ	s	-	-	-	-	t	ɾ	ɪ̜	ŋ	-	-	-	ŋ̩
+1326	Jürgenshagen...	-	-	u	ʔ	-	-	-	-	d	ɾ	ɪ	ŋ	ʔ	-	-	ŋ̩͡ŋ̥
+1316	KirchKogel.....	-	-	u	-	-	-	-	-	t	ɹ	ɪ	ŋ	ʔ	-	-	ŋ̩
+1330	Kuhstedt.......	-	-	u̜	-	-	-	-	-	t	r̥	ɪ	ŋ	ʔ	-	-	ŋ̩̥
+1320	Köln...........	-	-	oː	s	-	-	-	-	ð	ʁ	e	ŋ	x	-	ə	-
+1344	Lampertswalde..	-	-	a→ɯ̟	s	-	-	-	-	t	ʁ	ɪ̜	ŋ	-	-	-	ŋ̩
+1332	Landgrafroda...	-	-	ɐ̟→ɯ	s	-	-	-	-	t	ʁ	ɪ̣	ŋ	k	-	əʾ	-
+1269	Lippen.........	-	-	ɐ→ʊ̟	s	-	-	-	-	t	ʁ	ɪ	ŋ	-	-	-	ŋ̩
+1247	Lohrhaupten....	-	-	ɐ̜→ʊ	s	-	-	-	-	t	ɾ	ɪ̣	ŋ	ɡ	-	ə	-
+1289	Mastershausen..	-	-	ə̜→ʊ	s	-	-	-	-	t	ɾ	ɪ	ŋ	ɡ	-	ə	-
+1256	Mirow..........	-	-	ʊ	-	-	-	-	-	t	ɾ	ẹ	-	ʔ	-	-	ŋ̩
+1250	Mockern........	-	-	ɐ→ɤ̣	s	-	-	-	-	t	ʁ	ɛ̜	ŋ	ɡ	-	ə̟	-
+1293	NeuSchadow.....	-	-	ɐ→o̟	s	-	-	-	-	t̪	ɹ	ɪ	-	ʔ	-	-	ŋ̩
+1276	Niederasphe....	-	-	ɐ→ʊ	s	-	-	-	-	θ	ɾ	e̜	ŋ	k	-	ə	-
+1338	Niedernhausen..	-	-	ɐ→ʊ	s	-	-	-	-	t	ʁ	ɪ̣	ŋ	ɡ	-	ə	-
+1246	Odenspiel......	-	-	uː	s	-	-	-	-	t	ɾ	ɛ̣	ŋ	kh	-	-	n̩
+1271	Offdilln.......	-	-	ɐ→ʊ	s	-	-	-	-	t	r	e	ŋ	k	-	ə	-
+1321	Ohrdorf........	-	-	u	-	-	-	-	-	t	ʁ	ɪ	ŋ	ɦ	-	-	ŋ̩
+1282	Oiste..........	-	-	u̜	-	-	-	-	-	t	ɾ	ɪ̜	ŋ	ʔ	-	-	ŋ̩
+1245	Osterbruch.....	-	-	ʊ̣	-	-	-	-	-	t	r	eː	ŋ	ʔ	-	-	ŋ̩̥
+1329	Osterfeld......	-	-	a̠→ọʿ	s̟	-	-	-	-	t̪	ʁ	ɪ̠	ŋ	ʔ	-	-	ŋ̩
+1318	Peterskirchen..	-	-	ɐ→ʊ	s	-	-	-	-	t	ɹ	ɪ	ŋ	ɡ	-	ɐ̣	-
+1323	Pretzsch(El)...	-	-	ɐ̣→ɤ̜	s	-	-	-	-	tʰ	ʁ	ɪ	ŋ	ʔ	-	-	ŋ̩
+1244	Rammenau.......	-	-	a̠→oʿ	s	-	-	-	-	t	r	ɪ̜	n	ʔ	-	-	ŋ̩
+1253	Ramsau(Berch)..	-	-	a̠→ʊ̜	s	-	-	-	-	d	ɾ	ɪ̜̃	ŋ	k͡x	-	-	ŋ̩
+1328	Reetz..........	-	-	uː	-	-	-	-	-	t͡t	ʁ	ɪ̜	ŋ	k	-	ə	-
+1297	Rosenthal......	-	-	ɐ→ʊ	s	-	-	-	-	t	ʁ	ɛ	ŋ	ɡ	-	ə	-
+1267	Rossau.........	-	-	ʊ̣	-	-	-	-	-	t	ʁ	ẹ̃ː	-	ʔ	-	-	ŋ̩
+1303	Rosswein.......	-	-	ɤʾ→ɯ	s	-	-	-	-	t	ʁ	ɪ	ŋ	-	-	-	ŋ̩
+1270	Schellroda.....	-	-	ɯː	s	-	-	-	-	t	ʁ	e	ŋ	k	-	ə̟	-
+1295	Schmannewitz...	-	-	a→ɯ	s	-	-	-	-	t̩̪	ʁ	ɪ	ŋ	ʔ	-	-	ŋ̩
+1268	Schönbeck......	-	-	ʊ	-	-	-	-	-	t	ʁ	ẹ	-	k	-	-	ŋ̩
+1263	Theuma.........	-	-	a→ɯ̜	s	-	-	-	-	t	ʁ	ɪ	ŋ	ʔ	-	-	ŋ̩̥
+1342	Verchen........	-	-	u	ʔ	-	-	-	-	t	ɾ	ẽ	-	ʔ	-	-	ŋ̩
+1255	Vietmannsdorf..	-	-	u	-	-	-	-	-	t̪	ɾ	ẹ	ŋ	k	-	-	ŋ̩
+1304	Wehrsdorf......	-	-	ʌ→ɯ̜ʾ	s	-	-	-	-	θ	ɻ	ɪ̣	ŋ	ʔ	-	-	n̩
+1272	Wentorf(Sand)..	-	-	u̜	-	-	-	-	-	t	ɹ	ɪ	ŋ	ʔ	-	-	ŋ̩
+1336	Wernigerode....	-	-	ʊ	-	-	-	-	-	d	ɾ	ɪ	ŋ	k	-	ə̥	n̥
+1291	Wieda..........	-	-	uː	s̠	-	-	-	-	tʰ	ɹ	ɪ	ŋ	kʰ	-	ə	-
+1254	Wildpoldsried..	-	-	ɒʿ→ʊ	s	-	-	-	-	d	ɾ	ɪ	n	k͡x	-	ɑ	-
+1300	Wittelsberg....	-	-	ɐ→ʊ	s	-	-	-	-	ð	ɾ	ʏ	ŋ	ɡ	-	ə	-
+#
+# "trinken"
+# 
+30171	Adorf..........	-	-	-	-	-	-	-	-	d̰	ʁ	ɛ→ɪ	ŋ	k͡ɡ	-	ə	n
+1337	Allna..........	-	-	-	-	-	-	-	-	t	ɾ	e̜	ŋ	ɡ	-	ə	-
+30145	Altentrüdin....	-	-	-	-	-	-	-	-	d	ɾ	ɪ̣	ŋ	ɡ	-	ə	-
+30155	Bempflingen....	-	-	-	-	-	-	-	-	t̪	ɾ	ɪ̜	ŋ	ɡ	-	ə	-
+30130	Billingsbach...	-	-	-	-	-	-	-	-	t	ɾ̥	ɪ	ŋ	ɡ	-	ə̜	-
+30161	Brockhausen....	-	-	-	-	-	-	-	-	d	r	ɪ	ŋ	k	-	ə	n
+30144	Bruch..........	-	-	-	-	-	-	-	-	t	ʁ	ɪ	ŋ	kʼ	-	ə	n
+30131	Burgrieden.....	-	-	-	-	-	-	-	-	ð	ɾ	ɪ̜	ŋ	k	-	ə	ɾ̥
+30168	Büdesheim......	-	-	-	-	-	-	-	-	t	ɾ	ɪ	ŋ	ɡ	-	ə̜	-
+30173	Docelles.......	-	-	-	-	-	-	-	-	d	ɾ	ɛʾ	ŋ	ɡ	-	ə	-
+30152	Eichenhofen....	-	-	-	-	-	-	-	-	t	ɾ	i̜	ŋ	k	-	ɐ	-
+30151	Endenburg......	-	-	-	-	-	-	-	-	ð	ɾ	i̜	ŋ	k	ɦ	ə	-
+30178	Engter.........	-	-	-	-	-	-	-	-	d̪	ɾ	ɪ	ŋ	k	-	ə	n
+30164	Ensheim........	-	-	-	-	-	-	-	-	t̪	ɾ	ɪ	ŋː	ɡ	-	ə	-
+30132	Eschelbronn....	-	-	-	-	-	-	-	-	t	ʁ	ɪ	ŋ	ɡ	-	ə	-
+30165	Gelting........	-	-	-	-	-	-	-	-	t	ɾ	i̜	ŋ	ɣ	-	ə̜	-
+30166	Gelting........	-	-	-	-	-	-	-	-	θ	ɾ	i̜	ŋ	ɣ	-	ə̜	-
+30162	Hartenstein....	-	-	-	-	-	-	-	-	θ	ɹ̰	ɪ̣̃	ŋ	k̰	-	-	ŋ̩
+30174	Herrentrup.....	-	-	-	-	-	-	-	-	d̪	ʁ	ɪ̣	ŋ	k	-	ə	n̰
+30170	Horheim........	-	-	-	-	-	-	-	-	t	ʁ	ɪ	ŋ	k	χ	ə	-
+30177	Höchstädt(Don).	-	-	-	-	-	-	-	-	t	ɾ	ɪ	ŋ	ŋ̩	-	-	-
+1251	Hohenkörben....	-	-	-	-	-	-	-	-	d	ɾ	ɪ̣	ŋ	k	-	-	ŋ̩
+30176	Iggingen.......	-	-	-	-	-	-	-	-	t̪	ɾ	ɪ̜	ŋ	ɡ	-	ə̜	-
+30172	Igling.........	-	-	-	-	-	-	-	-	t	ɾ	ɛ̣	ŋ	k͡x	-	ə̜	-
+30142	Iversheim......	-	-	-	-	-	-	-	-	d	ɹ	ẹ	ŋː	kʰ	-	ə	-
+30143	Iversheim......	-	-	-	-	-	-	-	-	t	ɹ	ʏ	ŋː	kʰ	-	ʏ̠ʿ	-
+30146	Kemmern........	-	-	-	-	-	-	-	-	t	ɾ	ɪ̣	ŋ	-	-	-	-
+30182	Klafferstrass..	-	-	-	-	-	-	-	-	t	ɾ	ɪ	ŋ	-	-	ə	-
+30134	Langenbruck....	-	-	-	-	-	-	-	-	d	ɾ	ɪ	ŋ	-	-	ə̜	-
+30181	Leuth..........	-	-	-	-	-	-	-	-	d	ʁ	e̜	ŋ	k	-	ə	-
+30136	Lippramsdorf...	-	-	-	-	-	-	-	-	d	ʁ	e̜	ŋ	ɡ	-	-	ŋ̩
+30147	Maxweiler......	-	-	-	-	-	-	-	-	θ	x̰	ɪ	ŋ	ɡ	-	ə	-
+30133	Niederauerbach.	-	-	-	-	-	-	-	-	t	r	ɪ	ŋ	ɡ	-	ə	-
+30140	Oberau.........	-	-	-	-	-	-	-	-	t	ɾ	ɪ	ŋ	ɣ	-	a	-
+30179	Oberhomberg....	-	-	-	-	-	-	-	-	t	ʁ	ɪ	ŋ	k	-	ə	-
+30135	Obermaisel.....	-	-	-	-	-	-	-	-	t̪	ɾ	ɪ	ŋ	k̰͡x	-	ə	-
+30167	Oberviehbach...	-	-	-	-	-	-	-	-	t	ɾ	ɪ	ŋ	-	-	ə	-
+30139	Oberwürzbach...	-	-	-	-	-	-	-	-	t	ʁ	ẹ	ŋ	ɡ͡j̰	-	ə	-
+30157	Pfaffenrot.....	-	-	-	-	-	-	-	-	d	ɾ̰	ɪ	ŋ	ɡ	-	ə̜	-
+30158	Pielenhofen....	-	-	-	-	-	-	-	-	t	ɾ	ɪ	ŋ	k͡x̰	-	ə	-
+30150	Reelkirchen....	-	-	-	-	-	-	-	-	d	ʁ	ɪ	ŋ	k	-	ə	n̰
+30141	Schachach......	-	-	-	-	-	-	-	-	t	ɾ	ɪ	ŋ	ɡ	-	ə̜	-
+30138	Schauenstein...	-	-	-	-	-	-	-	-	t	ɾ	ɪ̣	ŋ	k	-	-	ŋ̩
+30169	Schnepfenbach..	-	-	-	-	-	-	-	-	d	ɾ	ɪ̣	ŋ	c͡ç	-	-	-
+30154	Schömberg......	-	-	-	-	-	-	-	-	t	ɾ	ɪ	ŋ	k	-	ə̜	-
+30156	Seelbach.......	-	-	-	-	-	-	-	-	t	ʁ	ɛ	ŋ	k	-	ə	-
+30163	Siebenbach.....	-	-	-	-	-	-	-	-	d	ʁ	ɪ̣	ŋ	k	-	ə	-
+30184	Treffelstein...	-	-	-	-	-	-	-	-	t	ɾ	ɪ	ŋ	k	-	ə̜	-
+30153	Vielbrunn......	-	-	-	-	-	-	-	-	t	ɾ	ɪ̣	ŋ	ɡ	-	ə	-
+30160	Weidenbach.....	-	-	-	-	-	-	-	-	ð	ɾ	ɪ̣	ŋ	ŋ̩	-	-	-
+30159	Wemb...........	-	-	-	-	-	-	-	-	d	ɾ	ɛ	ŋ	k	-	ə	-
+30148	Wüllen.........	-	-	-	-	-	-	-	-	d̪	ɾ	ɪ	ŋ	k	-	-	ŋ̩

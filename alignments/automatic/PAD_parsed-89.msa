@@ -1,0 +1,65 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 89 ("oben") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6	7	8
+#
+0	CONSENSUS......	-	-	oː	-	β	-	-	-
+#
+13252	Adorf..........	-	-	ʊ→ɔʿ	-	β	ə	n	-
+13276	Altentrüdin....	-	-	ɔ̣	-	β	ə	n	-
+13265	Bempflingen....	-	-	oː	-	b	ə̰	-	-
+13255	Billingsbach...	-	-	ɔ̜	-	β	ə̰	-	-
+13273	Brockhausen....	-	-	ʊ→ɔ	-	b	-	m̩	-
+13278	Bruch..........	-	-	o	-	β	ə	n	t̰
+13251	Burgrieden.....	-	-	oː	-	b	-	n̩	-
+13261	Büdesheim......	-	-	ɔ̣	-	β	ə	-	-
+13267	Docelles.......	-	-	o	-	β	ə	-	-
+13293	Eichenhofen....	-	-	oː	-	m	-	-	-
+13256	Endenburg......	-	-	o̜	-	β	ə	n	-
+13259	Engter.........	-	b	ʊ͡o	-	b	-	m̩	-
+13254	Ensheim........	-	-	o	-	β	ə	-	-
+13283	Eschelbronn....	-	-	o	-	β	ə	-	-
+13263	Gelting........	t	ɾ	o͡ʊ	-	m	-	-	-
+13250	Hartenstein....	-	-	o̜	-	b̰	-	m̩	-
+13244	Herrentrup.....	-	b	ɔ̣ʿː	-	b̰	-	m̩	-
+13274	Horheim........	-	-	o	-	b	ə	n	-
+13269	Höchstädt(Don).	t	ɾ	o̜	-	p	-	-	-
+13253	Iggingen.......	-	-	oː	-	β	ə	-	-
+13295	Igling.........	-	-	oː	-	b	-	-	-
+13243	Iversheim......	-	-	ɔʿ	-	β	ə	-	-
+13277	Kemmern........	-	-	ọː	-	m	-	-	-
+13258	Klafferstrass..	-	-	õ	-	m	-	-	-
+13246	Langenbruck....	-	-	oː	-	b	-	m̩	-
+13289	Leuth..........	-	b	ʊ→ɔ	-	v	ə	n	-
+13285	Lippramsdorf...	-	b	ʊ→ɔ̣+	-	b̰	-	m̩	-
+13248	Maxweiler......	-	-	o̜	-	β	ə	-	-
+13260	Niederauerbach.	-	-	o	-	β	ə	-	-
+13287	Oberau.........	t	ɾ	o	-	m	-	-	-
+13275	Oberhomberg....	-	-	o	-	p	ə	-	-
+13270	Obermaisel.....	-	-	oʿ	-	m	œʿ→ɪ̰	-	-
+13257	Oberviehbach...	-	-	o̜ː	-	m	-	-	-
+13281	Oberwürzbach...	-	-	o	-	β	ə̰	-	-
+13288	Orferode.......	-	-	uː	-	β	-	n̩	-
+13290	Ottowind.......	-	-	u̜ː	-	b̰	-	m	-
+13249	Pfaffenrot.....	-	-	o̜	-	β	ə̜	-	-
+13264	Pielenhofen....	-	-	oː	-	m	-	-	-
+13245	Pöttmes........	-	-	oː	-	b̰	-	m̩	-
+13292	Reelkirchen....	-	b	oː	-	b̰	-	m̩	-
+13268	Schachach......	-	-	oː	-	m	-	-	-
+13262	Schauenstein...	-	-	uː	m	p	-	-	-
+13242	Schnepfenbach..	-	-	oː	-	b	-	m̩	-
+13291	Schömberg......	-	-	oː	-	β	ə	n	-
+13294	Seelbach.......	-	-	o̜ː	-	β	ə	-	-
+13272	Treffelstein...	-	-	o̜	-	m	-	-	-
+13247	Ulbering.......	-	-	oː	-	b	-	m̰	-
+13286	Vielbrunn......	-	-	o	-	β	ə	-	-
+13271	Volkershausen..	-	-	ə→ʊ	-	β	ə	-	-
+13280	Weidenbach.....	-	-	ɔ̣	-	m	-	-	-
+13284	Wemb...........	-	b	o̜ʿ͡ʊ	-	w	ə	n	-
+13279	Weyhers........	-	-	o̜ː	-	β	ə	-	-
+13266	Wüllen.........	-	b	ɔ	-	v	ə	n	-
+13282	Zellingen......	-	-	o̟͡ʊ	-	β	ə	-	-

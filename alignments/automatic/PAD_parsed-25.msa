@@ -1,0 +1,67 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 25 ("schlechten") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6	7
+#
+0	CONSENSUS......	ʃ	l	ɛ	ç	t	ə	-
+#
+3104	Adorf..........	ʃ̫	l	ɛ̜	ç	t̰	ə	-
+3111	Altentrüdin....	ʃ	ɬ	ɛ	ç	t	ə	-
+3155	Bempflingen....	ʃ͡ʒ	l	ɛ͡ə̜	ç̠	t	ə	-
+3103	Billingsbach...	ʃ	l	ɛ	ç	t	ə̣	-
+3144	Brockhausen....	ʃ	l	ɛ	ç	t	ə	-
+3107	Bruch..........	ʃ	l	ɛ	ʃ	-	-	-
+3124	Burgrieden.....	ʒ	l	ɛː→ə	χ	t	ə̟	-
+3131	Büdesheim......	ʃ̠	l	ɛ̠ː	ʃ̠	t	ə	-
+3147	Docelles.......	ʃ	l	e̜͡ɪ̜	ɕ	t	ə	-
+3108	Eichenhofen....	ʃ	l	æː	ç	t	ə̣	-
+3140	Endenburg......	ʒ͡ʃ	l	a	χ	t	i̜	-
+3141	Endenburg......	ʒ͡ʃ	l	aː	χ	t	i̜	-
+3142	Endenburg......	ʒ	l	a	χ	t	ị	-
+3135	Ensheim........	ʃ	l	ɛ	ʃ̠	ð̰	ə	-
+3121	Eschelbronn....	ʃ	l	e	ç	t	ə̟	-
+3116	Gelting........	ʃ	l	ɛ	ç	t	ə	-
+3136	Hartenstein....	ʃ	l	ɛː	ç	t	ə̣	-
+3149	Herrentrup.....	ʃ̠	l	ɛ̠	ç	t	ə	-
+3158	Höchstädt(Don).	ʃ	l	ɛ	ç	t	ə̣	-
+3152	Iggingen.......	ʃ	l	ɛ	x̟	t	ə̟	-
+3115	Igling.........	ʒ	l	œʿ	χ	t	ə	-
+3118	Iversheim......	ʃ	l	æː	ç	t	ə	-
+3125	Kemmern........	ʃ	l	ɛ	ç	t	ə̜	-
+3126	Klafferstrass..	ʃ	l	ɛ	ç	-	-	-
+3110	Langenbruck....	ʃ	l	ɛ	j̰	t	-	n̩
+3145	Leuth..........	ɬ	l	æ̠→ɪ	-	t	-	n̩
+3119	Lippramsdorf...	ʃ̟	ɬ͡l	ɛ̜	ç	t	ə	-
+3117	Maxweiler......	ʃ̟	l̟	e͡ɪ	ç	t	-	n̩
+3138	Niederauerbach.	ʃ̟	l	eː	ʃ̟	t	ə	-
+3113	Oberau.........	ʃ	l	ɛ͡e	ç	t	ə̣	-
+3114	Oberau.........	ʒ	l	ɛ͡e	j	t	ə̣	-
+3134	Oberhomberg....	ʒ	l	ɛ͡ə	-	t	ə̣	-
+3133	Obermaisel.....	ʃ̠	l	ɛ̜	χ	t	ə	-
+3112	Oberviehbach...	ʃ̟	l	ɛ	ç	t	-	n̩
+3123	Oberwürzbach...	ʃ̠	l	ɛ	ç	t̪	ə	-
+3139	Orferode.......	ʃ̠	l	a̠ː→ɪ̜	j̰	t	-	n̩
+3148	Ottowind.......	ʃ	l	ɑ̟	χ	t	-	n̩
+3146	Pfaffenrot.....	ʃ	l	ɛː	ç	t	ə̟	-
+3143	Pielenhofen....	ʃ	l	ɛ	ç	t	ə̟	-
+3137	Pöttmes........	ʒ	l	ɛ→ə̜	j̰	t̪	ə̟	-
+3127	Reelkirchen....	ʃ	l	ɛ	ç	tʰ	ə	-
+3109	Schachach......	ʃ͡ʒ	l	ɛ	ç	t	ə̟	-
+3154	Schauenstein...	ʃ̫	l	ɛ	ç	t	ə̜	-
+3153	Schnepfenbach..	ʃ	l	ɑ̟	x	t	ə	-
+3157	Schömberg......	ʃ	l	ɛ→ə̜	-	t	ə̣	-
+3122	Seelbach.......	ʃ	l	ɛ͡ɪ	ç	θ̰	ə	-
+3151	Siebenbach.....	ʃ	l	eː	ç	t	ə	-
+3105	Treffelstein...	ʃ	l	ɛ̣	ç	t	ə̣	-
+3106	Ulbering.......	ʃ	l	eː	ç	t̪	ə̣+	-
+3130	Vielbrunn......	ʃ	l	ɛ	ɕ	t	ə	-
+3150	Volkershausen..	ʃ͡ʒ	l	ɑ̟	x	t̰	ə	-
+3120	Weidenbach.....	ʃ	l	ɛ	ç	t	ə	-
+3128	Wemb...........	s̠	l	ɛː	ç̠	t	ə	-
+3129	Weyhers........	ʃ	l	æ	ç	θ	ə	-
+3156	Wüllen.........	s̠	l̠	ɛ͡ə	x̟	tʰ	ə̟	-
+3132	Zellingen......	ʃ	l	ɑ̟	ʀ̥	t	ɪ	-

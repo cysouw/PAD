@@ -1,0 +1,62 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 127 ("böse") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5
+#
+0	CONSENSUS......	p	eː	-	z	ə
+#
+19811	Adorf..........	p	ɐ→ɪ	-	ʒ̟	ə
+19789	Altentrüdin....	b	eː	-	s	ə
+19782	Bempflingen....	p	ɐ̟→ɪ	-	z	ə
+19799	Billingsbach...	b	ɛː	-	s	ə
+19801	Brockhausen....	b	oʿ→ɪ	-	z	ə
+19821	Bruch..........	p	i̜̠ː	-	s	-
+19816	Burgrieden.....	p	ɐ→ɪ	-	z̠	ə̟
+19812	Büdesheim......	p	ɪ̣̠ː	-	s	ə
+19825	Docelles.......	p	ɪ̣ː	-	z	ə
+19786	Eichenhofen....	b	æ̜→ɪ	-	z	i̠
+19783	Endenburg......	b	œ	-	z	ə
+19820	Engter.........	b	ɔ→ɪ	-	z̠	ə
+19785	Ensheim........	b	e͡ø	-	z	ə
+19791	Eschelbronn....	p	øː	-	z̠	ə̟
+19792	Gelting........	p	ɛ̣ː	-	z	ə
+19824	Hartenstein....	b	œʿ→ɪ	-	z	ə̟
+19807	Herrentrup.....	b	ɔ→ɪ	-	z̠	ə
+19805	Horheim........	b	øː	-	z̠	ə
+19779	Höchstädt(Don).	p	ɛ̜	-	s	ə
+19818	Iggingen.......	p	ɛ→ɐ	-	z	ə
+19796	Igling.........	p	ɛ→ə̜	-	s	ə
+19823	Kemmern........	p	ø	-	z	ə̜
+19827	Klafferstrass..	p	øʿː	-	s̠	ə
+19822	Langenbruck....	p	eː	-	s	ə
+19813	Lippramsdorf...	b	ø̜ː	-	z	ə
+19814	Maxweiler......	p	eː	-	s͡z	ə
+19794	Niederauerbach.	p	e͡ɪ	-	s	ə
+19808	Oberau.........	p	ɛ→a	-	z	e
+19809	Oberau.........	p	e̜→ə̜	-	z	ə
+19784	Oberhomberg....	p	ɛː	-	z	ə
+19817	Obermaisel.....	p	e	ə̜	z͡s	ə
+19806	Oberviehbach...	p	eː	-	z	ə
+19797	Oberwürzbach...	b	eː	-	z	ə
+19795	Orferode.......	b	e̠ː	-	z	ə
+19802	Pfaffenrot.....	p	eː	-	z̠	ə̟
+19798	Pielenhofen....	p	æ̠→ɪ	-	s	ə̟
+19826	Pöttmes........	b	ɛ̣→ə̜	-	z	ə̟
+19787	Reelkirchen....	b	ɤ̜→ɪ	-	z	ə
+19803	Schachach......	b	e̠	-	s	ə
+19804	Schauenstein...	p	ẹː	-	z	ə
+19788	Schnepfenbach..	b	œ̣͡œ̜	-	s͡z	ə
+19781	Schömberg......	p	ɐ→ɪ	-	z	ə
+19780	Seelbach.......	b	ɛʾː	-	z	ə
+19828	Siebenbach.....	p	yː	-	s	-
+19778	Treffelstein...	p	ɐ→ɪ	-	s	ə̟
+19800	Ulbering.......	p	e̠	-	z	ə
+19810	Vielbrunn......	p	ɛ→ɪ	-	z	ə
+19819	Volkershausen..	p	œ̜ː	-	z	ə
+19793	Weyhers........	pʰ	øː	-	z	ə
+19790	Wüllen.........	b	øː	-	z̠	ə
+19815	Zellingen......	p	ø̜ː	-	s	ə

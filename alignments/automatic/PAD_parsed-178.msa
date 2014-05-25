@@ -1,0 +1,68 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 178 ("dürft") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6	7	8
+#
+0	CONSENSUS......	t	-	ɛ→ə̜	-	f	-	t	-
+#
+27719	Adorf..........	t	ʁ	ɔʿ	-	β	ə	d	-
+27751	Altentrüdin....	t	-	ɛ	ɹ	f	-	t	-
+27774	Bempflingen....	t	-	ɛ̠	ɾ	v	ə	t	-
+27724	Billingsbach...	t	-	ɛ̠	-	f	-	t	-
+27750	Brockhausen....	t	r	ʏ̣	-	β	ə	t	-
+27726	Bruch..........	t	-	ọ→ə̜	-	f	-	th	-
+27759	Burgrieden.....	d	-	ɛ̠→ə̜	-	v	ə	t	-
+27766	Büdesheim......	t	-	e̠→ə̰	-	f	-	t	-
+27748	Docelles.......	t	-	ɛ→ə̜	-	f	-	t	-
+27760	Eichenhofen....	t	-	ɨ→ə	-	f	-	t̰͡s	-
+27722	Endenburg......	t	-	ø̜	-	v	-	t	-
+27763	Engter.........	d̪	-	ʏ̣ː→ə̜	-	β	ə	t	-
+27736	Ensheim........	d	-	ʌ	-	v	-	n̩	-
+27771	Eschelbronn....	d	-	ɪ̠→ə̜	-	f	-	tʼ	-
+27731	Gelting........	t	-	ɛ˻	-	f	s	θ	s
+27732	Gelting........	t	-	ɛ˻	-	f	-	θ	s
+27773	Hartenstein....	t	-	eʾ	-	f	-	t	-
+27767	Herrentrup.....	t	ʁ	y̜ː	-	b	-	-	-
+27741	Horheim........	d	-	ø̜→ə̜	-	ɸ	ə	t	-
+27738	Höchstädt(Don).	t	-	ʏ͡ə	-	f	ə	n	-
+27752	Iggingen.......	t	-	ɛ̠	r	v	ə	t	-
+27718	Igling.........	d	-	ɛ̠	ɾ	f	ə	t	-
+27772	Iversheim......	t	-	u̜ʿ+	-	ʃ	-	th	-
+27729	Kemmern........	t	-	ɛ̣→ə	-	f	-	t	-
+27725	Klafferstrass..	t	-	e̜→ɐ	-	f	-	t	-
+27735	Langenbruck....	d	-	e͡ə	-	f	-	t͡s	-
+27761	Leuth..........	d	-	ɔ̣	ʁ	f	-	-	-
+27737	Lippramsdorf...	d	-	ʏ→ə	-	f	-	t	-
+27740	Maxweiler......	t	-	ɛ͡ə	-	f	ə	n	-
+27765	Niederauerbach.	d	-	ɛ→ə̜	-	f	ə	-	-
+27753	Oberau.........	t	-	ɛ˻	-	f	-	t͡s	-
+27754	Oberau.........	t	θ	ɛ͡ə	-	f	-	θ	s
+27720	Oberhomberg....	t	-	œʿ	-	f	ə	t	-
+27770	Obermaisel.....	t	-	ɛ̠	ɹ	f	ɪ	d	-
+27743	Oberviehbach...	t	-	ɛ→ə̜	-	f	-	t̪͡s	-
+27764	Oberwürzbach...	t	-	ɪ̜→ə	-	v	ə̰	-	-
+27739	Orferode.......	t	-	ɛ	ɾ	v	ə	t	-
+27768	Ottowind.......	t	-	ɛ̠→ə	-	f	-	t	-
+27721	Pfaffenrot.....	t	-	ɛ	ʁ	f	-	t	-
+27730	Pielenhofen....	t	-	ɛ̣→ə̜	-	ɸ	-	t͡s	-
+27756	Pöttmes........	d̪	-	ɛ→ə̜	-	f	-	t͡s	-
+27758	Reelkirchen....	t	ʁ	y̜ː	-	β	ə	t	-
+27728	Schachach......	t͡θ	-	ɛ͡ə	-	f	-	t̰͡s	-
+27723	Schauenstein...	t	-	ɛ̣	ɾ	f	-	t	-
+27733	Schnepfenbach..	d	-	ɛ̠͡ə	-	f	-	t	-
+27734	Schömberg......	t	-	œ̠	ɾ	f͡v	ə	d	-
+27747	Seelbach.......	d	-	ɛ˻ː	-	f	ə	t̰	-
+27746	Siebenbach.....	t	-	œ	ʁ	f	-	t̰	-
+27745	Treffelstein...	ʈ	-	ɛ→ə̜	-	f	-	t͡s	-
+27749	Ulbering.......	t͡θ	-	ɛ̣→ə̜	-	f	-	t	-
+27742	Vielbrunn......	ʈ	-	ɛ	-	f	-	t	-
+27727	Volkershausen..	t̪	-	ɛ͡ə	-	f	-	t	-
+27757	Weidenbach.....	t͡θ	-	ɛ͡ə	-	f	-	t	-
+27744	Wemb...........	d	-	ɛ→ə̜	-	f	-	-	-
+27769	Weyhers........	t̪	-	ɛ→ə̜	-	f	-	t	-
+27755	Wüllen.........	d̪	ɾ	œ̜	-	β	-	t	-
+27762	Zellingen......	t	-	ø	-	f	-	t	-

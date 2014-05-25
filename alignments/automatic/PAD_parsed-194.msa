@@ -1,0 +1,66 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 194 ("trinken") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6	7	8	9	10
+#
+0	CONSENSUS......	-	-	t	ɾ	ɪ	ŋ	k	-	ə	-
+#
+30171	Adorf..........	-	-	d̰	ʁ	ɛ→ɪ	ŋ	k͡ɡ	-	ə	n
+30145	Altentrüdin....	-	-	d	ɾ	ɪ̣	ŋ	ɡ	-	ə	-
+30155	Bempflingen....	-	-	t̪	ɾ	ɪ̜	ŋ	ɡ	-	ə	-
+30130	Billingsbach...	-	-	t	ɾ̥	ɪ	ŋ	ɡ	-	ə̜	-
+30161	Brockhausen....	-	-	d	r	ɪ	ŋ	k	-	ə	n
+30144	Bruch..........	-	-	t	ʁ	ɪ	ŋ	kʼ	-	ə	n
+30131	Burgrieden.....	-	-	ð	ɾ	ɪ̜	ŋ	k	-	ə	ɾ̥
+30168	Büdesheim......	-	-	t	ɾ	ɪ	ŋ	ɡ	-	ə̜	-
+30173	Docelles.......	-	-	d	ɾ	ɛʾ	ŋ	ɡ	-	ə	-
+30152	Eichenhofen....	-	-	t	ɾ	i̜	ŋ	k	-	ɐ	-
+30151	Endenburg......	-	-	ð	ɾ	i̜	ŋ	k	ɦ	ə	-
+30178	Engter.........	-	-	d̪	ɾ	ɪ	ŋ	k	-	ə	n
+30164	Ensheim........	-	-	t̪	ɾ	ɪ	ŋː	ɡ	-	ə	-
+30132	Eschelbronn....	-	-	t	ʁ	ɪ	ŋ	ɡ	-	ə	-
+30165	Gelting........	-	-	t	ɾ	i̜	ŋ	ɣ	-	ə̜	-
+30166	Gelting........	-	-	θ	ɾ	i̜	ŋ	ɣ	-	ə̜	-
+30162	Hartenstein....	-	-	θ	ɹ̰	ɪ̣̃	ŋ	k̰	-	-	ŋ̩
+30174	Herrentrup.....	-	-	d̪	ʁ	ɪ̣	ŋ	k	-	ə	n̰
+30170	Horheim........	-	-	t	ʁ	ɪ	ŋ	k	χ	ə	-
+30177	Höchstädt(Don).	-	-	t	ɾ	ɪ	ŋ	ŋ̩	-	-	-
+30176	Iggingen.......	-	-	t̪	ɾ	ɪ̜	ŋ	ɡ	-	ə̜	-
+30172	Igling.........	-	-	t	ɾ	ɛ̣	ŋ	k͡x	-	ə̜	-
+30142	Iversheim......	-	-	d	ɹ	ẹ	ŋː	kʰ	-	ə	-
+30143	Iversheim......	-	-	t	ɹ	ʏ	ŋː	kʰ	-	ʏ̠ʿ	-
+30146	Kemmern........	-	-	t	ɾ	ɪ̣	ŋ	-	-	-	-
+30182	Klafferstrass..	-	-	t	ɾ	ɪ	ŋ	-	-	ə	-
+30134	Langenbruck....	-	-	d	ɾ	ɪ	ŋ	-	-	ə̜	-
+30181	Leuth..........	-	-	d	ʁ	e̜	ŋ	k	-	ə	-
+30136	Lippramsdorf...	-	-	d	ʁ	e̜	ŋ	ɡ	-	-	ŋ̩
+30147	Maxweiler......	-	-	θ	x̰	ɪ	ŋ	ɡ	-	ə	-
+30133	Niederauerbach.	-	-	t	r	ɪ	ŋ	ɡ	-	ə	-
+30140	Oberau.........	-	-	t	ɾ	ɪ	ŋ	ɣ	-	a	-
+30179	Oberhomberg....	-	-	t	ʁ	ɪ	ŋ	k	-	ə	-
+30135	Obermaisel.....	-	-	t̪	ɾ	ɪ	ŋ	k̰͡x	-	ə	-
+30167	Oberviehbach...	-	-	t	ɾ	ɪ	ŋ	-	-	ə	-
+30139	Oberwürzbach...	-	-	t	ʁ	ẹ	ŋ	ɡ͡j̰	-	ə	-
+30183	Orferode.......	ɣ	ə	t̪	r	e̜̠	ŋ	ɡ	-	ə	-
+30175	Ottowind.......	ɣ	ə	t̪	ɾ	i̜	ŋ	kʰ	-	-	-
+30157	Pfaffenrot.....	-	-	d	ɾ̰	ɪ	ŋ	ɡ	-	ə̜	-
+30158	Pielenhofen....	-	-	t	ɾ	ɪ	ŋ	k͡x̰	-	ə	-
+30150	Reelkirchen....	-	-	d	ʁ	ɪ	ŋ	k	-	ə	n̰
+30141	Schachach......	-	-	t	ɾ	ɪ	ŋ	ɡ	-	ə̜	-
+30138	Schauenstein...	-	-	t	ɾ	ɪ̣	ŋ	k	-	-	ŋ̩
+30169	Schnepfenbach..	-	-	d	ɾ	ɪ̣	ŋ	c͡ç	-	-	-
+30154	Schömberg......	-	-	t	ɾ	ɪ	ŋ	k	-	ə̜	-
+30156	Seelbach.......	-	-	t	ʁ	ɛ	ŋ	k	-	ə	-
+30163	Siebenbach.....	-	-	d	ʁ	ɪ̣	ŋ	k	-	ə	-
+30184	Treffelstein...	-	-	t	ɾ	ɪ	ŋ	k	-	ə̜	-
+30153	Vielbrunn......	-	-	t	ɾ	ɪ̣	ŋ	ɡ	-	ə	-
+30137	Volkershausen..	ɣ	ə	θ͡ð	ɾ	ɪ	ŋ	c	ç̰	-	-
+30160	Weidenbach.....	-	-	ð	ɾ	ɪ̣	ŋ	ŋ̩	-	-	-
+30159	Wemb...........	-	-	d	ɾ	ɛ	ŋ	k	-	ə	-
+30180	Weyhers........	ɣ	ə	d	r	ɛ̠	ŋ	kʰ	-	-	-
+30148	Wüllen.........	-	-	d̪	ɾ	ɪ	ŋ	k	-	-	ŋ̩
+30149	Zellingen......	k	ə	d	r	ɪ	ŋ	k	-	-	-

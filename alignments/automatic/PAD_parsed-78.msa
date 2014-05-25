@@ -1,0 +1,71 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 78 ("geschlafen") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6	7	8
+#
+0	CONSENSUS......	k	-	ʃ	l	ɔː	f	-	-
+#
+11853	Adorf..........	-	ə	ʃ̜	l	ɔ	p̰	m̩	-
+11846	Altentrüdin....	k	-	ʃ	l	oː	f͡v	-	ə
+11813	Bempflingen....	k	-	ʃ	l	ɔː	f͡v	-	ə
+11825	Billingsbach...	k	-	ʃ	l̥	ɔː	f	-	ə̰
+11816	Brockhausen....	-	-	ʃ̠	l	ɔː	p	m̩	-
+11815	Bruch..........	k	ə	ʒ	l	ɔ	f	-	-
+11821	Burgrieden.....	x	-	ʃ	l	ɔː	f͡v	-	ə
+11830	Büdesheim......	k	ə	ʃ̠	l	ɔ̣ː→ʊ	f	-	ə̜
+11859	Docelles.......	k	-	ʃ	l	o̜ː	v	-	ə
+11847	Eichenhofen....	k	-	ʃ	l	ɐ̠→ʊ̟	f͡f	-	ɛ̜
+11811	Endenburg......	x	-	ʃ	l	ɤ→o	v	-	ə
+11812	Endenburg......	x	-	ʃ	l	ɤ→ọ	v	-	ə
+11827	Engter.........	-	-	ʃ̠	l	ɐ→ʊ	b	m̩	-
+11857	Ensheim........	k	-	ʃ	l	ə͡ʊ̜	f	-	-
+11840	Eschelbronn....	k̰	-	ʃ	l	oʿː	f͡v	-	ə
+11850	Gelting........	k	-	ʃ	l	ʌ	f	-	ə̜
+11814	Hartenstein....	k	ə̟	ʃ̟	l	ɔː	β	n̩	-
+11808	Herrentrup.....	-	-	ʃ̫	l	ɔː	p	m̩̥	-
+11809	Herrentrup.....	-	-	ʃ	l	ɔː	p	m̩	-
+11864	Horheim........	x	-	ʃ̠	l	ɔ̣ː	f	-	ə
+11858	Höchstädt(Don).	k	-	ʃ	l	ɔ̜ː	f	-	ə
+11807	Iggingen.......	x	-	ʃ	l	ɔː	v	-	ə̜̃
+11822	Igling.........	k	-	ʃ	l	ɔː	f	-	ə
+11823	Igling.........	x	-	ʃ	l	ɔː	f	-	ə
+11805	Iversheim......	ɕ̫	ə	ʃ̫	l	ɔː	f	n̩̥	-
+11852	Kemmern........	k͡x	-	ʃ	l	o̜͡ʊ̜	v	n̩	-
+11818	Klafferstrass..	-	-	x̫̟͡ʃ	l	ɔ̣	f	m̩	-
+11860	Langenbruck....	k	-	ʃ	l	ɔ̣	f	-	ə̜
+11841	Leuth..........	-	ɪ→ə	ɬ̫	l	ọ→ɔ	pʰ	-	ə
+11806	Lippramsdorf...	-	-	ʃ̟	l	ɔː	p	m̥̩	-
+11829	Maxweiler......	k	-	ʃ	l	ɤʿ	ɸ	-	ə
+11843	Niederauerbach.	k	-	ʃ	l	ɔ̣ː	f	-	-
+11855	Oberau.........	k	-	ʃ	l	ɒ	f	m	-
+11856	Oberau.........	k	-	ʃ	l	ɑ	f	m̩	-
+11849	Oberhomberg....	k	-	ʃ̠	l	ɔː	f	-	ə̜
+11861	Obermaisel.....	k	-	ʃ	l	ɔ̟	f͡f	-	ə
+11854	Oberviehbach...	x	-	ʃ	l	o̜	f͡f	-	ə
+11862	Oberwürzbach...	χ	ɪ̠	ʃ	l	ọʿ͡o̜ʿ	f	th	-
+11817	Orferode.......	ɣ	ə	ʃ	l	oʿː	f	n̩	-
+11837	Ottowind.......	k	-	ʃ	l	o̜	f͡v	-	ə
+11842	Pfaffenrot.....	x	-	ʃ	l	ɔ̣ː	v	-	ə̜
+11844	Pielenhofen....	x	-	ʃ	l	ə̜→wʾ	f͡f	-	ə̜
+11836	Pöttmes........	x	-	ʃ	l	ɔ̜ː	f͡f	-	ə
+11832	Reelkirchen....	-	-	ʃ̠	l	o→ʊ	p	m̩	-
+11851	Schachach......	k	-	ʃ	l	ɑ̣ʾ	f	n̩	-
+11828	Schauenstein...	k	-	ʃ	l	oʿ͡ʊ	f	n̩	-
+11834	Schnepfenbach..	k	-	ʃ	l	ʌʾ	v	n̩	-
+11835	Schömberg......	x	-	ʃ	l	ɔ̜ː	f	-	ə̜̃
+11831	Seelbach.......	k	-	ʃ	-	ɤ͡ʊ	f	-	ə
+11838	Siebenbach.....	-	ɪ→ə	ʃ	l	ɔ	f	tʰ	-
+11845	Treffelstein...	k	-	ʃ	l	ɔ	f	-	ɐ
+11819	Ulbering.......	k	-	ʃ	l	ɔ	f	-	ə̜
+11820	Ulbering.......	x	-	ʃ	l	ɔ	f	-	ə̜
+11863	Vielbrunn......	k	-	ʃ	l	oː	v	-	ə
+11826	Volkershausen..	x	-	ʃ	l	ɔ̜	v	-	ə̟
+11810	Weidenbach.....	x	-	ʃ	l	oʿː	f	n̩	-
+11839	Wemb...........	ɣ	e	s̠	l	ɔː	p̰h	-	ə
+11848	Weyhers........	k	-	ʃ	l	ɔ̣	v	-	ə
+11833	Wüllen.........	-	-	s	l̠	ɔː	p	m̥̩	-
+11824	Zellingen......	k	-	ʃ	l	a	f	-	ə

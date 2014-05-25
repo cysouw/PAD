@@ -1,0 +1,65 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 191 ("Haus") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5
+#
+0	CONSENSUS......	ɦ	ɐ→ʊ	-	s	-
+#
+29848	Adorf..........	ɦ	oʿ→ʊ	-	s	-
+29859	Altentrüdin....	ɦ	ɐ→ʊ	-	s	-
+29870	Bempflingen....	ɦ	ə→ʊ	-	s	-
+29876	Billingsbach...	ɦ	ɐ̠→ʊ	-	s	-
+29887	Brockhausen....	ɦ	ɪ→ʊ̣	-	s	-
+29862	Bruch..........	ɦ	ɤʾ→ʊ	-	s	-
+29886	Burgrieden.....	ɦ	ə̜→ʊ	-	s	-
+29841	Büdesheim......	ɦ	ɐ→ʊ	-	s	-
+29869	Docelles.......	ɦ	ɐ→ʊ	-	s	-
+29866	Eichenhofen....	ɦ	a→ʊ	-	s	-
+29842	Endenburg......	ɦ	ɯ	-	s	-
+29843	Endenburg......	h	ɯː	-	s	-
+29856	Engter.........	ɦ	o͡ʊ̣	-	s	-
+29852	Ensheim........	ɦ	a̠→ʊ	-	s	-
+29885	Eschelbronn....	h	ɐ→ʊ	-	s	-
+29888	Gelting........	ɦ	ɑ̟→ʊ	-	s	-
+29844	Hartenstein....	ɦ	ɐ̣→ʊ	-	s	-
+29851	Herrentrup.....	ɦ	ɪ→ə	-	z	-
+29892	Horheim........	ɦ	uː	-	s	-
+29863	Höchstädt(Don).	h͡ɦ	ɐ→ʊ	-	s	-
+29861	Iggingen.......	ɦ	ɐ̣→ʊ	-	s	-
+29874	Igling.........	ɦ	ɐ̣→ʊ	-	s	-
+29873	Iversheim......	ʊ	u	-	s̫	-
+29849	Kemmern........	ɦ	ɐ→ʊ	-	s	-
+29877	Klafferstrass..	ɦ	ɐ→ʊ̜	-	s	-
+29850	Langenbruck....	ɦ	ɐ→ʊ̜	-	s	-
+29880	Leuth..........	ɦ	uʿː	-	s	-
+29860	Lippramsdorf...	ɦ	ọ͡ʊ	-	s	-
+29853	Maxweiler......	ɦ	a→ɤʾ	-	s	-
+29857	Niederauerbach.	ɦ	ɐ→ʊ	-	s	-
+29882	Oberau.........	h	ɐ→ʊ	-	s	-
+29868	Oberhomberg....	ɦ	ə→ʊ	-	s	-
+29881	Obermaisel.....	ɦ	yː	-	s̠	-
+29878	Oberviehbach...	ɦ	ɐ→ʊ	-	s	-
+29846	Oberwürzbach...	ɦ	ə̠ʾ→ʊ	-	s̟	-
+29872	Orferode.......	ɦ	yː	-	s	-
+29890	Ottowind.......	ɦ	ɐ→ʊ	-	s	-
+29871	Pfaffenrot.....	ɦ	ə̜→ʊ	-	s	-
+29865	Pielenhofen....	ɦ	ɐ̟→ʊ	-	s	-
+29845	Reelkirchen....	ɦ	ɪ̣ː	ə	s	-
+29891	Schachach......	ɦ	ɐ→ʊ	-	s	-
+29840	Schauenstein...	ɦ	ɐ̟→ʊ	-	s	-
+29879	Schnepfenbach..	ɦ	ɐ̠→ɤ	-	s	-
+29884	Schömberg......	ɦ	ə̜→ʊ	-	z	-
+29883	Seelbach.......	ɦ	ɯ̟ː	-	s	-
+29889	Siebenbach.....	ɦ	ɐ̜+→ʊ͡ʊ	-	s	-
+29839	Treffelstein...	ɦ	ɐ→ʊ̜	-	s	-
+29867	Vielbrunn......	ɦ	ɐ̜→ɤ	-	s	-
+29854	Volkershausen..	ɦ	ɐ̠→ʊ	-	s	-
+29847	Weidenbach.....	ɦ	ɐ→ʊ	-	s	-
+29855	Wemb...........	ɦ	ʏ	-	s̠	-
+29875	Weyhers........	ɦ	ʏ	-	s	θ̰
+29864	Wüllen.........	-	uː	-	s̠	-
+29858	Zellingen......	ɦ	ɐ̟→ʊ	-	s	-

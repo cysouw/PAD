@@ -1,0 +1,67 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 50 ("Herz") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6
+#
+0	CONSENSUS......	ɦ	ɛ→ə̜	-	-	t͡s	-
+#
+7230	Adorf..........	ɦ	ɪ→ə̜+→ɐ	-	-	tʰ	ə
+7266	Altentrüdin....	ɦ	ɛ	ɾ	θ	s	-
+7275	Bempflingen....	ɦ	ɛ̠	ʁ̠	t	s	-
+7273	Billingsbach...	ɦ	ɛ˻	-	-	t͡s	-
+7271	Brockhausen....	ɦ	e̜→ə̜	-	-	tʰ	-
+7239	Bruch..........	ɦ	ɛ→ə̜	-	-	t͡s	-
+7268	Burgrieden.....	ɦ	œ̠ʿ	-	-	t͡s	-
+7257	Büdesheim......	ɦ	ɛ̠→ə̜	-	-	t͡s	-
+7255	Docelles.......	ɦ	ɛ̜→ə̜	-	-	t͡s	-
+7236	Eichenhofen....	ɦ	e→ɐ	-	-	t͡s	-
+7269	Endenburg......	ɦ	ʌː	-	ɵ	s	-
+7256	Engter.........	h	a	-	-	th	ə̜+
+7241	Ensheim........	ɦ	ɛ̜	-	-	t͡s	-
+7235	Eschelbronn....	ɦ	ɛ→ɐ	-	-	t͡s	-
+7247	Gelting........	h͡ɦ	ɛ͡ə̜	-	-	t͡s	-
+7228	Hartenstein....	ɦ	e̜→ə̜	-	-	t͡s	-
+7238	Herrentrup.....	ɦ	ɛ̜ː→ə̜	-	-	tʰ	ə̜
+7229	Horheim........	ɦ	ɛ→ɯ	-	-	t͡s̠	-
+7259	Höchstädt(Don).	ɦ	ɛ	ɾ	-	t͡s	-
+7254	Iggingen.......	ɦ	ɛ→ə̜	-	-	t͡s	-
+7227	Igling.........	ɦ	e̜→ə̜	-	-	t͡s	-
+7226	Iversheim......	ɦ	æ̣	ʁ͡χ	-	t͡s	-
+7253	Kemmern........	ɦ	e̜→ə	-	-	t͡s̠	-
+7274	Klafferstrass..	ɦ	e͡ə	-	-	t͡s	-
+7276	Leuth..........	ɦ	ɑ̟	ʀ̥	-	th	-
+7270	Lippramsdorf...	ɦ	ɛ̜→ə̜	-	-	th	-
+7258	Maxweiler......	ɦ	e̜͡ə	-	-	t͡s̟	-
+7240	Niederauerbach.	ɦ	ɛ→ə̜	-	-	t͡s	-
+7232	Oberau.........	h	ɛ˻	-	-	t͡s	-
+7233	Oberau.........	ɦ	ɛ	ɾ	θ	s	-
+7234	Oberhomberg....	ɦ	ɛ	ʁ	-	t͡s	-
+7272	Obermaisel.....	ɦ	e	ɾ̥	-	t͡s̠	-
+7279	Oberviehbach...	ɦ	ɛ̣→ə̜	-	-	t͡s	-
+7246	Oberwürzbach...	ɦ	ɛ→ʌ	-	-	t͡s	-
+7277	Orferode.......	ɦ̰	a	r	-	t͡s	-
+7278	Ottowind.......	ɦ	ɑ	-	-	θ͡s	-
+7260	Pfaffenrot.....	ɦ	ɛ→ɐ	-	-	t͡s	-
+7244	Pielenhofen....	ɦ	ɛ̣→ə̜	-	-	t͡s	-
+7249	Pöttmes........	ɦ	ɛ̣→ə̜	-	-	t͡s	-
+7237	Reelkirchen....	ɦ	æ̣→ɐ	-	-	tʰ	ə
+7242	Schachach......	ɦ	ɛ͡ə	-	-	t͡s	-
+7252	Schauenstein...	ɦ	ɛ̜	ɾ	-	t͡s	-
+7231	Schnepfenbach..	ɦ	ɛ̠	-	-	t͡s	-
+7248	Schömberg......	ɦ	ɛ̣→ə̜	-	-	t͡s	-
+7251	Seelbach.......	h	ɛ˻	-	-	t͡s	-
+7262	Siebenbach.....	ɦ	æ̣	-	-	t͡s	-
+7267	Treffelstein...	ɦ	e̜→ə̜	-	-	t͡s	-
+7224	Ulbering.......	ɦ	ɛ→ə̜	-	-	ɹ	-
+7225	Ulbering.......	ɦ	ɛ→ə̜	-	-	l	-
+7245	Vielbrunn......	h	ɛ	-	-	t͡s	-
+7243	Volkershausen..	ɦ	ɛʾ	-	-	t͡s	-
+7261	Weidenbach.....	ɦ	ɛ̠	-	-	t͡s	-
+7264	Wemb...........	ɦ	ɛ→ə̜	-	-	t͡θ	-
+7263	Weyhers........	ɦ	æ̣→ə̜̰	-	-	t̰͡s	-
+7265	Wüllen.........	ɦ	ɑ̟	-	-	th	-
+7250	Zellingen......	ɦ	ɑ̟	-	-	t͡s	-

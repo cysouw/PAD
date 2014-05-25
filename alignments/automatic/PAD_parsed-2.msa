@@ -1,0 +1,65 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 2 ("Feld") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5
+#
+0	CONSENSUS......	f	ɛ	l	th	-
+#
+132	Adorf..........	f	ɛ̜	l	d	ə
+129	Altentrüdin....	f	œʿ	l	t͡θ	-
+123	Bempflingen....	f	ɛ̣	l	th	-
+130	Billingsbach...	f	e͡ɪ̜	l	th	-
+121	Brockhausen....	p̰͡f	œ̣	l	-	ə
+119	Bruch..........	p͡f	ɛ	l̠	th	-
+113	Burgrieden.....	v	œʿ	l	tʼ	-
+143	Büdesheim......	p͡f	ɛ̠→ə̰	l	th	-
+112	Docelles.......	p̰͡f	ɛ	l	th	-
+117	Eichenhofen....	f	ø→ɪʾ	-	th	-
+158	Endenburg......	v	a	l	th	-
+152	Engter.........	f	ɛː	l	d	ə
+165	Ensheim........	p͡f	ɛ͡ə̣	l	th	-
+150	Eschelbronn....	p͡f	ɛ	l	tʰ	-
+144	Gelting........	f	ə̟ʾ→ɪ	-	t	-
+145	Gelting........	f	ə̟ʾ	l	t	-
+149	Hartenstein....	p͡f	ɛʾ	l	t̪͡θ	-
+153	Herrentrup.....	ɸ͡f	ɐ→ɪ	l	-	ə
+120	Horheim........	f	ɛ	l	th	-
+118	Höchstädt(Don).	p̰͡f	œ	l	th	-
+125	Iggingen.......	v	ɛ̣ː	l	th	-
+136	Igling.........	p̰͡f	ɛ̣̠	l	t̪͡θ	-
+164	Iversheim......	f	a	ɫ	th	-
+147	Kemmern........	f	ɛ̠	l	th	-
+133	Klafferstrass..	p͡f	e̜→əʾ	l	th	-
+154	Langenbruck....	f	ɛ̠	l̰	t͡θ	-
+126	Leuth..........	f	æ̣ː	-	th	-
+156	Lippramsdorf...	f	ɛ	l̠	tʰ	-
+124	Niederauerbach.	f	ɛ	l	tʰ	-
+162	Oberau.........	f͡v	ø	l	t	-
+163	Oberau.........	f͡v	ə→ɪ	l	t	-
+135	Oberhomberg....	b̰͡v	ɛ̜	l̠	tʰ	-
+160	Obermaisel.....	f͡v	e→ɐ̠	l̠	th	-
+141	Oberviehbach...	f͡v	oʿ→ɪ	-	t̪h	-
+159	Oberwürzbach...	f	ɛ	l	tʰ	-
+122	Orferode.......	f͡v	a	l	-	ə
+138	Pfaffenrot.....	b̰͡v	e̜	l	-	-
+157	Pielenhofen....	p͡f	œ	l	th	-
+127	Pöttmes........	p̰͡f	ɔʿ→ɪ	-	t̪͡θ	-
+131	Reelkirchen....	p̰͡f	ɐ→ɪ	l	-	ə
+161	Schachach......	f	ɔ̜ʿ→ɪ	-	th	-
+114	Schauenstein...	p̰͡f	ɛʾ	l	th	-
+140	Schnepfenbach..	f͡v	œʿ	l	-	-
+151	Schömberg......	b͡v	ɛ	l	th	-
+155	Seelbach.......	p͡f	ɛ	l	tʰ	-
+115	Siebenbach.....	p̰͡f	ɛ	l̠	tʰ	-
+148	Treffelstein...	p͡f	ɛ̠	l̻	th	-
+116	Ulbering.......	f	e̜̠	l	t	-
+128	Vielbrunn......	f	ɛ	l̻	th	-
+142	Volkershausen..	f	ɛ̣	l	th	-
+137	Weidenbach.....	f	œʿ	l	t͡θ	-
+139	Wemb...........	f	ɛ̜ː	l	th	-
+134	Weyhers........	p̰͡f	æː	l	th	-
+146	Zellingen......	f	ɑː	l	th	-

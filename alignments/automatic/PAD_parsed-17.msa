@@ -1,0 +1,65 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 17 ("fängt") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5
+#
+0	CONSENSUS......	f	ɛ	ŋ	-	t
+#
+2080	Adorf..........	f	ɛ	ŋ	ə	t
+2117	Altentrüdin....	f	ʌ	ŋ	-	t
+2106	Bempflingen....	f	ɐ	ŋ	-	t
+2125	Billingsbach...	f	e	ŋ	-	t
+2085	Brockhausen....	f	æ	ŋ	ə	t
+2102	Bruch..........	f	ɛ	ŋ	-	t
+2107	Burgrieden.....	v	ɛ	ŋ	-	t
+2096	Büdesheim......	p̰͡f	ɛ	ŋ	-	t
+2092	Docelles.......	f	ɪ	ŋ	-	t
+2087	Eichenhofen....	f	ɔ̜̃	ŋ	-	-
+2121	Endenburg......	f	ɒ	ŋ	-	-
+2084	Engter.........	f	ɛ	ŋ	-	t
+2093	Ensheim........	f	ɛ	ŋ	-	k
+2115	Eschelbronn....	f	ɛ	ŋ	-	t
+2110	Gelting........	f	ɑ	ŋ	-	th
+2079	Hartenstein....	f	ɛ	ŋ	-	t
+2113	Herrentrup.....	f	ɪ	ŋ	ə	t
+2083	Horheim........	f	ɛ	ŋ	-	t
+2086	Höchstädt(Don).	f	ɛ̣	ŋ	-	t
+2108	Iggingen.......	f	ɛ̣	ŋ	-	t
+2094	Igling.........	f	ɛ̣	ŋ	-	t
+2082	Iversheim......	β	ɛ	ŋ	-	t̰
+2101	Kemmern........	f	ɛ̣	ŋ	-	t
+2112	Langenbruck....	f	ʌʾ	ŋ	-	t
+2099	Leuth..........	f͡v	ɛ	ŋ	-	d̰
+2081	Lippramsdorf...	f	ɛ	ŋ	-	d̰
+2089	Maxweiler......	f	ɑ̟	ŋ	-	t
+2122	Niederauerbach.	f	a̠	ŋ	ə	-
+2120	Oberau.........	f	ʌ	ŋ	-	t
+2118	Oberhomberg....	f	a	ŋ	-	t
+2078	Obermaisel.....	f	ɔʿ	χ	-	-
+2129	Oberviehbach...	f	ɐ̠͡ɑ̣ʾ	ŋ	ə	-
+2130	Oberwürzbach...	f	ɛ	ɲ	-	-
+2090	Orferode.......	f	ɛ	ŋ	-	t
+2077	Ottowind.......	f	e	ŋ	-	t
+2109	Pfaffenrot.....	f͡v	a̠	ŋ	-	t
+2123	Pielenhofen....	f	ɒ̣̃	ŋ	-	t
+2095	Pöttmes........	f͡v	ɛ	ŋ	-	t
+2119	Reelkirchen....	ɸ	ɪ	ŋ	ə	n̰
+2124	Schachach......	f	ɑ̣ʾ	ŋ	-	t
+2111	Schauenstein...	f	ɛ	ŋ	-	tʰ
+2091	Schnepfenbach..	f	ɛ	l	-	t
+2126	Schömberg......	f	a	ŋ	-	t
+2127	Seelbach.......	f	ɒ̣	ŋ	-	t
+2098	Siebenbach.....	f	ɛ	ŋ	-	t
+2104	Treffelstein...	f	ɒ̣	ŋ	-	t
+2100	Ulbering.......	f	ɛ̣	ŋ	-	t
+2116	Vielbrunn......	f	ɛ̣	ŋ	-	t
+2114	Volkershausen..	f	ɛ	ŋ	-	t
+2128	Weidenbach.....	f	ɛ	ŋ	-	t
+2103	Wemb...........	v	ɛ	ŋ	-	t
+2088	Weyhers........	f	æ	ŋ	-	t
+2097	Wüllen.........	f	ɛ͡ɪ	ŋ	-	t
+2105	Zellingen......	f	a	ŋ	-	t

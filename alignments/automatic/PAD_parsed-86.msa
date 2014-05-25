@@ -1,0 +1,68 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 86 ("unsere") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3	4	5	6	7
+#
+0	CONSENSUS......	-	ʊ	n	z	-	ɾ	ə
+#
+12938	Adorf..........	-	ʊ	n̰	ʒ	-	-	ə
+12900	Altentrüdin....	-	ọ̃ː	n	s	-	-	ə
+12923	Bempflingen....	-	o	n	s	-	ɾ	ə
+12907	Billingsbach...	-	ʊ̣	n	s	-	ɾ̰	ə
+12901	Brockhausen....	-	ʊ	-	z̠	-	ɾ	ə
+12930	Bruch..........	-	u̜	-	s	-	-	-
+12936	Burgrieden.....	-	õ	n	z̠	ə	ɾ	ə̟
+12905	Büdesheim......	-	ʊʿ	n	z	ə̜	ʁ̰	-
+12912	Docelles.......	-	ʊ̣	-	z	-	-	ɐ
+12942	Eichenhofen....	-	ʊ̃ː	n	s	ə̟	ɹ	e
+12926	Endenburg......	ʔ	y	-	z	-	-	ɪ̣
+12927	Endenburg......	-	ʏ	-	z	-	-	ɪ
+12909	Engter.........	-	o͡ʊ	-	z̠	-	-	ə
+12918	Ensheim........	-	ʊ̣	n	z	-	ɾ	ə
+12949	Eschelbronn....	-	ʊ	n	z	-	-	ə
+12896	Gelting........	-	ʊ̣	n	z	ə̣	ɾ	ə
+12897	Gelting........	-	ʊ̣	n	z	-	ɾ	ə
+12924	Hartenstein....	-	ʊ̃	n̰	z	-	-	ə
+12950	Herrentrup.....	-	ɪ	n̰	z̠	-	-	ə
+12933	Horheim........	-	ʊ→ʏ→ɪ	-	z̠	-	-	ə
+12904	Höchstädt(Don).	-	ɔ̣	n	s	-	ɾ	ə̟
+12945	Iggingen.......	-	õː	-	z	ə̰	ɾ̰	ə
+12948	Igling.........	-	a→ɪ	-	s	ə	ɾ	ə
+12920	Iversheim......	-	ọ	-	s̟	-	-	-
+12921	Kemmern........	-	ʊ	n	-	-	-	ə
+12932	Klafferstrass..	-	ʊ	n	z	e̜̰	ɾ	ə
+12919	Langenbruck....	-	ụ	n	s	ə	ɾ	ə̟
+12913	Leuth..........	-	o	-	z	-	-	-
+12922	Lippramsdorf...	-	ʊ	-	z̠	-	-	ə
+12908	Maxweiler......	ɦ	ʊ	n	s	ə̰	ɾ̰	ə̰
+12941	Niederauerbach.	-	ʊ	n	θ	ə	ɾ	ə
+12903	Oberau.........	-	i	n	z	e	ɾ	ə
+12915	Oberhomberg....	-	ʊ	n	s͡z	ə	ʁ	ə
+12931	Obermaisel.....	-	iː	-	s	ə	ɾ	ə
+12937	Oberviehbach...	-	ʊ	n	d̪͡z	ə	ɾ	ə
+12935	Oberwürzbach...	-	ʊʿ	n	d̰͡ʑ	ə̟	ɹ	-
+12952	Orferode.......	-	ʊ̜	n	z	ə	ɾ	ə
+12916	Ottowind.......	-	ọ̃ː	-	-	-	ɾ	ə
+12898	Pfaffenrot.....	-	ʊ	n	z̠	-	-	e
+12940	Pielenhofen....	-	ʊ̣̃	n	t̰͡s	ə	n	ə̟
+12910	Pöttmes........	-	õː	n	t̰͡s	ə	ɾ	ə̣
+12902	Reelkirchen....	-	ʊ̣	n	t͡s	-	ʁ	ə
+12925	Schachach......	-	ʊ̣	n	s	-	ɾ	ə
+12906	Schauenstein...	-	ʊ	n	z	ə	ɾ	ə
+12911	Schnepfenbach..	-	ʊ	ŋ̰	-	-	-	ə
+12946	Schömberg......	-	ɐ→ɪ	-	z	-	ɾ	ə
+12951	Seelbach.......	-	ʊ̜	n	z	-	-	ə˻
+12943	Siebenbach.....	-	oː	-	s	-	-	-
+12917	Treffelstein...	-	õː	n̰	z	ə	ɾ	ə̟
+12929	Ulbering.......	-	ʊ	n	z	ə	ɾ	ə̟
+12934	Vielbrunn......	-	ʊ	n	ð̰	ə	ɾ	ə
+12947	Volkershausen..	-	oː	n	-	ə̰	ɹ̰	ə̰
+12928	Weidenbach.....	-	o	n	s	-	ɹ̰	ə̟
+12914	Wemb...........	-	ọ̃ː	n	z	-	-	-
+12939	Weyhers........	h̰	ɔ	n	z	ə	ɾ	ə
+12944	Wüllen.........	-	oː	-	z̠	-	-	ə
+12899	Zellingen......	-	ʊ̣	n	t	-	-	ə

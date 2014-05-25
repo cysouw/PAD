@@ -1,0 +1,66 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 30 ("was") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3
+#
+0	CONSENSUS......	β	a	s
+#
+3742	Adorf..........	β	ɑ	t
+3767	Altentrüdin....	β	ɑ̟	s
+3753	Bempflingen....	β	ɑ̟	z͡s
+3733	Billingsbach...	β	a̠	s
+3787	Brockhausen....	β	a̠	d
+3780	Bruch..........	v	a̠	t
+3736	Burgrieden.....	β	ɑ̟ː	z
+3775	Büdesheim......	β	a̠	s
+3738	Docelles.......	β	ɑ	s
+3770	Eichenhofen....	v̰	o	s
+3762	Endenburg......	β	ɑ	s
+3748	Engter.........	β	ɔ	t
+3764	Ensheim........	β	a̠	s
+3769	Eschelbronn....	β	a	s
+3771	Gelting........	β	ɔ̣	s
+3734	Hartenstein....	β	ɔ̣̠	s
+3745	Herrentrup.....	β	ɑ̟	d
+3754	Horheim........	v	a	s
+3752	Höchstädt(Don).	β	a	s
+3786	Iggingen.......	β	a	s
+3765	Igling.........	β	a	s
+3737	Iversheim......	w	ʌ	-
+3735	Kemmern........	β	ʊ	s
+3776	Klafferstrass..	β	ɔʿ	s
+3761	Langenbruck....	β	ɔ	s
+3784	Leuth..........	w	ʌ	tʰ
+3739	Lippramsdorf...	β	ɑ̟	d
+3768	Maxweiler......	β	a	s
+3741	Niederauerbach.	v	a̠	s
+3759	Oberau.........	β	a	s
+3781	Oberhomberg....	v	a	-
+3749	Obermaisel.....	β̫	ɑ	s̠
+3774	Oberviehbach...	β	o	s
+3756	Oberwürzbach...	ʋ	a̠	s
+3740	Orferode.......	ʔ	ɔ	s
+3743	Ottowind.......	β	ɔ̣ʿ	s
+3751	Pfaffenrot.....	β	a	s
+3760	Pielenhofen....	β	o̜	s
+3773	Pöttmes........	β	ɔ̣	z
+3782	Reelkirchen....	b̰͡v	a̠	d
+3783	Schachach......	ɸ	ɑ̟ː	s
+3785	Schauenstein...	β	ɔʿ	s
+3757	Schnepfenbach..	β	ə̜	s
+3772	Schömberg......	β	a	-
+3778	Seelbach.......	β	a	s
+3779	Siebenbach.....	v	ɐ	t
+3744	Treffelstein...	β	ɔ	s
+3747	Ulbering.......	β	ɔ̜	z
+3766	Vielbrunn......	β	ɑ̟	s
+3758	Volkershausen..	β	ɔ	s
+3777	Weidenbach.....	β	ɔ̜	s
+3755	Wemb...........	β	a	t
+3750	Weyhers........	ph	ɔ	s
+3746	Wüllen.........	β	a̠	t
+3763	Zellingen......	β	ɔ	s

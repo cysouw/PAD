@@ -1,0 +1,62 @@
+{
+  "name": "german_dialect_data",
+  "title": "PAD: German phonetic dialect data",
+  "contributors": "Jelena Prokić, Michael Cysouw, Johann-Mattis List",
+  "version": "2013",
+  "last_updated": "2014-02-03",
+  "homepage": "http://www.quanthistling.info/data/PAD/",
+  "suggested print citation": "Prokić, Jelena, Michael Cysouw & Johann-Mattis List. 2014. PAD: German phonetic dialect data. Available online at http://www.quanthistling.info/data/PAD/.",
+  
+  "licenses": [{
+    "id": "odc-by",
+    "url": "http://opendatacommons.org/licenses/by/"
+  }],
+  
+  "sources": [{
+    "name": "???",
+    "url": "???"
+  }],
+
+  "resources": [
+    {"path": "cognates.csv"},
+    {"path": "doculects.csv"},
+    {"path": "words.csv"},
+    {
+      "path": "alignments/",
+      "format": "directory",
+      "schema": {
+        "directories": [
+          "automatic/",
+          "corrected/"
+        ]
+      }
+    },    
+    
+    {
+      "path": "scripts/",
+      "format": "directory",
+      "schema": {
+        "files": [
+          "make_seqs_with_ids.py",
+          "pad2qlc.py",
+          "pad_align.py",
+          "PAD.prf"
+        ]
+      }
+    },  
+    {
+      "path": "sources/",
+      "format": "directory",
+      "schema": {
+        "files": [
+          "data_parsed.qlc",
+          "originaldata.csv",
+          "originaldata_corrected.csv"
+        ]
+      }
+    
+    }  
+    
+  ]
+}
+

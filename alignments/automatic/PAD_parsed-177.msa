@@ -1,0 +1,67 @@
+# MSA
+# dataset    : PAD_parsed
+# collection : 177 ("Eis") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+#
+0	COLUMNID.......	1	2	3
+#
+0	CONSENSUS......	-	ɐ̟→ɪ	s
+#
+27689	Adorf..........	-	e͡ɪ	s
+27685	Altentrüdin....	-	a→ɪ	s
+27690	Bempflingen....	-	ə̜→ɪ	s
+27714	Billingsbach...	-	ɐ̟→ɪ	s
+27675	Brockhausen....	-	ʊː→ɪ	s
+27691	Bruch..........	-	ɛ̣→ɪ	s
+27682	Burgrieden.....	-	ɛ̠→ɪ	s
+27706	Büdesheim......	-	ɐ̠→ɪ	s
+27702	Docelles.......	-	ɐ̜→ɪ	s
+27699	Eichenhofen....	-	æ̜→ɪ	s
+27664	Endenburg......	-	i̜ː	s
+27684	Engter.........	-	i̜͡i	s
+27704	Ensheim........	-	ɐ→ɪ	s
+27688	Eschelbronn....	-	ɐ̠→ɪ	s
+27667	Gelting........	-	æ→ɪ	s
+27705	Hartenstein....	-	ɐ̟→ɪ	s
+27683	Herrentrup.....	-	ʊ̣ʿ→ɪ	s
+27712	Horheim........	-	iː	s
+27671	Höchstädt(Don).	-	ɐ→ɪ	s
+27698	Iggingen.......	-	ɛ̠→ɪ	s
+27703	Igling.........	-	a→ɪ̣	s
+27716	Iversheim......	-	iː	s̟͡s
+27692	Kemmern........	-	ɐ→ɪ	s
+27665	Klafferstrass..	-	a̠→ɪ	s
+27709	Langenbruck....	-	ɐ̟→ɪ	s
+27717	Leuth..........	-	ɪ̣ː	s̠
+27668	Lippramsdorf...	-	ɪ̣ː	s
+27696	Maxweiler......	-	æ→ɪ̜	s
+27697	Niederauerbach.	-	ạ→ɪ	s
+27677	Oberau.........	-	ɛ→ɪ	s
+27678	Oberau.........	-	ɛ̠→ɪ	s
+27694	Oberhomberg....	-	ɛ̜→ɪ	s
+27701	Obermaisel.....	-	i̜ː	s̠
+27710	Oberviehbach...	-	ɐ̟→ɪ	s
+27662	Oberwürzbach...	ɛ̠→ɪ͡ɪ	ə	s
+27711	Orferode.......	-	i̜ː	s
+27686	Ottowind.......	-	ɐ→ɪ	s
+27663	Pfaffenrot.....	-	ɐ̣ʾ→ɪ	s
+27713	Pielenhofen....	-	ɐ̃→ɪ̃	s
+27679	Pöttmes........	-	ɐ̟→ɪ	s
+27695	Reelkirchen....	ʊ̣ʿ	ə̟	s
+27666	Schachach......	-	ɔ̟ʿ→ɪ	s
+27707	Schauenstein...	-	ɐ→ɪ	s
+27680	Schnepfenbach..	-	ɑʾ→ɪ	s
+27693	Schömberg......	-	ə̠ʾ→ɪ	s
+27708	Seelbach.......	-	iː	s
+27676	Siebenbach.....	-	ɛ̠→ɪ	s
+27670	Treffelstein...	-	ɔʿ͡ɐ→ɪ	s
+27674	Ulbering.......	-	a̠→ɪ	s̠
+27669	Vielbrunn......	-	ɐ̜→ɪ	s
+27673	Volkershausen..	-	ɔʿ→ɪ	s
+27681	Weidenbach.....	-	ɑ̣ʾ→ɪ	s
+27672	Wemb...........	-	iː	s̠
+27687	Weyhers........	-	i̜ː	s
+27715	Wüllen.........	-	ɪ̣	s̠
+27700	Zellingen......	-	ɐ̜→ɪ	s

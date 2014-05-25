@@ -1,0 +1,125 @@
+# collection : 144 ("Samstag")
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+# modified   : 2013-12-10 23:53 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : this is cognate set "Sonnabend"
+# comment    : "ben" often contracted to "m", and regular metathesis of "b/p"
+# modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
+#
+:ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10	11	12
+#
+:ANN	STANDARD.......	S	.	o	.	nn	.	a	b	e	n	.	d
+:ANN	COMPLEX........	<	>	.	<	>	<	>	.	.	.	.	.
+:ANN	CROSS..........	.	.	.	.	.	.	.	+	-	-	+	.
+#
+22665	Adorf..........	s̠͡z̠	-	ʊ	-	n	-	ɔː	b	-	m̩	-	tʰ
+22736	Ahrbergen......	z	-	ʏ̜	-	n	-	o͡ɔ	-	-	m	p̰	tʰ
+22710	Allna..........	s	-	ɔ̣	-	n	-	ɔ	β̫	ə	-	-	th
+22676	Altenberg......	s̫	-	oʿ	-	n	-	ʌ	-	-	m	-	tʰ
+22574	Altlandsberg...	s	z	ɔ	-	n	-	ɑʾ	-	-	m	-	t
+22569	Altwarp........	s	-	y̜	-	n	-	ɤʾ	-	-	m	-	t̰
+22693	Astfeld........	z̠	-	ɪ	-	n	-	ʌ̜ʾ	-	-	m	-	tʰ
+22704	Atzendorf......	z	-	ɛ̣	-	n	-	a̠	-	-	m̩	-	th
+22610	Ballhausen.....	s	-	ʏ̣	-	n	-	ɤʾ	m	-	n	-	t
+22731	Bardenfleth....	s̠͡z̠	-	ɔ	-	n	-	o͡ʊ	b	-	n	-	th
+22613	Bennin.........	s	-	ʊ̟	-	n	-	ɔ	-	-	m	-	-
+22651	Bockelwitz.....	s̟	-	ʊ̟	-	n	-	a̠	-	-	m̩	-	t
+22576	Borstendorf....	s	-	ɯ	-	n	-	ɤː	-	-	m	-	tʰ
+22589	Breddin........	s	-	ʊ	-	n	-	ɒ̣ː	-	-	m̩	-	th
+22711	Brelingen......	s	-	ɤʾ	-	n	-	ɒ	-	-	m	pʼ	tʼ
+22644	Clausthal(Zf)..	s̠	-	ʊ̣+	n	n	-	o̜ʿː	-	-	m̩	-	th
+22749	Cursdorf.......	s	-	ɤ̟	-	n	-	ɤ̜ː	-	-	m	-	th
+22750	Dexbach........	s	-	ɔ	-	n	-	o̜ː	β	ə	-	-	th
+22632	Diekhusen......	z	-	ʏʿ	-	n	-	ɒ	-	-	m	ph	-
+22653	Dreeke.........	s͡z	-	ɔ̟	-	n	-	ɒ̣ː	-	-	m	p	-
+22603	Ebertshausen...	s̠	-	ɔ	-	n	-	ɑː	w	ə	-	-	-
+22618	Ebstorf........	s	-	ɔ̣	-	n	-	ɒ̣	-	-	m̩	-	t
+22688	Engelsbach.....	s	-	ɤ̣	-	n	-	ʌ	-	-	m	-	-
+22735	Eversen........	z	-	ɤʾ	-	n	-	ɤʾː	b̰	-	m̩	-	t
+22658	Exdorf.........	s̠	-	ʊ̜	-	n	-	a̠	β	ə	-	-	-
+22706	Falkenthal.....	s	-	ʊ̟	-	n	-	ɑ̟	-	-	m	p	-
+22684	Freden.........	z	-	ʏ	-	n	-	ɒʿː	-	-	m	-	th
+22607	Frohnhausen....	s	-	ʊ	-	n	-	o	β	ə	-	-	t
+22616	Gerbstedt......	s	-	ɤ	-	n	-	ɔʿ→ə	-	-	m	-	th
+22680	Gersdorf.......	s	-	ɪ̜	-	-	-	-	-	-	m	-	th
+22604	Gornsdorf......	s	-	ɤ̣	-	n	-	ɐʾ	-	-	m	-	tʼ
+22601	Gottsbüren.....	s	-	ʏ	-	n	-	ɔ̜	-	-	m	-	th
+22709	Gresenhorst....	s͡z	-	ʏ̜	-	n	-	ɒ̣	-	-	m̩	-	th
+22648	Grossenwiehe...	s	-	ʊʿ	-	n	-	õ	-	-	m	-	-
+22694	GrossJamno.....	ð	-	ɔ	-	n	-	ɔ̟ː	-	-	m̩	-	-
+22621	GrossMohrdorf..	s	-	ø̣	-	n	-	ɑ	-	-	m	-	t
+22582	Grosswechsungen	s	-	ʏ	-	n	-	ɔʿː	-	-	m̩	-	t
+22747	Grünlichtenberg	s̠	-	ʊ̟	-	n	-	ɑ	-	-	m̩	-	tʼ
+22727	Grünow.........	z	-	ʊ	-	n	-	ɔʿ	-	-	m	-	t
+22647	Götz...........	z	-	ʊ	-	n	-	a	-	-	n	-	tʼ
+22578	Hagen..........	s	-	ʏ̜	-	n	-	ɑ̟̃	-	-	m	-	th
+22590	Hammah.........	s͡z	-	ʏ̜	-	n	-	ɒ̃	-	-	m	-	-
+22606	Herrentrup.....	s	-	ʊ̟	-	n	-	o̟	-	-	m	-	tʰ
+22745	Herzfeld.......	s	-	ø̣	-	n	-	ɒ	-	-	mː	-	t̰
+22615	Hohwacht(Os)...	s̠͡z̠	-	ɤ̟	-	n	-	ɒ̣ː	-	-	m	ph	-
+22629	Holmkjer.......	s	-	ʏ	-	n͡n	-	ɔ	-	-	m	-	tʰ
+22728	Huddestorf.....	ð	-	œ̣	-	n	-	ɔ̜	-	-	m	-	tʼ
+22671	Hundisburg.....	z	-	ʏ	-	n	-	ɔ͡ɒ	-	-	m	-	t̰
+22636	Hönebach.......	s	-	ʊ̟	-	n	-	ɒ	-	-	m	-	t̪h
+22630	Jacobsdorf.....	z	-	ɪ̜	-	n	-	o̜	β̰	ɛ̠	n	-	tʰ
+22612	Jeetzel........	s	-	ɑ̟	-	n	-	ɒ̣ː	-	-	m	-	th
+22633	Jesteburg......	s	-	ʏ̠	-	n	-	ɒ̣ː	-	-	m	p̰	-
+22720	Jonsdorf.......	s	-	ɪ̠	-	-	-	-	-	-	m	-	tʰ
+22668	Jürgenshagen...	s	-	ʏ̜	-	n	-	ɒ̣	-	-	m	-	tʼ
+22673	KirchKogel.....	s	-	ʏ	-	n	-	ɒː	-	-	m	p̰	-
+22620	Kuhstedt.......	z	-	ʏ̜	-	n	-	ɔ	-	-	m	-	t
+22734	Lampertswalde..	s	-	ʊ̟	-	n	-	ʌ→ə	-	-	m	-	th
+22657	Landgrafroda...	s̟	-	ʏ	-	n	-	ɔ̜ː	-	-	m̩	-	-
+22748	Linz...........	s	-	ʊʿ	-	n	-	a̠	-	-	m	-	t̰
+22740	Lippen.........	s̠	-	ɔ	-	n͡n	-	a̠	-	-	m	-	t
+22737	Lohra..........	s	-	ʊ̜	-	n	-	ə̠	v	ə	-	-	th
+22598	Mirow..........	θ	-	ø̣	-	n	-	ɒ̣̃	-	-	m	-	-
+22664	Mockern........	s	-	ʏ	-	n	-	ɤ	-	-	m	-	tʼ
+22637	Mörshausen.....	s	-	oʿ	-	n	-	ɔː	β	ə̣	-	-	th
+22691	NeuSchadow.....	s	-	ʏ	-	n	-	ɒ	-	-	m̩	-	t̰
+22571	Niederasphe....	s	-	o	-	n	-	o	β	ə	-	-	th
+22712	Offdilln.......	s	-	o	-	n	-	ɔ	β	ə	n	-	tʰ
+22678	Ohrdorf........	s	-	ʊ̟	-	n	-	ɔ	-	-	m	-	th
+22594	Oiste..........	s͡z	-	œ	-	n	-	ɒ̣ʿ	-	-	m	-	tʼ
+22674	Orferode.......	s	-	w̟	-	n	-	o̜͡ʊ	β	ə	-	-	tʰ
+22579	Osterbruch.....	z	-	ʏ	-	n	-	o̜	-	-	m	-	tʼ
+22626	Osterfeld......	θ	-	ʏ	-	n	-	ɒː	-	-	m	-	t
+22682	Osterhagen.....	z̟	-	ʏ	-	n	-	ɔ͡ɒ	-	-	m	-	tʰ
+22641	Ottowind.......	s	-	ʊ̣	-	n	-	ɔ	-	-	m	-	th
+22672	Pretzsch(El)...	θ	-	ʊ̟	-	n	-	ɔ̣→ɐ	-	-	m	-	t
+22700	Rammenau.......	s	-	ɪ̜̠̃	-	n	-	-	-	-	-	pʼ	tʼ
+22573	Reelkirchen....	s	-	u̜	-	n	-	ɔ	-	-	m	pʰ	-
+22661	Reetz..........	z̟	-	ʉ	-	n	-	ɒː	-	-	m	-	tʰ
+22697	Rossau.........	z	-	ø	-	n	-	oʿː	v	-	n̩	-	tʼ
+22623	Rosswein.......	θ	-	ɤ̟	-	n	-	ɐʾ	-	-	m	-	t̰
+22732	Ruhlsdorf......	s͡z	-	y̜	-	n	-	o→ɐ	-	-	m	-	tʼ
+22701	Röhrda.........	s	-	ʊ̜ʿ	-	n	-	oː	b̰	-	m	-	th
+22642	Rosenthal......	s̟	-	o	-	n	-	oʿ	β	ə	n	-	t
+22643	Rosenthal......	s	-	o̜	-	n	-	oː	β	ə	n	-	t
+22609	Schauenstein...	s	-	ʊ	-	n	-	a̠	-	-	n	-	tʰ
+22592	Schellroda.....	s̟	-	ọʿ	-	n	-	ọ	-	-	m	-	tʼ
+22575	Schmannewitz...	z	-	ʏ̠	-	n	-	ɔʿ	-	-	m	-	th
+22738	Schraden.......	s	-	ʏ̜	-	n	-	ʌ̜	-	-	m	-	th
+22739	Schraden.......	s̠	-	ø̣	-	n	-	ɔ͡ɔ̜	-	-	m	-	tʼ
+22689	Schwabstedt....	s	-	ʊ̟	-	n	-	ɒ	-	-	m	-	-
+22669	Schönbeck......	t͡θ͡ð	-	ɪʾ	-	n	-	ɒʿ	-	-	m̩	-	-
+22718	Stöcken........	z	-	ɤ̜	-	n	-	ʌ̜ː	-	-	m	-	th
+22584	Tann(Rhön).....	s	-	ɔ	-	n	-	ɔ̣	w	ə	-	-	-
+22721	Theuma.........	s	-	ɯ	-	n	-	ɤ	-	-	m	-	t
+22722	Unterellen.....	s	-	ʊ̟	-	n	-	oː	b	-	m̩	-	-
+22599	Valdorf........	s	-	ʊ	-	n	-	ɒ	-	-	m	-	t̠
+22570	Verchen........	s	z	ʏ	-	n	-	ɒ̃	-	-	m	-	th
+22713	Vietmannsdorf..	s͡z	-	ɔ̣ʿ	-	n	-	ə	-	-	m	-	-
+22714	Vietmannsdorf..	z	-	ʏ	-	n	-	ɒ	-	-	m	-	t̰
+22663	Volkershausen..	s	-	ʊ	-	n	-	ɑʾ	β	ə	-	-	-
+22587	Warpe..........	s͡z	-	ɤ	-	n	ɑ	ɒ̣	-	-	m	-	ʔ͡t
+22741	Wasbek.........	s	-	ʊ̟	-	n	-	ɔ̜	-	-	m	-	th
+22746	Wasbüttel......	s	-	œ̣	-	n	-	ɒː	-	-	m	-	tʰ
+22650	Wehrsdorf......	θ	-	ɤ̣	-	n	-	ɑ	-	-	m	-	th
+22595	Wentorf(Sand)..	s	-	ʏ̠	-	n	-	ɔ̜̟	-	-	m	-	-
+22725	Wernigerode....	z	-	ɪ̠	-	n	-	ɔ	-	-	m̩	-	th
+22586	Weyhers........	s	-	ɔ	-	n	-	ɔ	β	ə	n	-	t
+22611	Wieda..........	s̟	-	ʏ	-	n	-	oː	-	-	m	-	th
+22624	Wittelsberg....	s	-	ʊ̜	-	n	-	o	w	ə	-	-	tʰ
+22666	Wolgast........	z	-	ʏ̣	-	n	-	ɒ	-	-	m	-	th
