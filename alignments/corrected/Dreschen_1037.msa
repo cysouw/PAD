@@ -14,7 +14,7 @@
 :ANN	STANDARD.......	.	.	D	.	r	e	.	.	sch	.	e	n	.
 :ANN	COMPLEX........	.	.	.	.	.	<	-	>	.	.	.	.	.
 :ANN	IGNORE.........	.	.	.	.	.	.	.	.	.	.	.	.	x
-:ANN	CROSS..........	.	.	.	+	-	+	.	.	.	.	.	.	.
+:ANN	CROSSED........	.	.	.	+	-	+	.	.	.	.	.	.	.
 #
 # "gedrescht"
 #
