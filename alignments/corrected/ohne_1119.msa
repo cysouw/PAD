@@ -10,7 +10,7 @@
 #
 :ANN	STANDARD.......	.	.	oh	n	e	.
 :ANN	COMPLEX........	.	<	>	.	.	.
-:ANN	IGNORE.........	.	.	.	.	.	x
+:ANN	IGNORE.........	x	.	.	.	.	x
 #
 16298	Aachen.........	-	-	ʊ→ə	n	ə	-
 16349	Adorf..........	-	-	ɔː	n	ə	-
