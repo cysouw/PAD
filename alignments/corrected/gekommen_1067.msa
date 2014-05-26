@@ -4,11 +4,12 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-12-11 13:43 by Michael Cysouw <cysouw@uni-marburg.de>
 # modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:23 by Michael Cysouw <cysouw@uni-marburg.de>
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10	11
 #
 :ANN	STANDARD.......	g	e	k	.	o	.	mm	.	e	n	.
-:ANN	COMPLEX........	.	.	<	>	<	>	<	>	<	>	.
+:ANN	COMPLEX........	.	.	<	>	<	>	<	>	.	.	.
 :ANN	IGNORE.........	.	.	.	.	.	.	.	.	.	.	x
 #
 24840	Aachen.........	-	-	k	-	ɔ	-	m	-	ə	-	-
