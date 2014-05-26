@@ -5,11 +5,13 @@
 # modified   : 2013-11-30 21:49 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : column 2 and 3 are combined at strings 5873, 5843
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:34 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #
-:ANN	STANDARD.......	g	l	au	b	e	.
+:ANN	STANDARD.......	g	l	au	b	e	(n)
 #
 5725	Aachen.........	ɕ	l	œ̠→ɪ	f	-	-
 5783	Adorf..........	ɣ	l	ɐ̠→ɪ	β	-	-
@@ -122,7 +124,7 @@
 5832	Nürnberg.......	k	l	a	β	-	-
 5833	Nürnberg.......	k	l	aː	β	-	b
 5872	Oberau.........	ɡ	l	a	β	-	-
-5873	Oberau.........	ɡ͡ɣ͡l	-	a	β	-	-
+5873	Oberau.........	ɡ͡ɣ͡	l	a	β	-	-
 5859	Oberhomberg....	ɡ	l	ə→ʊ	p	-	-
 5744	Oberviehbach...	ɡ	l	ɐ→ʊ	β	-	-
 5769	Oberwürzbach...	ɣ	l	a̠ː→ʊ	β	-	-

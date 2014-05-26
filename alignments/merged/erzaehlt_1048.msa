@@ -5,10 +5,12 @@
 # modified   : 2013-12-10 23:16 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : removed string 22153 as not cognate
 # modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:11 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7
 #
-:ANN	STANDARD.......		e	r	z	äh	l	t
+:ANN	STANDARD.......	(f)	e	r	z	äh	l	t
 #
 22056	Aachen.........	f	ə̜	-	t͡s	ɐ→ə	l	th
 22039	Adorf..........	f	ə̜	-	tʰ	ɑ̠	l̠	tʰ
@@ -44,7 +46,7 @@
 22168	Dreeke.........	f	ə	-	thβ̰	œ	l	th
 22146	Ebertshausen...	-	ɛ̠	-	t͡s̟	ɔ̜ː	l̠	tʰ
 22071	Ebstorf........	f	əʾ	-	th	ɛː	l̠	th
-22160	Eichenhofen....	f	əʾ	-	t͡s	ø͡ʏ	-	th
+22160	Eichenhofen....	f	əʾ	-	t͡s	ø͡	ʏ	th
 22050	Einöllen.......	v	ə	-	t͡s	e→ɪ	l̩	th
 22155	Endenburg......	-	ɐ˻	-	t͡s	ɛ	l	th
 22025	Engelsbach.....	-	ɔ̟	-	t͡s	e̜→ə̟	l	th
@@ -56,7 +58,7 @@
 22157	Falkenthal.....	ɸ	ə̟	-	tʰ	ɛ̣	l	th
 22188	Freden.........	f	ə	ɾ	tʰ	ɛʾː	ɬ	th
 22189	Frohnhausen....	-	ɛ→ə̜	-	t͡s	ɑ̟ː	l̠	th
-22043	Gelting........	-	ɛ̣→ə	t	s	ə→ɪ	-	th
+22043	Gelting........	-	ɛ̣→ə	t	s	ə	→ɪ	th
 22130	Gerbstedt......	-	ɛ→ɐ	-	t̰͡s	ɛ̣ː	ɭ	th
 22067	Gersdorf.......	-	e̠→ə̰	-	t͡θ	æ→ə	l̠	th
 22115	Gornsdorf......	-	o̟	-	t͡s	e→ə	l̠	th
@@ -81,7 +83,7 @@
 22059	Herrentrup.....	ɸ	ə̜	-	tʰ	ẹ	l	th
 22095	Herzfeld.......	ɸ	əʾ	-	th	ɛ̜	ɫ	th
 22024	Hesselteich....	f	o̟ʿ	-	tʰ	e̜→ə̰ʾ	l	th
-22082	Hohenkörben....	f	ə	-	tʰ	e̜→ɪ̣	-	th
+22082	Hohenkörben....	f	ə	-	tʰ	e̜	→ɪ̣	th
 22108	Hohwacht(Os)...	f	ə	-	th	ɛ	ʎ	th
 22151	Holmkjer.......	f	ə	-	th	ɛ	l	th
 22040	Hundisburg.....	f	əʾ	-	tʰ	ɛ̣	l	tʰ
@@ -105,7 +107,7 @@
 22117	Köln...........	f	ə	-	t͡s	ɑː	ɫ	th
 22027	Lampertswalde..	-	ɛ→ɐ̠	-	t͡s̟	ɛ̜ː	l	tʼ
 22148	Landgrafroda...	-	ɛ̠→ɐ	-	t̪͡s̟	ɛ̣ː	l̠	th
-22192	Langenbruck....	-	ɛ˻	-	t͡s	ɛ̠→ɪ	-	t͡s̰
+22192	Langenbruck....	-	ɛ˻	-	t͡s	ɛ̠	→ɪ	t͡s̰
 22104	Leuth..........	f	ɔ̟	ʁ	t	æ̣ː	l̜	th
 22199	Linz...........	-	ɔ̟	-	t͡s̟	ɛː	l	th
 22167	Lippen.........	d	ɐ	-	t͡s	eː	l	th
@@ -124,9 +126,9 @@
 22029	Nürnberg.......	-	ɛ	-	t͡s	e͡ə̣+	l	th
 22030	Nürnberg.......	-	ə̜	-	t͡s	e̠͡ə̣+	l	th
 22080	Oberau.........	f	ə˻	-	t͡s	ɛʾ	l	th
-22081	Oberau.........	f	ə	-	t͡s	ə→ɪ	-	th
+22081	Oberau.........	f	ə	-	t͡s	ə	→ɪ	th
 22186	Obermaisel.....	f	ə	ɾ	t̰͡s̠	ɛ̠	ɭ	tʰ
-22097	Oberviehbach...	-	ɛ→ə	-	t͡s	oʿ→ɪ	-	t̪͡θ
+22097	Oberviehbach...	-	ɛ→ə	-	t͡s	oʿ	→ɪ	t̪͡θ
 22138	Oberwürzbach...	-	e̠	ʁ	t͡s	e→ə	l	th
 22084	Odenspiel......	f	ø̜	-	t͡s̟	ɑ	ɫ	th
 22101	Offdilln.......	-	ɛ	ɹ̰	t͡s	ɑ̟ː	l	tʰ
@@ -140,7 +142,7 @@
 22172	Pfaffenrot.....	-	ə̜	-	t͡s	ɛː	l	t
 22054	Pielenhofen....	f	ə	-	t͡s	œ̣	l	tʰ
 22185	Pretzsch(El)...	-	ɑ	ʁ	t͡s̟	eː	l̠	th
-22037	Pöttmes........	-	ɛ→ə̜	-	t͡s	ø̜→ɪ	-	t̪͡θ
+22037	Pöttmes........	-	ɛ→ə̜	-	t͡s	ø̜	→ɪ	t̪͡θ
 22083	Rammenau.......	t	ɐ	-	t͡s	e̜→ə	l	th
 22180	Ramsau(Berch)..	f	ɔ̟	-	t͡s	iː	-	tʰ
 22089	Reelkirchen....	f	ə̜	-	tʰ	eː	l	tʰ
@@ -161,7 +163,7 @@
 22126	Schönbeck......	f	a̠	-	th	ɛ	l̠	t̰
 22026	Siebenbach.....	-	ɛ→ə̜	-	t͡s	ɛ͡ə	l̠	t
 22195	Stöcken........	f	ə	-	tʰ	e̜	l	th
-22087	Tann(Rhön).....	-	ɛ	ə	t͡s	ɔ̜ː	l	th
+22087	Tann(Rhön).....	-	ɛə	-	t͡s	ɔ̜ː	l	th
 22069	Theuma.........	d	ɔ̠	-	t͡s	i̜→ə̟	l	th
 22098	Treffelstein...	f	ə̜	-	t͡s	ɤʿ	l̻	th
 22088	Ulbering.......	-	ɛ→ə	-	θ͡s	e̜̠	l	tʰ

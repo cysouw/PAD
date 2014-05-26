@@ -5,6 +5,8 @@
 # modified   : 2013-12-01 14:04 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : string 9452 has merged column 5/6/7
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 20:33 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7
 #
@@ -25,7 +27,7 @@
 9460	Engter.........	æ	n	-	-	-	ə̜	n
 9445	Ensheim........	ɒ̣	n	-	-	-	ə	n
 9447	Eschelbronn....	ɔʿ	n	-	ə	ʁ	ə	-
-9452	Gelting........	ɒ̃	n	ð	ə	-	-	ɾ͡n
+9452	Gelting........	ɒ̃	n	ð	ə	ɾ		n
 9443	Hartenstein....	ã̠	n	d	-	-	ə̜	n
 9468	Herrentrup.....	ɑ̟	n	-	-	-	ə̜	n
 9458	Horheim........	a	n	t	-	ʁ	ə	-

@@ -5,12 +5,14 @@
 # modified   : 2013-12-08 22:13 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : absence of column 4 always occurs together with super-complex combination in column 1
 # modified   : 2013-12-18 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:27 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #
 :ANN	STANDARD.......	g	e	n	u	g
 #
-15245	Aachen.........	-	ɪ→ə	n	o̜ː	ʀ̥
+15245	Aachen.........	ɪ→	ə	n	o̜ː	ʀ̥
 15336	Adorf..........	k	ə	n	ɔ	χ
 15343	Ahrbergen......	k	ə	n	ɐ̟→ʊ̜	x
 15240	Albersloh......	χ	ə	n	oː	χ̫
@@ -24,7 +26,7 @@
 15328	Ballhausen.....	ç	ə̣	n	ʊ̟	x̠
 15339	Bardenfleth....	x̟	ə	n	o͡ọ	χ
 15382	Barssel........	k	ə	n	ɐ→ʊ	ʀ̥
-15313	Bempflingen....	ɡ͡ŋ	-	-	ʊ→ə	k
+15313	Bempflingen....	ɡ͡	-	ŋ	ʊ→ə	k
 15289	Bennin.........	k	ə	n	ɐ̟ʾ→ʊ	x
 15225	Billingsbach...	ɡ	-	n	ʊ̣ʿː	χ
 15304	Bockelwitz.....	k	ə	n	ɯː	ɱ̰kʼ
@@ -108,7 +110,7 @@
 15320	Köln...........	j	e	n	oː	χ
 15375	Lampertswalde..	k	ə̟	n	ʊ	x
 15390	Landgrafroda...	j	əʾ	n	ʊ̣	x
-15286	Langenbruck....	k͡n	-	-	ɯ͡ə	k͡x
+15286	Langenbruck....	k͡	-	n	ɯ͡ə	k͡x
 15398	Leuth..........	ç	ə̟	n	ɔ	χ
 15291	Lippen.........	k	ɪ̜	n	ɔ̟	qh
 15380	Lippramsdorf...	x	ə	n	ɐ→ʊ	ʀ̥
@@ -125,8 +127,8 @@
 15302	Niederauerbach.	k	ə	n	ʊ	ŋk
 15243	Niedernhausen..	k	ə	n	o	ʀ̥
 15346	Nürnberg.......	ʔ̃	-	n	ọ͡o	x
-15347	Nürnberg.......	ɡ͡ŋ	-	-	ọ͡o	x
-15384	Oberau.........	ɡ͡n	-	-	ʊ→ə̜	-
+15347	Nürnberg.......	ɡ͡	-	ŋ	ọ͡o	x
+15384	Oberau.........	ɡ͡	-	n	ʊ→ə̜	-
 15383	Oberhomberg....	ɡ	-	n	ɯə	kʰ
 15262	Obermaisel.....	k̰	-	n	ɯ̟→ə	-
 15387	Oberviehbach...	ɡ	-	ŋ	ʊ̃→ə̜̃	-
@@ -142,7 +144,7 @@
 15222	Ottowind.......	k	ə+	n	ʊ	ŋkh
 15337	Peterskirchen..	k	-	n	ɤ̟	kʰ
 15284	Pfaffenrot.....	t	-	n	ʊ	ŋkʰ
-15352	Pielenhofen....	ɡ͡ŋ̩	-	-	ʊ̃→ə̃	-
+15352	Pielenhofen....	ɡ͡	-	ŋ̩	ʊ̃→ə̃	-
 15332	Pretzsch(El)...	ç	ɪ̜	n	ọ	χ
 15234	Pöttmes........	ɡ	-	m	ɯə	-
 15349	Rammenau.......	ɡ	e̠	n	ʊ	ŋkʰ
@@ -154,7 +156,7 @@
 15280	Rosswein.......	k	ə̟	n	ʊ̣ː	ʀ̥
 15354	Ruhlsdorf......	j	ẹ	n	ʊ̜	χth
 15242	Röhrda.........	k	ə	n	ʊ̜	x
-15285	Schachach......	k͡n	-	-	ɯ→ə	-
+15285	Schachach......	k͡	-	n	ɯ→ə	-
 15305	Schauenstein...	ɡ	ə	n	ɤʾ͡ʊ̜	χ
 15357	Schellroda.....	k	ə	n	ʊ̜	χ
 15379	Schmannewitz...	k	ə̣	n	ʊ→ə̰	s
@@ -164,7 +166,7 @@
 15265	Schömberg......	ɡ	-	n	ʊːə	ʀ̥
 15268	Schönbeck......	k̟	ə̟	n	ɔ̣	x̠
 15252	Seelbach.......	k	-	n	ɯʾ	kʼ
-15248	Siebenbach.....	-	ɪ→ə	n	oː	χ
+15248	Siebenbach.....	ɪ→	ə	n	oː	χ
 15327	Stöcken........	k	ə	n	ɤ̟→ʊ	x
 15220	Tann(Rhön).....	k	ə	n	ʊ	ŋkh
 15366	Theuma.........	k	ə̣	ɲ	ʊʿ	ŋkh

@@ -5,10 +5,12 @@
 # modified   : 2013-11-30 23:01 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : column 4 is interesting: it seems to belong with column 3, but it can be consistenly separated!
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:51 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 # 
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #
-:ANN	STANDARD.......	h	ö	h	.	e	r
+:ANN	STANDARD.......	h	ö	h	(t)	e	r
 #
 7431	Aachen.........	ɦ	u̜→ɔ̟	-	d	ɐ̠ʾ	-
 7346	Adorf..........	ɦ	œ	l	-	ə̜	-
@@ -52,7 +54,7 @@
 7326	Endenburg......	ɦ	œː	χ͡ʁ	-	ə	ɾ̥
 7364	Engelsbach.....	ɦ	ø̣	j+	-	ɐ̠	-
 7313	Engter.........	ɦ	ɤ̟→ɪ	ɣ	-	ə	ɾ̥
-7455	Ensheim........	ɦ	e→ɪ͡ɪ→ə̜+	-	-	-	-
+7455	Ensheim........	ɦ	e→ɪ͡	ɪ→	-	ə̜+	-
 7331	Eschelbronn....	ɦ	e̠͡ɪ	j	-	ɐ	-
 7292	Eversen........	ɦ	ø̣	-	-	ə	-
 7376	Exdorf.........	ɦ	ø	-	-	ə	-
@@ -66,7 +68,7 @@
 7301	Gornsdorf......	ɦ	ɛʾ	ʒ̠	-	ɐ̃	-
 7291	Gottsbüren.....	ɦ	œ̣	ç̟	θ	ə̜ʾ	-
 7315	Gresenhorst....	ɦ	øː	ɣ	-	ə̟ʾ	-
-7368	Grossenwiehe...	ɦ	ø̜→ɪ͡ɪ	-	-	ə	-
+7368	Grossenwiehe...	ɦ	ø̜→ɪ͡	ɪ	-	ə	-
 7406	GrossJamno.....	ɦ	eʾ	-	-	ɐ̃	-
 7459	GrossMohrdorf..	ɦ	ø͡ʏ	ɣ	-	ɛ̟	-
 7428	Grosswechsungen	ɦ	e̜	ç	-	a̤	-
@@ -93,7 +95,7 @@
 7328	Holmkjer.......	ɦ	ø̜→ɪ	-	-	ə̟̤	-
 7370	Horheim........	ɦ	øː	-	-	ə̜	-
 7379	Huddestorf.....	ɦ	øː͡ʏ̜	j̠͡ɣ̟	-	ɔ̟	-
-7409	Hundisburg.....	ɦ	œʿ→ɪ͡ɪ	-	-	ɔ̟̃	-
+7409	Hundisburg.....	ɦ	œʿ→ɪ͡	ɪ	-	ɔ̟̃	-
 7282	Höchstädt(Don).	h͡ɦ	e͡ə	-	-	-	ɾ
 7399	Hönebach.......	ɦ̰	e̠	ç͡j	-	ɐ̠	-
 7342	Iggingen.......	ɦ	ɛː	-	-	ə	ɾ̥
@@ -139,7 +141,7 @@
 7307	Oberviehbach...	ɦ	ɛː	-	-	ə̜	-
 7375	Oberwürzbach...	ɦ	ɪ̠ː	-	-	ɐ̃ʾ	-
 7338	Odenspiel......	ɦ	ø	ɦ	-	œ̜ʿ	-
-7327	Offdilln.......	ɦ	ɪ̣ː͡ɪ→ə̜+	-	-	-	ɾ̰
+7327	Offdilln.......	ɦ	ɪ̣ː͡	ɪ→	-	ə̜+	ɾ̰
 7288	Ohrdorf........	ɦ	ø̜	k	-	ə̟	-
 7297	Oiste..........	ɦ	ø͡ʏ̜	ɣ	-	ə	-
 7426	Orferode.......	ɦ	e̜	ç͡j	-	ə	ɾ
@@ -154,7 +156,7 @@
 7365	Pöttmes........	ɦ	e̜͡ə̜	ɦ	-	ə̜	-
 7320	Rammenau.......	ɦ	ɪ	ç	-	ɑ̠ː	-
 7451	Ramsau(Berch)..	ɦ	œ̣→i	j	-	əʾ	-
-7358	Reelkirchen....	ɦ	ɔ→ɪ͡ɪ→ə̜	-	-	-	-
+7358	Reelkirchen....	ɦ	ɔ→ɪ͡	ɪ→	-	ə̜	-
 7462	Reetz..........	ɦ	eː	j	-	ɑ̟	-
 7356	Rosenthal......	ɦ	ɛ̣	ç	-	ɔ̤	-
 7433	Rossau.........	ɦ	ø	-	-	æ	-
@@ -182,11 +184,11 @@
 7435	Verchen........	ɦ	øː	ɣ	-	ɛ	-
 7393	Vielbrunn......	ɦ	ɛ→ɪ	ʒ	-	ə̜+	-
 7352	Vietmannsdorf..	ɦ	øː	-	-	æ͡æ̥	-
-7353	Vietmannsdorf..	ɦ	ø	-	-	ɪ→ə̠	-
+7353	Vietmannsdorf..	ɦ	ø	ɪ→	-	ə̠	-
 7405	Volkershausen..	ɦ	œ	ç͡j	-	ə	ɾ͡ɕ
 7322	Wasbek.........	ɦ	œ→ɪʾ	ɣ	-	ɛ̠	-
 7318	Wasbüttel......	ɦ	œ→ʏʿ	j̠	-	ɐ	-
-7289	Wehrsdorf......	ɦ	ɛ̠→ɪ͡ɪ→ɐ	-	-	-	ɻ
+7289	Wehrsdorf......	ɦ	ɛ̠→ɪ͡	ɪ→	-	ɐ	ɻ
 7467	Weidenbach.....	ɦ	ɛ̜ː	x	-	ə	x
 7285	Wemb...........	ɦ	œ	ʁ̟	-	ə̜	-
 7385	Wentorf(Sand)..	ɦ	œ̣→ʏ	ɣ	-	ə	-

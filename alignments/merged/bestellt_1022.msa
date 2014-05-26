@@ -6,6 +6,8 @@
 # comment    : complex combination of 7+8 in string 23826
 # comment    : no corrections necessary
 # modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-05-26 20:46 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7
 #
@@ -16,7 +18,7 @@
 23896	Ahrbergen......	b	ə̟	s	t	ɛ→œ̣	l	th
 23874	Albersloh......	p	ə	ʃ̟	t	ɛ	l	tʰ
 23867	Allna..........	p	ə	ʃ	t	ɑː	l̠	t
-23804	Altentrüdin....	p͡s̠	-	-	t	ɛ̠	l	t͡s̟̰
+23804	Altentrüdin....	p͡	-	s̠	t	ɛ̠	l	t͡s̟̰
 23818	Altlandsberg...	b	ə	ʃ	t	ɛ	l	th
 23916	Altwarp........	b	ə	ʃ̠	t	ɛː	l̠	th
 23932	Astfeld........	b	ə̟	s̠	t	ɛ	l	th
@@ -60,7 +62,7 @@
 23893	Gersdorf.......	b	ə	ʃ	t	ɛ	l̠	t̰
 23936	Gornsdorf......	p	ə	ʃ	t	ɛ	l	th
 23830	Gottsbüren.....	b	ə	ʃ	t	ɛ̠	l	t
-23890	Gresenhorst....	p	əʾ	ʃ̟͡θ	-	e̜ː	ɫ	t
+23890	Gresenhorst....	p	əʾ	ʃ̟͡	θ	e̜ː	ɫ	t
 23966	Grossenwiehe...	b	ə	s	t	ɛ̜ː	l	t
 23871	GrossJamno.....	b	ə̟	ʃ	t	œʿ	l	th
 23950	GrossMohrdorf..	b	e̠	ʃ	t	ɛ	ɫ	tʰ
@@ -80,7 +82,7 @@
 23809	Herssum........	p	ə	ʃ̠	t	ɛ	l	th
 23938	Herzfeld.......	b	ə̟	s	t̪	ɛ̣	ɫ	th
 23891	Hesselteich....	b	ə	ʃ	t	ɛ̠	l	tʰ
-23847	Hohenkörben....	b	ɪ̜	s̠͡t	-	ɛ→ɪ	-	t
+23847	Hohenkörben....	b	ɪ̜	s̠͡	t	ɛ	→ɪ	t
 23815	Hohwacht(Os)...	b	e̠	s̠	t	ɛ	l	th
 23923	Holmkjer.......	p	ə	ʃ	t	ɛ̣	l	th
 23921	Horheim........	p	-	ʃ̠	t	e̜	l	th
@@ -105,7 +107,7 @@
 23864	Lampertswalde..	p	ə	ʃ	t	ɛ	l	tʼ
 23937	Landgrafroda...	b	e̠	ʃ̫	t̪	e	l̠	th
 23835	Langenbruck....	b	ə	ʃ	t	ɛ̠	l̰	th
-23826	Leuth..........	b	ə	ʃ̠	t	æ̣ː	l͡th	-
+23826	Leuth..........	b	ə	ʃ̠	t	æ̣ː	l͡	th
 23914	Linz...........	b	ə	ʃ	t̰	ɛ	l	th
 23851	Lippen.........	b	ə̟	ʃ̟	t	ɛ	l	th
 23823	Lippramsdorf...	b	ə	ʃ	t	ɑ	l̠	tʰ
@@ -140,7 +142,7 @@
 23894	Pfaffenrot.....	p	-	ʃ̟	t	e	l	tʰ
 23858	Pielenhofen....	p	-	ʃ	t	œʿ→ə	l	th
 23816	Pretzsch(El)...	p	ə	ʃ̠	t	øʿ̜	l	th
-23957	Pöttmes........	p	-	ʃ	t	ɯ→ɪ	-	th
+23957	Pöttmes........	p	-	ʃ	t	ɯ	→ɪ	th
 23924	Rammenau.......	b	ə	ʃ	t	ɛ	l̠	th
 23892	Ramsau(Berch)..	p	-	ʃ̠	t	i	-	t
 23860	Reelkirchen....	p	ə	ʃ	t	ɛ	l	th

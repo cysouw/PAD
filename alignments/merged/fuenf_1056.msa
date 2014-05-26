@@ -4,10 +4,11 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-11-30 23:25 by Michael Cysouw <cysouw@uni-marburg.de>
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 21:57 by Michael Cysouw <cysouw@uni-marburg.de>
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #
-:ANN	STANDARD.......	f	ü	n	.	f	.
+:ANN	STANDARD.......	f	ü	n	(e)	f	(e)
 #
 8933	Aachen.........	f	œ	n	ə	f	-
 8997	Adorf..........	f	e͡ɪ	-	-	f	-
@@ -127,7 +128,7 @@
 8951	Kruft..........	f	ø	n	øʿ	f	-
 8824	Kuhstedt.......	f	iː	-	-	f	-
 8928	Köln...........	f	ʏ	n	ə	f	-
-8835	Lampertswalde..	f	ʏ	ɱ	b̰	v	ɛ̠
+8835	Lampertswalde..	f	ʏ	ɱ	-	b̰v	ɛ̠
 8892	Landgrafroda...	f	iʾ	n	ə	β	ə̟
 8795	Langenbruck....	f	ɪ̠	ɱ	-	p͡f	-
 8796	Langenbruck....	p͡f	i	ɱ	-	v	-
@@ -143,7 +144,7 @@
 8867	Maxweiler......	f	ɪ	m	-	p͡f	-
 8868	Maxweiler......	f	iʾ	ɱ	-	p̰͡f	-
 8779	Mirow..........	f	i	-	ɪ̠	f	-
-8845	Mockern........	f	ʏ̠	ɱ	b̰	v	əʾ
+8845	Mockern........	f	ʏ̠	ɱ	-	b̰v	əʾ
 8934	Mörshausen.....	f	ʏ	ɱ	-	v	ə̟
 8846	NeuSchadow.....	ɸ	ʏ	ɱ	-	p͡ɸ	-
 8949	Niederasphe....	f	ɪ̣ʾ	n	-	f	-

@@ -9,7 +9,7 @@
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #
-:ANN	STANDARD.......	B	er	g	e	.
+:ANN	STANDARD.......	B	er	g	e	(n)
 #
 17620	Aachen.........	p	ɛ→ɐ	ʃ	-	-
 17693	Adorf..........	b	ẹ→ə̜	-	ɪ→ə	-
@@ -100,7 +100,7 @@
 17653	Iversheim......	b	æːɬ	-	-	-
 17654	Iversheim......	b	æːʁ	ɕ	-	-
 17668	Jacobsdorf.....	b	ɛ̜ɻ	j	ə̟	-
-17633	Jeetzel........	b	ɑ̠ːʁ	n̩s	-	-
+17633	Jeetzel........	b	ɑ̠ːʁ	-	-	n̩s
 17663	Jesteburg......	p	ɑ̟ː	ɣ	-	-
 17664	Jesteburg......	p	aː	-	-	ŋ̩
 17680	Jonsdorf.......	p	ɑ̟ɻ	ɣ	ə	-

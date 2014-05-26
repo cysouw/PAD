@@ -5,6 +5,8 @@
 # modified   : 2013-12-09 00:05 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : column 8 looks like an error
 # modified   : 2013-12-18 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:37 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #
@@ -29,7 +31,7 @@
 18357	Billingsbach...	ɡ	ɾ	eː	s	-	ɾ̩
 18286	Bockelwitz.....	ɡ	ʁ	øʿ	z	ɐ	-
 18364	Bonn...........	-	ʁ	u̜+ː	st͡s	ə	-
-18338	Borstendorf....	k͡x͡ʁ	-	ɛ̣	s̟	ɒ̠	-
+18338	Borstendorf....	k͡x͡	ʁ	ɛ̣	s̟	ɒ̠	-
 18385	Breddin........	ɡ	ɾ	ø	ɾ	ə̟	-
 18370	Brelingen......	k	r	œ	t	ɐ	-
 18365	Bremscheid.....	-	χ̟	œ	t̪	ə̜	-
@@ -61,7 +63,7 @@
 18406	Gerbstedt......	ç	ʁ	œ̣	z	ɐ	-
 18384	Gersdorf.......	ɡ	ɾ	ʏ	z	ɛ̠	-
 18319	Gornsdorf......	k͡x	-	ɛ	z	ɐ	-
-18450	Gottsbüren.....	-	x̠͡ʀ̥	œ̣	t	ə̜ʾ	-
+18450	Gottsbüren.....	x̠͡	ʀ̥	œ̣	t	ə̜ʾ	-
 18326	Gresenhorst....	k	ɾ	œ̣	d	əʾ	-
 18273	Grossenwiehe...	k	ɾ	œ	d̰	ə	-
 18409	GrossJamno.....	k	ʁ	eʾː	s	ə̟	-
@@ -82,8 +84,8 @@
 18366	Herrentrup.....	-	ʀ̥	œ	d	ə̜	-
 18415	Herssum........	k	ɾ	œ̜	th	ə̜+	-
 18339	Herzfeld.......	k	ɾ	ø	d	əʾ	-
-18300	Hesselteich....	k	χ͡ʁ	œ	d	əʾ	-
-18395	Hohenkörben....	-	χ̟͡ʁ͡ʀ	œ̣	θ	ə̜ʾ	-
+18300	Hesselteich....	kχ͡	ʁ	œ	d	əʾ	-
+18395	Hohenkörben....	χ̟͡	ʁ͡ʀ	œ̣	θ	ə̜ʾ	-
 18341	Hohwacht(Os)...	ɡ	ʁ	ø̜→ɪ	d	ə̜	-
 18265	Holmkjer.......	x	r	œ̜	ɾ	ə̜	-
 18288	Horheim........	ɡ	ʁ	øː	s	ə	ʁ̰
@@ -102,7 +104,7 @@
 18355	Kemmern........	k	ɾ	ø̣ː	z	ə	-
 18302	KirchKogel.....	ɡ	ɹ	œ	β̰	ə	-
 18377	Klafferstrass..	k	ɾ	e	s͡s	ə	-
-18314	Kleinbottwar...	k	x͡ʁ	ɑ→ɪ̣	s	ə	ʁ
+18314	Kleinbottwar...	kx͡	ʁ	ɑ→ɪ̣	s	ə	ʁ
 18315	Kleinbottwar...	k	ʁ	e̠ː	s	ə	-
 18318	Kruft..........	k	ʀ	yː	s̟	ə	-
 18422	Kuhstedt.......	k	ɾ	œ	t͡t	ə	-
@@ -120,8 +122,8 @@
 18307	Mastershausen..	ɡ	ɾ	iː	z͡s	ə̜	-
 18312	Maxweiler......	k	-	e	s	ə̜	-
 18328	Mirow..........	k	ɾ	ø̜	d͡ʒ̰	ɐ	-
-18429	Mockern........	k͡χ͡ʁ	-	ø͡ʏ̜	z	ɔ̟	-
-18278	Mörshausen.....	k	χ͡ʁ	ɛ̠	z	ə̠	-
+18429	Mockern........	k͡χ͡	ʁ	ø͡ʏ̜	z	ɔ̟	-
+18278	Mörshausen.....	kχ͡	ʁ	ɛ̠	z	ə̠	-
 18418	NeuSchadow.....	ɡ	ɹ	e	z	ɐ	-
 18443	Niederasphe....	k	ɾ	e̜	z	ɛ	-
 18434	Niederauerbach.	k	ɾ	e	s	ɐ	-
@@ -148,7 +150,7 @@
 18267	Pretzsch(El)...	k	ʁ	e	z	ɔ̟	-
 18352	Pöttmes........	ɡ	ɾ	ɛ→ə	s	ə	-
 18295	Rammenau.......	k	ɾ	øʿ	s	-	ɻ̩
-18440	Ramsau(Berch)..	k͡ɾ	-	ẹ	ss	ə	-
+18440	Ramsau(Berch)..	k͡	ɾ	ẹ	ss	ə	-
 18363	Reelkirchen....	ç	ʀ̥͡ʁ	œ̜	tʰ	ə̜	-
 18376	Reetz..........	ç	ʁ	ɛ̣	tʰ	ɐ	-
 18431	Rosenthal......	k	ʀ̥	œ̣	s	ɔ̣̈ʿ	-
@@ -162,7 +164,7 @@
 18349	Schmannewitz...	k	ʁ	eː	z	ɐ	-
 18419	Schnepfenbach..	k	ɾ	œ̣ʿ	s	ə	-
 18301	Schraden.......	k	ʁ	eː	z̟	-	ʁ̩
-18272	Schwabstedt....	-	χ͡ʁ	œ̣	ð	ə	-
+18272	Schwabstedt....	χ͡	ʁ	œ̣	ð	ə	-
 18448	Schömberg......	k	ɾ	ɐ→ɪ	s	ə	ɾ
 18356	Schönbeck......	k	ʁ	ø͡ʏ̜	d	ɐ	-
 18389	Seelbach.......	k	χ̰	ɛʾ	z	ə˻	-

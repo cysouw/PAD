@@ -4,10 +4,12 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-12-13 09:46 by Michael Cysouw <cysouw@uni-marburg.de>
 # modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:35 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #
-:ANN	STANDARD.......	g	.	l	ei	ch
+:ANN	STANDARD.......	g	(e)	l	ei	ch
 #
 27551	Aachen.........	ɕ	ə	l	ɪː	ɕ
 27592	Ahrbergen......	k	-	l	ø̜͡ø̣	k
@@ -113,7 +115,7 @@
 27601	Schellroda.....	k	-	l	iː	ç
 27654	Schmannewitz...	-	-	l	a̠ː→ɪ	j
 27625	Schraden.......	k	-	l	ɐ̟→ɪ	-
-27655	Schwabstedt....	k͡l̥	-	-	i	ɣ
+27655	Schwabstedt....	k͡	-	l̥	i	ɣ
 27621	Schönbeck......	ɡ	-	l	ɪ̣	k
 27647	Stöcken........	k	-	l	i̜	k
 27593	Tann(Rhön).....	ɡ	-	l	ə→ɪ	j

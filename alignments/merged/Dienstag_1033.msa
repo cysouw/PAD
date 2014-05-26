@@ -7,11 +7,12 @@
 # comment    : removed various non-cognates
 # comment    : columns 10, 13, and 16 are often super complex, and should be split/merged for better alignment
 # modified   : 2013-12-20 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-05-26 21:03 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9
 #
 :ANN	STANDARD.......	D	ie	n	.	s	.	t	a	g
-:ANN	CROSSED........	.	.	.	.	+	.		.	.
 #
 24734	Aachen.........	t	e	n	-	s	-	t͡s	ɪ̠	ʃ
 24769	Adorf..........	d̰͡ð	ɪ	n	-	s	-	d	ɑ̟ː	χ
@@ -31,7 +32,7 @@
 24733	Billingsbach...	t	ɪ̣ː	-	-	ʃ	-	t	ə	-
 24705	Bockelwitz.....	t	ɪ	n	-	s̟	-	t̪	a̠ː	x
 24706	Bockelwitz.....	t	ɪ̣	n	-	s	-	-	-	ʃː
-24621	Bonn...........	d	ɪ	n	-	t̰͡s͡t̪	-	-	ɑ̟	χ̟
+24621	Bonn...........	d	ɪ	n	-	t̰͡s͡	-	t̪	ɑ̟	χ̟
 24764	Borstendorf....	t	ẹ	n	-	t	-	-	-	ʃ̠ː
 24686	Breddin........	d	ɪ	ŋ	ə	ð	ə̰	d	a̠	x̠
 24623	Brelingen......	t	i	n	-	s	-	θ	ɑ̟	ʁ̰
@@ -47,7 +48,7 @@
 24636	Docelles.......	t	ɪ̣	n	-	s	-	t	ɔ̜	k
 24631	Dreeke.........	t	ɪ̣	ŋ	ə̣	s̟	-	t̪	a	x̟
 24653	Ebertshausen...	t	a̠→ẹ	-	-	s	-	d̰	ẹ	ç
-24670	Ebstorf........	t	ɪ	ŋ͡k	-	s͡θ	-	-	a	χ
+24670	Ebstorf........	t	ɪ	ŋ͡k	-	s͡	-	θ	a	χ
 24748	Einöllen.......	t	ɪ̣	n	-	ʃ̠	-	t	ɑʾː	χ
 24707	Endenburg......	t͡s	i̜ː	-	-	ʃ	-	t	i̜	kh
 24708	Endenburg......	t͡s	i̜ː	-	-	ʒ͡ʃ	-	t	i̜	kh
@@ -63,7 +64,7 @@
 24724	Gelting........	t	i	n	-	s	-	t	ɔ̟ʿ	k
 24607	Gerbstedt......	t	ɪ̣	n	-	s	-	t̪	ɑʾː	kʰ
 24750	Gersdorf.......	t	iː	n	-	t	-	-	-	ç̟ː
-24676	Gornsdorf......	t	ẹ	n	-	t̰͡s̠͡ʃː	-	-	-	-
+24676	Gornsdorf......	t	ẹ	n	-	t̰͡s̠͡	-	-	-	ʃː
 24625	Gottsbüren.....	d	ɪ	n	-	s	-	θ	ɑ	χ
 24759	Gresenhorst....	t	iː	n	-	t͡s̟	-	t	a̠ː	χ
 24696	Grossenwiehe...	tʰ	i	n	-	s	-	-	a	x
@@ -112,14 +113,14 @@
 24743	Landgrafroda...	t	ɪ	n	-	s̠	-	t	ɔʿː	x̰
 24604	Langenbruck....	t	ɛ̃͡ə̃	n	-	s	-	t	o͡ʊ	k͡x
 24772	Leuth..........	d	eː	-	-	z	-	d	ɪ	ç
-24774	Linz...........	t	ẹ	n	-	s͡ɕ	-	-	-	-
+24774	Linz...........	t	ẹ	n	-	s͡-	-	-	-	ɕ
 24694	Lippen.........	t	iː	n	-	s	-	t	a	kʰ
 24679	Lippramsdorf...	t	ɪ̣	n	-	s	-	tʰ	a̠	x̠
 24725	Lohra..........	t	ɪ	-	-	s	-	t	ɒː	kʰ
 24760	Lohrhaupten....	t	ɪ̣	n	-	s	-	t̪	ɔ̜ː	χ
 24651	Mastershausen..	t	eː	-	-	s	-	t	o̜	x
 24622	Maxweiler......	t	ɪ̣	n	-	ʃ̟	-	t	ə̜	k̰
-24723	Mirow..........	t	ɪ̣	ŋ͡θ	-	-	-	-	a̠	x̰
+24723	Mirow..........	t	ɪ̣	ŋ͡	-	-	-	θ	a̠	x̰
 24683	Mockern........	t	ɪ̜	n	-	t͡s	-	-	-	ʃː
 24720	Mörshausen.....	d	ẹ	n	-	s̠	-	d	ɒ̣ː	ʀ̥
 24746	NeuSchadow.....	t	iː	n	-	s	-	ɬɣ	ɒ̃ː	-

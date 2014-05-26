@@ -7,7 +7,7 @@
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #
-:ANN	STANDARD.......	b	ei	ß	e	.	n
+:ANN	STANDARD.......	b	ei	ß	e	(t)	n
 #
 7701	Aachen.........	p	i̜ː	s	ə	-	-
 7736	Adorf..........	b	ẹ͡ɪ	tʰ	ə	tʰ	-
@@ -146,7 +146,7 @@
 7648	Schellroda.....	p	iː	s̟	-	-	n̩
 7712	Schmannewitz...	p	a̠ː→ɪ̜	z̟	-	-	n̩
 7653	Schnepfenbach..	p	ɐ→ɪ	z	-	-	n̩
-7670	Schraden.......	p	ɐ→ɪ	z̟	ə	ʁ	n
+7670	Schraden.......	p	ɐ→ɪ	z̟	əʁ	-	n
 7723	Schömberg......	p	ə→ɪ	s	ə	t̪͡θ	-
 7698	Schönbeck......	b	i̜	t	-	-	n̩
 7642	Seelbach.......	p	i	z	ə	-	-

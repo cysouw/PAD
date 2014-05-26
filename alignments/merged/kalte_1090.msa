@@ -4,6 +4,8 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-12-02 20:54 by Michael Cysouw <cysouw@uni-marburg.de>
 # modified   : 2013-12-18 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:59 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #
@@ -43,9 +45,9 @@
 13797	Dreeke.........	kh	ʊ̜ː	l	-	ə
 13781	Ebertshausen...	kh	a̠	l̠	-	-
 13782	Ebstorf........	kʰ	oʿ͡ʊ	l	-	ə
-13699	Eichenhofen....	kh	ɤʾ→ɪ	-	t	ẹ
+13699	Eichenhofen....	kh	ɤʾ	→ɪ	t	ẹ
 13712	Einöllen.......	χ	ɔ͡ʌ̜	l	t	-
-13758	Endenburg......	χ	ɑː	l͡t	-	-
+13758	Endenburg......	χ	ɑː	l͡	t	-
 13759	Endenburg......	χ	ɑː	l̠	t	-
 13647	Engelsbach.....	kʰ	a̠ː	ʎ	-	ə
 13815	Engter.........	kʰ	ɐ̠→ʊ	l̠	-	ə
@@ -57,8 +59,8 @@
 13637	Freden.........	kʰ	ɐʾ→ʊ	l	-	ə
 13766	Frohnhausen....	k͡x	ɑː	l	-	ə
 13642	Gelting........	k͡x	ɔ→ɪ	ɭ̰	-	ə
-13643	Gelting........	k͡x	ɔ→ɪ	-	ð̰	ə̟
-13644	Gelting........	kx	o̜→ɪ	-	ð	ə̟
+13643	Gelting........	k͡x	ɔ	→ɪ	ð̰	ə̟
+13644	Gelting........	kx	o̜	→ɪ	ð	ə̟
 13711	Gerbstedt......	k	ɔː	l	-	ə
 13702	Gersdorf.......	χ	a̠ː	l	-	ə
 13709	Gornsdorf......	kh	a̠	l̠	d	ə
@@ -110,14 +112,14 @@
 13654	Köln...........	k	a	l	-	ə
 13805	Lampertswalde..	kh	ʌ	l̠	d	ɛ̠
 13692	Landgrafroda...	kʰ	oʿː	l	-	ə
-13632	Langenbruck....	kh	ọ→ɪ	-	ð̰	ə̟
+13632	Langenbruck....	kh	ọ	→ɪ	ð̰	ə̟
 13662	Leuth..........	k	ɒ̣ː	-	-	ə
 13650	Linz...........	kh	a̠ː	l	-	ə
 13719	Lippen.........	kʰ	a̠	l̠	t	ə
 13776	Lippramsdorf...	k	ɔ	l̠	-	ə
 13641	Lohra..........	kh	aː	l	-	ə
 13757	Lohrhaupten....	kʰ	a̠ː	l	-	-
-13734	Maibrunn.......	χ̟	o̟ʿ→ɪ̠	-	d	ɪ̜
+13734	Maibrunn.......	χ̟	o̟ʿ	→ɪ̠	d	ɪ̜
 13664	Mastershausen..	kʰ	a	l	t	-
 13674	Maxweiler......	kh	ɑ̟	l	d̰	ə̟
 13675	Mirow..........	kh	o→ə̠	l	-	-
@@ -129,11 +131,11 @@
 13721	Niedernhausen..	kʰ	ɑ̟	l	d	ə
 13685	Nürnberg.......	kh	a͡ə̟	l	d	ə
 13686	Nürnberg.......	kh	a͡ə̟	l	ð	ə̟
-13770	Oberau.........	k͡x	ʊ→ə→ɪ	-	t	-
-13771	Oberau.........	k͡x	ʊ→ɪ	-	t	-
+13770	Oberau.........	k͡x	ʊ→ə	→ɪ	t	-
+13771	Oberau.........	k͡x	ʊ	→ɪ	t	-
 13659	Oberhomberg....	kʰ	a̠ː	l	t	-
 13663	Obermaisel.....	χ	ɔʿ	l̠	t	ə
-13714	Oberviehbach...	kʰ	ʊ→ɪ	-	ð	ə̟
+13714	Oberviehbach...	kʰ	ʊ	→ɪ	ð	ə̟
 13718	Oberwürzbach...	x	ɑ̟ː	l	t	-
 13785	Odenspiel......	k̟h	aː	l̠	-	-
 13802	Offdilln.......	kh	ɑ̟ː	l	-	ə
@@ -150,7 +152,7 @@
 13713	Pretzsch(El)...	k	a̠ː	l	-	ə
 13672	Pöttmes........	kʰ	ɔ	l	d̪	ə̟
 13698	Rammenau.......	k͡x	a̠ː	l	-	ə
-13727	Ramsau(Berch)..	kh	o→ɪ̣	-	t͡tːʰ	ɪ̣
+13727	Ramsau(Berch)..	kh	o	→ɪ̣	t͡tːʰ	ɪ̣
 13717	Reelkirchen....	kʰ	ɐ→ʊ	l	-	ə
 13743	Reetz..........	k͡x	o̜	l	-	ə
 13683	Rosenthal......	kh	ɑː	l	-	ə
@@ -158,7 +160,7 @@
 13682	Rosswein.......	kh	a̠	l	d	ə
 13694	Ruhlsdorf......	kh	ɔʿ	l	-	əʾ
 13728	Röhrda.........	kʰ	aː	l	-	ə
-13629	Schachach......	k	ʌʾ→ɪ	-	ð	ə̟
+13629	Schachach......	k	ʌʾ	→ɪ	ð	ə̟
 13786	Schauenstein...	k͡x	ɑʾ	l	d	ə
 13673	Schellroda.....	k̟h	a̠ː	l	-	ə
 13726	Schmannewitz...	χ	ɔ	l	d	ə

@@ -4,19 +4,21 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-12-13 13:13 by Michael Cysouw <cysouw@uni-marburg.de>
 # modified   : 2013-12-20 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:15 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10	11	12
 #
-:ANN	STANDARD.......	d	u	r	.	ch	g	e	l	au	f	e	n
+:ANN	STANDARD.......	d	u	r	(e)	ch	g	e	l	au	f	e	n
 #
-31255	Aachen.........	t	œ̣	ʁ	-	ʃ	-	ɪ→ə	l	oː	pʰ	ə	-
+31255	Aachen.........	t	œ̣	ʁ	-	ʃ	ɪ→	ə	l	oː	pʰ	ə	-
 31220	Ahrbergen......	t	yʿː	ʁ	-	-	-	ə	l	ə̟→ʊ̜	p	-	m̩
 31198	Albersloh......	tː	yʿ	ʁ	-	-	-	-	l	ɐ̠→ʊ	p	-	m̩̥
 31224	Allna..........	t	ʊ̣	ɾ	-	ç	x̟	ə	l	ɔː	f͡v	ə	-
 31250	Altenberg......	t	o̜	ʁ	ə	ʃ̫	ɡ	ə	l	ɤ̟ː	f	-	n̩
 31246	Altlandsberg...	t	ʊ	ʁ	-	ç	j	ə̣	l	ɑ̟→ʊ	f	-	n̩͡n̥
 31223	Altwarp........	t	œ̣͡œ̜	ç	-	-	-	-	l	o̜ʿ→ʊ	ʔ	-	m̩
-31178	Astfeld........	d̪	ɔ	ʁ	-	-	-	ɪ→ə	l	ʊː	p	-	m̩
+31178	Astfeld........	d̪	ɔ	ʁ	-	-	ɪ→	ə	l	ʊː	p	-	m̩
 31195	Atzendorf......	t	ɔ→ɐ̣	-	-	ʃ̠	j	ə̣	l	oʿː	p	-	m̩
 31267	Bardenfleth....	d	ø̜ː	-	ə̜	-	-	-	l	o	p	-	m̩͡m̥
 31175	Barssel........	d	œː	-	ə	-	-	-	l	ʊ̜	p	-	m̥̩
@@ -76,7 +78,7 @@
 31202	Kleinbottwar...	t	ʊ̣	ɾ	ɛ	χ	k	-	l	o	f	ɐ̤	-
 31229	Kruft..........	d	oː	ʁ	-	ɕ̟	j	ɪ̠	l	ɔ̜→ʊ	f	ə͡ə̥	-
 31222	Kuhstedt.......	t	ø→ə̜	-	-	-	-	-	l	o	ʔ	-	m̩͡m̩̥
-31256	Köln...........	d	o̜	-	-	ʃ	-	ɪ→e	l	ʌ→o	f	ə	-
+31256	Köln...........	d	o̜	-	-	ʃ	ɪ→	e	l	ʌ→o	f	ə	-
 31162	Lampertswalde..	t	ʊ	ʁ	ə	ç	k	ə	l	a→ɯ	ɸ	-	n̩̥
 31149	Landgrafroda...	d	ʊ̣→ə̠	-	-	j	j	e̠	l	a̠→ʊʿ	f	-	n̩
 31205	Linz...........	t	ọ→ə	-	-	-	ɡ	ə	l	ɤʾ	f	-	n̩̤

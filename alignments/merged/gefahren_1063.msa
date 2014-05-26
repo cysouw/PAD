@@ -5,12 +5,14 @@
 # modified   : 2013-12-08 23:44 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : removed a single example of "hinein"
 # modified   : 2013-12-18 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:08 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7
 #
 :ANN	STANDARD.......	g	e	f	ah	r	e	n
 #
-17900	Aachen.........	-	ɪ→ə	f͡v	aː	ʀ	ə	-
+17900	Aachen.........	ɪ→	ə	f͡v	aː	ʀ	ə	-
 17856	Adorf..........	-	ə	f	ɑ̟ː	ʁ	ə	n
 17759	Albersloh......	-	-	f	o	-	ɔʿ	th
 17729	Allna..........	ɡ	ə	f	ɔː→ə	-	-	n
@@ -112,7 +114,7 @@
 17861	Lampertswalde..	k	e̠	ɸ	ɑː	-	-	n̩
 17772	Landgrafroda...	j	e̠	v	ɒ̃ː	-	-	-
 17718	Langenbruck....	k	-	f	ɔ̜ː	-	-	n
-17784	Leuth..........	-	ɪ→ə	f͡v	ɑː	ʁ	ə	-
+17784	Leuth..........	ɪ→	ə	f͡v	ɑː	ʁ	ə	-
 17881	Linz...........	ɡ	ə̟	f	ɔː	-	-	n̩
 17719	Lippen.........	ɡ	ə	f	a̠ː	ʁ	ə	n
 17740	Lippramsdorf...	-	-	f	ɔ→ə̜	-	-	tʰ
@@ -169,7 +171,7 @@
 17874	Schömberg......	k	-	f	a̠ː	ɾ	ə	-
 17787	Schönbeck......	-	-	f	ʏ̣	-	œ̠	tʼ
 17839	Seelbach.......	k	-	f	a	ʁ	ə	n
-17853	Siebenbach.....	-	ɪ→ə	f	ɔ̣→ə̜	-	-	-
+17853	Siebenbach.....	ɪ→	ə	f	ɔ̣→ə̜	-	-	-
 17840	Stöcken........	-	-	f	ø̜→ɪ͡ɪ→ə	-	-	th
 17905	Tann(Rhön).....	ɣ	ə	f	o̜→ə̜	-	-	n
 17830	Theuma.........	ɡ	ə	f	o̜	-	ɒ̃	n

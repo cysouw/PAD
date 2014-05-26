@@ -8,6 +8,8 @@
 # comment    : some string have super-complex column 7, including preceding "ge-"
 # comment    : participle with "-t" in string 11862, 11838
 # modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-05-26 21:51 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10
 #
@@ -37,7 +39,7 @@
 11830	Büdesheim......	-	-	k	ə	ʃ̠	l	ɔ̣ː→ʊ	f	ə̜	-
 11821	Burgrieden.....	-	-	x	-	ʃ	l	ɔː	f͡v	ə	-
 26075	Clausthal(Zf)..	ɐ̠→ɪ	n	k	ə	ʃ	l	o̜͡ọ	f͡v	-	n̩̠
-26044	Cursdorf.......	a→ɪ͡ɪ→ə	-	-	-	ʃ̫	l	ɤː→ə	f	-	n̩
+26044	Cursdorf.......	a→ɪ͡	-	ɪ→	ə	ʃ̫	l	ɤː→ə	f	-	n̩
 26077	Dexbach........	ɪ̣̃ː	ŋ̰	kʰ	ə	ʃ	l	oː	v	ə	-
 11859	Docelles.......	-	-	k	-	ʃ	l	o̜ː	v	ə	-
 26038	Dreeke.........	i̜	n	-	-	ʃ	l	ɔʿː	p	-	m̩
@@ -107,7 +109,7 @@
 26140	Lampertswalde..	a̠→ɪ	n	ɡ	ə	ʃ	l	ɔ→ə	ɸ	-	n̩̥
 26103	Landgrafroda...	a̠→ɪ	ɲ	-	ə̣	ʃ	l	ɔː	ɸ	-	n̩
 11860	Langenbruck....	-	-	k	-	ʃ	l	ɔ̣	f	ə̜	-
-11841	Leuth..........	-	-	-	ɪ→ə	ɬ̫	l	ọ→ɔ	pʰ	ə	-
+11841	Leuth..........	-	-	ɪ→	ə	ɬ̫	l	ọ→ɔ	pʰ	ə	-
 26085	Linz...........	a̠→ɪ	ŋ	ɡ	ə	ʃ	l	ɑː	f	-	n̩
 26099	Lippen.........	a̠→ɪ̜	ŋ	ɡ	ə̟	ʃ	l	ã̠ː	f	ə̃	-
 11806	Lippramsdorf...	-	-	-	-	ʃ̟	l	ɔː	p	-	m̥̩
@@ -163,7 +165,7 @@
 26118	Schraden.......	ạ→ɪ	n̰	ɣ	ə	ʒ	l	ɔ̣→ɐ	v	-	n̩
 26133	Schwabstedt....	ɪ	n	-	-	ʃ	l	ɔ	b	-	m̩
 11831	Seelbach.......	-	-	k	-	ʃ	-	ɤ͡ʊ	f	ə	-
-11838	Siebenbach.....	-	-	-	ɪ→ə	ʃ	l	ɔ	f	-	tʰ
+11838	Siebenbach.....	-	-	ɪ→	ə	ʃ	l	ɔ	f	-	tʰ
 26057	Tann(Rhön).....	iː	-	j̠	ə	ʃ	l	ɔ	v	ə	-
 26090	Theuma.........	a̠→ɪ̣	-	ɣ	ə̣	ʃ	l	ɤ̣ː	f	-	n̩̥
 11845	Treffelstein...	-	-	k	-	ʃ	l	ɔ	f	ɐ	-

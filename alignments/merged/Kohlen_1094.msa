@@ -5,6 +5,8 @@
 # modified   : 2013-11-30 19:03 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : a complex ending in string 5273, 5221, 5298, 5343 binding together columns 5/6/7/8
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 23:03 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #
@@ -44,7 +46,7 @@
 5286	Dreeke.........	k̟h	œːə̰	l	ə	-
 5275	Ebertshausen...	k̠͡x	oː	l̠	ə	-
 5214	Ebstorf........	kh	œː	ɭ̩	-	n
-5310	Eichenhofen....	kʰ	o→ɪ	-	-	n
+5310	Eichenhofen....	kʰ	o	→ɪ	-	n
 5365	Einöllen.......	kʰ	ɔ͡o	l	ə	-
 5195	Endenburg......	χ	o̜	l	ə	-
 5311	Engelsbach.....	kh	ʊ̜	ɭ	-	n̩
@@ -56,7 +58,7 @@
 5228	Falkenthal.....	kʰ	oː	l̩	-	n
 5234	Freden.........	kʰ	o̜	ɭ	-	-
 5202	Frohnhausen....	kh	oː	-	-	n
-5280	Gelting........	k̻͡x̻h̻	o→ɪ͡l͡n	-	-	-
+5280	Gelting........	k̻͡x̻h̻	o→ɪ͡	l͡	-	n
 5267	Gerbstedt......	kh	oʿ→ə	ɭ	-	n̩
 5257	Gersdorf.......	kh	oː	l	ə	-
 5291	Gornsdorf......	kh	ɯʾ→ə	ʎ	-	n̩
@@ -109,13 +111,13 @@
 5284	Köln...........	kh	ɔ	l	ə	-
 5307	Lampertswalde..	kʰ	ɤː	l̠	-	n̩
 5185	Landgrafroda...	k̟ʰ	ọʿː	ɭ	-	n̩
-5221	Langenbruck....	kh	ʊ	l͡n	-	-
+5221	Langenbruck....	kh	ʊ	l͡	-	n
 5277	Linz...........	kh	oʿ	l	-	n̩
 5211	Lippen.........	kh	ọ	ɭ	-	n̩
 5323	Lippramsdorf...	kʰ	ɔ	l̠	-	n̩
 5196	Lohra..........	kʰ	ʊ	-	-	n
 5236	Lohrhaupten....	k͡x	ɔ	l	-	n
-5200	Maibrunn.......	kh	o̟→ɪ	-	-	n
+5200	Maibrunn.......	kh	o̟	→ɪ	-	n
 5342	Mastershausen..	kʰ	ɔ	l	ə	-
 5272	Maxweiler......	kh	ọ	l	ə	-
 5308	Mirow..........	k͡χ	ɔ̜ː	l̠	-	-
@@ -132,7 +134,7 @@
 5298	Oberau.........	k͡x	ʊ	l͡n̩	-	-
 5220	Oberhomberg....	kʰ	ɔː	l	ə	-
 5190	Obermaisel.....	k͡χ	o̟ʿː	l	ɐ̠	-
-5362	Oberviehbach...	kh	ʊ̃→ɪ̃	-	-	n
+5362	Oberviehbach...	kh	ʊ̃	→ɪ̃	-	n
 5199	Oberwürzbach...	x	ọʿː	l	ə	-
 5203	Odenspiel......	khw	ɔ	ɭ̩͡ɫ	-	n
 5353	Offdilln.......	kh	ɔ	l	-	n
@@ -144,11 +146,11 @@
 5282	Osterfeld......	kʰ	ɤː	l̩	-	n
 5285	Osterhagen.....	kh	ɔ̣	l	-	n
 5255	Ottowind.......	k͡x̰	u	l	-	n
-5360	Peterskirchen..	kʰ	ʊ→ɪ̣	-	-	n
+5360	Peterskirchen..	kʰ	ʊ	→ɪ̣	-	n
 5313	Pfaffenrot.....	k͡x	oː	l	ə	-
 5309	Pielenhofen....	k͡x̰	o	l	-	n
 5352	Pretzsch(El)...	kʰ	oʿ	l̩	-	-
-5317	Pöttmes........	kh	ʊ→ɪ	-	-	n
+5317	Pöttmes........	kh	ʊ	→ɪ	-	n
 5346	Rammenau.......	kh	o→ə	ɭ	-	n̩̰
 5283	Ramsau(Berch)..	khw	ɪ	-	-	n
 5349	Reelkirchen....	kʰ	ʏ̣ː	l	ə	-
@@ -158,7 +160,7 @@
 5252	Rosswein.......	kh	ɔ̣	l̠	-	n̩
 5351	Ruhlsdorf......	χ	ọ→ɔ̟	l	-	n̩
 5242	Röhrda.........	k	oː	l	-	n̩
-5251	Schachach......	kh	ʊʿ→ɪ	-	-	n
+5251	Schachach......	kh	ʊʿ	→ɪ	-	n
 5331	Schauenstein...	k͡x̰	u̜	l	-	n
 5263	Schellroda.....	kʰ	ɔʿ	ɭ	-	n̩
 5244	Schmannewitz...	x	o͡ɤ	l̠	-	n̩
@@ -184,7 +186,7 @@
 5264	Wasbek.........	kh	œː	l̩	-	n
 5320	Wasbüttel......	kh	ɔ	l	-	n
 5334	Wehrsdorf......	kʰ	ɔ→ʊ	l	-	n̩
-5343	Weidenbach.....	kh	o	l͡n̩	-	-
+5343	Weidenbach.....	kh	o	l͡	-	n̩
 5363	Wemb...........	k͡x̰	o̜ː	l	ə	-
 5230	Wentorf(Sand)..	kh	ɒ̣ː	l	-	n
 5224	Wernigerode....	kʰ̟	ọ	l̩	-	n̰
@@ -192,7 +194,7 @@
 5279	Wieda..........	kʰ	ọʿ	l	-	n
 5295	Wildpoldsried..	k̠χ	o̜ː	l	a̠	-
 5278	Winterspelt....	kh	ɔ	l̠	-	n
-5306	Wittelsberg....	kʰ	ɔ→ɪ̠	-	-	n
+5306	Wittelsberg....	kʰ	ɔ	→ɪ̠	-	n
 5194	Wolgast........	kh	ɔ	ɭ̩	-	n
 5218	Wüllen.........	kʰ	ɔ	l̠	-	n̩
 5268	Zellingen......	kh	o͡ʊ̣	l	ə	-

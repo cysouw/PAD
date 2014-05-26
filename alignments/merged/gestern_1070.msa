@@ -4,12 +4,14 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-11-29 14:02 by Johann-Mattis List <mattis.list@uni-marburg.de>
 # modified   : 2013-12-04 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:30 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5	7	8
 #
 :ANN	STANDARD.......	g	e	s	t	e	r	n
 #
-25258	Aachen.........	-	ɪ→ɛ	s	t	ə̜	-	n
+25258	Aachen.........	ɪ→	ɛ	s	t	ə̜	-	n
 25166	Adorf..........	ɡ	ɪ̰͡ɛ	s	t	ə̜	-	n
 25221	Ahrbergen......	k	i̜	s	θ	ə̟	-	n
 25152	Albersloh......	ç̠	i̜	s̠͡s̠	-	ə̣ʾ	-	n
@@ -17,7 +19,7 @@
 25254	Altenberg......	ɡ	ɛ̜	s	θ	ə	-	-
 25170	Altentrüdin....	k	e͡ẹ	ʃ̟	t	ə	-	-
 25260	Altlandsberg...	ɡ	e̜	s̟͡s̟	-	ɐ	-	-
-25233	Altwarp........	j	ɛ̣	s͡θ	-	ɐ̠	-	n̰
+25233	Altwarp........	j	ɛ̣	s͡	θ	ɐ̠	-	n̰
 25110	Astfeld........	ɡ	ɪ̜	s	θ̰	ɔ	-	n
 25149	Atzendorf......	j	ɛ̣	s	t̪	ə̠	-	n
 25189	Ballhausen.....	k	ɛ	s	t	-	χ	-
@@ -38,13 +40,13 @@
 25222	Burgrieden.....	ɣ	e͡ẹ	s	-	-	-	-
 25261	Büdesheim......	k	ɛ̠	s	t̰	-	-	n̩
 25236	Clausthal(Zf)..	k̟	ɛ	s	d	ɐʾ	-	n
-25241	Dexbach........	k	ɛ̜	s͡θ̰	-	ə	-	-
+25241	Dexbach........	k	ɛ̜	s͡	θ̰	ə	-	-
 25154	Diekhusen......	ɣ	ø̣	s	-	ə	-	n
 25270	Docelles.......	k	ɛ	s	ð	ə̜	-	n
 25216	Dreeke.........	ɡ	ɪ	s͡s̟	-	ə	-	n
 25268	Ebertshausen...	k	ɛ	s	-	-	-	n̩
 25188	Ebstorf........	k	e	s	-	-	-	n̩
-25277	Eichenhofen....	k	e	s͡θ	-	ə	-	n
+25277	Eichenhofen....	k	e	s͡	θ	ə	-	n
 25217	Endenburg......	ɣ	e̜→ɪ	ʃ	θ	-	ɾ̩̥	-
 25205	Engelsbach.....	k	ɛ	s	θ̰	-	-	n̩
 25117	Engter.........	ɣ	ɪ	s	ð	ə̜	-	n
@@ -72,7 +74,7 @@
 25263	Hammah.........	k	ʏ̜	s	-	ə̠	-	n
 25206	Hartenfels.....	k	ɪ̠	s	θ	ə̟	ʁ	-
 25213	Hartenstein....	k	e	s	t̪	ə̜	-	n
-25242	Herbornseelbach	k	ɛ	s͡θ	-	ə̜	-	n
+25242	Herbornseelbach	k	ɛ	s͡	θ	ə̜	-	n
 25156	Herdecke.......	j̠	ɪ̣	s̠͡s̠	-	ə	-	n
 25157	Herdecke.......	k	ɪ̜	ʃ	t	ɔʿ	-	-
 25208	Hermannsreuth..	k̟	e	s͡s̟	-	əʾ	-	n
@@ -80,14 +82,14 @@
 25105	Herssum........	k̟	ɛ	s	t̪	ɛ	ʁ	n
 25240	Herzfeld.......	ɟ	ɪ	s̟	θ̰	-	-	n̩
 25160	Hesselteich....	ç	i̜	s͡s	-	əʾ	-	n
-25246	Hohenkörben....	j̠	i̜ʾ	s͡θ	-	ə	-	n
+25246	Hohenkörben....	j̠	i̜ʾ	s͡	θ	ə	-	n
 25171	Hohwacht(Os)...	k	ɛ	s̠	tʰ	ə	-	n
 25153	Holmkjer.......	ç	ɛ	s	-	ə	-	n
 25178	Horheim........	ɡ	e͡ɪ	ʃ̠	θ	ə	ʁ	-
 25243	Huddestorf.....	ɡ	ɛ̠	s̟	t	ə̟	-	n
 25165	Hundisburg.....	j	ɪ	s	θ	ɔ̟	-	n
 25135	Höchstädt(Don).	k	ɛ	ʃ	t	ə	-	n
-25269	Hönebach.......	k	ɑ	s̟͡θ	-	ə̠	-	n
+25269	Hönebach.......	k	ɑ	s̟͡	θ	ə̠	-	n
 25229	Iggingen.......	ɡ	ɛ̠	ʃ̟	t̰	ɪ̠̰	k	-
 25150	Igling.........	ɡ	e̜	ʃ	t	-	-	n̩
 25273	Iversheim......	j	ɛ̠→ɪ	s̟	θ	ə	-	-
@@ -145,23 +147,23 @@
 25107	Ramsau(Berch)..	ɣ̟	e	s	t̪	ə	-	n
 25201	Reelkirchen....	ç͡j̰	ɪ̣	s	t	ə̜	-	n
 25103	Reetz..........	j	ɪ	s	s̟	ə̠	-	-
-25234	Rosenthal......	k	ɛ	s̟͡θ	-	ə̜	-	n
+25234	Rosenthal......	k	ɛ	s̟͡	θ	ə̜	-	n
 25215	Rossau.........	j	ɛ	s͡s	-	ɐ	-	n
 25231	Rosswein.......	ɣ̟	ɛ̠	s̟	t	-	-	n̩
 25191	Ruhlsdorf......	j	ɛ	s	t̪	ə̟ʾ	-	n
-25214	Röhrda.........	k	æ̣	s̟͡θ	-	ə̠ʾ	-	-
+25214	Röhrda.........	k	æ̣	s̟͡	θ	ə̠ʾ	-	-
 25259	Schachach......	k	eː	ʃ	t͡ʃ	-	-	n̩
 25168	Schauenstein...	k	ɛ̣	s	t̰	ə˻	-	n
 25174	Schellroda.....	k̟	ɛ	s̟	θ	-	-	n̩
 25158	Schmannewitz...	ɡ	ɛ	s	t̪	ɐ	-	n
 25185	Schnepfenbach..	ɣ	ɛ	s	ð	ə̜	-	n
-25136	Schraden.......	ɡ	ɛ	s͡θ	-	ɐ̃	-	-
+25136	Schraden.......	ɡ	ɛ	s͡	θ	ɐ̃	-	-
 25115	Schwabstedt....	ç	ʏ	s	θ	əʾ	-	n
 25162	Schömberg......	k	e̜	ʃ̟	t	ə	-	-
 25143	Schönbeck......	ɟ͡j	ɪ	s͡s̟	-	ə̜	-	-
 25203	Seelbach.......	ɡ	eɪ	ʃ	t	ə	ʁ	-
-25275	Siebenbach.....	-	ɪ→ɛ̣	s	t̪	ə	-	-
-25161	Stöcken........	ɡ	ɪ̠	s͡θ̰	-	ə	-	n
+25275	Siebenbach.....	ɪ→	ɛ̣	s	t̪	ə	-	-
+25161	Stöcken........	ɡ	ɪ̠	s͡	θ̰	ə	-	n
 25239	Theuma.........	kʰ	ɛ	s͡s	-	ɤ̟ʾ	-	n
 25193	Treffelstein...	k	eː	s	d̰͡z	ə	-	-
 25112	Ulbering.......	k	e͡ɪ	s̠	θ	ə̜	-	n

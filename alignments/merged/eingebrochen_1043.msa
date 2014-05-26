@@ -4,12 +4,14 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-11-30 17:30 by Michael Cysouw <cysouw@uni-marburg.de>
 # modified   : 2013-12-16 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:14 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10
 #
 :ANN	STANDARD.......	ei	n	g	e	b	r	o	ch	e	n
 #	
-3264	Aachen.........	eː	-	-	ɪ→ə	b	ʁ	ɐ→ʊ	ʀ̥	ə	-
+3264	Aachen.........	eː	-	ɪ→	ə	b	ʁ	ɐ→ʊ	ʀ̥	ə	-
 3207	Ahrbergen......	ɪ̣	n	-	ə	p	ʁ	ɛ̠ʊ	k	-	ŋ̩
 3188	Albersloh......	ɪ̣	n	-	-	b	ɹ	u̜ʿ→ɔ	kʰ	ə	n̥
 3288	Allna..........	ẹ	n	ɣ	ə	b	ɾ	ɔ	ʁ	ə	-

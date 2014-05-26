@@ -5,12 +5,14 @@
 # modified   : 2013-11-30 23:32 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : string 9092 (AACHEN) has merged consonant + vowel at the start
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:45 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3
 #
 :ANN	STANDARD.......	g	u	t
 #
-9092	Aachen.........	-	ɪ→ọʿ	tʰ
+9092	Aachen.........	ɪ→	ọʿ	tʰ
 9109	Ahrbergen......	ɡ̟͡j	u	th
 9025	Albersloh......	χ	u̜→əʾ	th
 9039	Allna..........	k	o̜→ʊ	t

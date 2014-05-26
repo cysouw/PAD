@@ -4,6 +4,8 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-11-30 11:25 by Michael Cysouw <cysouw@uni-marburg.de>
 # modified   : 2013-12-16 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:17 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #
@@ -48,8 +50,8 @@
 849	Eschelbronn....	p	a	l	-	-
 822	Eversen........	b	ɑʾ	l	-	ə
 741	Falkenthal.....	p	ɒ	l	t	-
-814	Gelting........	b	ɔʿ→ɪ	-	t	-
-815	Gelting........	p	ɔʿ→ɪ	-	t	-
+814	Gelting........	b	ɔʿ	→ɪ	t	-
+815	Gelting........	p	ɔʿ	→ɪ	t	-
 821	Gerbstedt......	p	ʌʾ	l̠	-	-
 824	Gersdorf.......	p	aː	l	t	-
 751	Gornsdorf......	p	a̠	ɭ	t	-
@@ -96,14 +98,14 @@
 833	Köln...........	b	ɑ	l	-	-
 746	Lampertswalde..	p	ʌ	l̠	t	-
 836	Landgrafroda...	b	o̟	l	-	-
-863	Langenbruck....	p	ɔ̣→ɪ	-	d	-
+863	Langenbruck....	p	ɔ̣	→ɪ	d	-
 826	Leuth..........	b	ɔ	l̠	t	-
 730	Linz...........	b	a̠ː	l	-	ə
 715	Lippen.........	p	a	l	t	-
 854	Lippramsdorf...	b	ɔ	l	-	-
 710	Lohra..........	p	a̠	l̠	t	-
 831	Lohrhaupten....	p	a̠ː	l	-	-
-827	Maibrunn.......	pʰ	ʊ̜→ɪ	-	-	-
+827	Maibrunn.......	pʰ	ʊ̜	→ɪ	-	-
 862	Maxweiler......	p	a̠	l	-	-
 754	Mirow..........	p	a̠	l	t	-
 834	Mockern........	p	a	l̠	-	-
@@ -113,10 +115,10 @@
 789	Niederauerbach.	p	a̠	l	-	-
 720	Niedernhausen..	p	a̠	l	t	-
 783	Nürnberg.......	p	a͡ə̟	l	t	-
-870	Oberau.........	p	ɔʿ→ɪ	-	t	-
+870	Oberau.........	p	ɔʿ	→ɪ	t	-
 818	Oberhomberg....	p	a	l̠	d	-
 757	Obermaisel.....	p͡f	ɔ	l̠	tʼ	-
-750	Oberviehbach...	p	ɤʾ→ɪ	-	d̰	-
+750	Oberviehbach...	p	ɤʾ	→ɪ	d̰	-
 769	Oberwürzbach...	p	a̠	l	d	-
 840	Odenspiel......	p	a̠	ɫ	t	-
 724	Offdilln.......	p	a̠	l	-	-
@@ -130,7 +132,7 @@
 839	Pfaffenrot.....	p	a	l	t	-
 717	Pielenhofen....	p	ɒ̃ʿ	l	d̰	-
 816	Pretzsch(El)...	b	a̠ː	l	-	ə
-798	Pöttmes........	p	ɔ→ɪ	-	-	-
+798	Pöttmes........	p	ɔ	→ɪ	-	-
 835	Rammenau.......	b	a̠ː	l	-	ə
 774	Reelkirchen....	b	ɐ→ʊ	l	-	ə
 832	Reetz..........	p	ɑ̟	l	-	ə
@@ -138,7 +140,7 @@
 716	Rosswein.......	b	a̠	l	t	-
 755	Ruhlsdorf......	b	ɑʾ	l̠	t	-
 773	Röhrda.........	p	a̠ː	l	-	ə
-731	Schachach......	p	ɐ→ɪ	-	t	-
+731	Schachach......	p	ɐ	→ɪ	t	-
 847	Schauenstein...	p	ɑ̟	l	-	-
 706	Schellroda.....	p	a̠ː	l	-	ə
 738	Schmannewitz...	b	ʌ	l	t	-

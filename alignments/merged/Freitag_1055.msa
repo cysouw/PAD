@@ -5,6 +5,8 @@
 # modified   : 2013-12-09 00:24 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : A few cases of super-complex column 6, including column 9, e.g. string 19469,19339
 # modified   : 2013-12-18 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 21:56 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #
@@ -39,7 +41,7 @@
 19416	Burgrieden.....	f	ɾ	ə→ɪ	t	ɑː	x
 19387	Büdesheim......	f	r	ɐ→ɪ	t	ɔ̟ː	χ
 19442	Clausthal(Zf)..	f	ʀ	ɐ̟→ɪ	t	ɪ̠	ç+
-19469	Cursdorf.......	f	ʁ	eː	t͡ʃ	-	-
+19469	Cursdorf.......	f	ʁ	eː	t͡	-	ʃ
 19403	Dexbach........	f	ɾ	ɛ̣→ɪ	t̪	ɔː	kh
 19385	Diekhusen......	f	ɾ	i̜	d	a̠	x̠
 19433	Docelles.......	f	ɾ	ɐ→ɪ	d	ɔ	x
@@ -61,7 +63,7 @@
 19327	Gelting........	f	ɾ	a→ɪ	t	ɔ̣ʿ	k̰
 19348	Gerbstedt......	ɸ	ʁ	ɑ̟→ɪ̜	t	ʌː	χ
 19448	Gersdorf.......	f	ɾ	a̠→ɪ̜	t	-	ʃ̠ː
-19339	Gornsdorf......	f	ʁ	a̠→ɪ	t͡ʃ̠ː	-	-
+19339	Gornsdorf......	f	ʁ	a̠→ɪ	t͡	-	-ʃ̠ː
 19307	Gottsbüren.....	f	ʁ	ɪː	d	ɑ	χ̰
 19343	Gresenhorst....	f	ʁ	i	ð	a̠ː	χ
 19396	Grossenwiehe...	f	ɹ	ɪ	d̰	a̠	-
@@ -121,7 +123,7 @@
 19432	Mastershausen..	f	ɾ	ɐ→ɪ	ɾ	o̜	x
 19358	Maxweiler......	f	ʁ	ɐ̟→ɪ	t	ɑ̟	k̰
 19295	Mirow..........	f	ɾ	i̜	d̪	a̠	-
-19322	Mockern........	f	ʁ	ɐ→ɪ	-	ɪ	t͡ʃ̨ː
+19322	Mockern........	f	ʁ	ɐ→ɪɪ	t͡	-	ʃ̨ː
 19456	Mörshausen.....	f	ʁ	ɪ	t̪	ɒ̣ː	kʼ
 19336	NeuSchadow.....	ɸ	ɾ	ạ→ɪ	tʰ	ɑ̟ʾ	ɣ̰
 19286	Niederasphe....	f	ɾ	ɛ̣→ɪ	t	ɔ͡ʌ	kʰ

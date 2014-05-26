@@ -5,6 +5,8 @@
 # modified   : 2013-12-09 00:28 by Michael Cysouw <cysouw@uni-marburg.de>
 # modified   : 2013-12-18 by Jelena Prokic <prokic@uni-marburg.de>
 # comment    : No idea why there are only so few strings in this cognate set in the data
+# modified   : 2014-05-26 22:28 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9
 #
@@ -18,12 +20,12 @@
 19867	Burgrieden.....	ɡ	ə̟	ʃ	m	ọ	l	t͡s	ə	-
 19868	Büdesheim......	k	ə	ʃ̠	m	o	l̻	s	ə	-
 19829	Docelles.......	ɣ	ə	ʃ	m	o̜	l	d̰͡z	ə	-
-19842	Eichenhofen....	k	-	ʃ	m	ọ→ɪ	-	t͡s	-	n̩
+19842	Eichenhofen....	k	-	ʃ	m	ọ	→ɪ	t͡s	-	n̩
 19831	Endenburg......	x	-	ʃ	m	ɔ	ɫ	d͡z	ə	-
 19832	Endenburg......	x	-	ʃ	m	ɔ	ɫ	t͡z	ə	-
 19854	Ensheim........	k	-	ʃ	m	o͡ə̠	l	s	-	-
 19845	Eschelbronn....	k	-	ʃ	m	ɔ	l	d͡z̠	ə̟	-
-19852	Gelting........	k	-	ʃ	m	o→ɪ	-	s	-	n̩
+19852	Gelting........	k	-	ʃ	m	o	→ɪ	s	-	n̩
 19850	Hartenstein....	x	-	ʃ	m	o̜	l	s	-	n̩
 19857	Höchstädt(Don).	k	-	ʃ	m	ɔ	l	t͡s	ə	-
 19839	Iggingen.......	x̰	-	ʃ	m	ɔ̣	-	t͡s	ə̜̃	-
@@ -46,7 +48,7 @@
 19843	Schauenstein...	k	-	ʃ	m	ɔ̣	l	t͡s	-	n̩
 19833	Schnepfenbach..	k	-	ʃ	m	ɔ̣	l	s	-	n̩
 19870	Seelbach.......	k	-	ʃ	m	ɤ̣	l	d͡s	ə	-
-19864	Siebenbach.....	-	ɪ→ə	ʃ	m	ɔ̣̠	l̠	t̰͡s	-	-
+19864	Siebenbach.....	ɪ→	ə	ʃ	m	ɔ̣̠	l̠	t̰͡s	-	-
 19855	Ulbering.......	x	-	ʃ	m	ọ	l̰	s	-	n̩
 19853	Vielbrunn......	k	-	ʃ	m	o	l	z	ə	-
 19865	Volkershausen..	x	-	ʃ	m	ɔ̣	l	t͡s	ə	-

@@ -8,6 +8,8 @@
 # modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
 # modified   : 2014-01-04 22:15 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : merged "heisse-192" into this one
+# modified   : 2014-05-26 22:46 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4
 #
@@ -57,7 +59,7 @@
 24208	Falkenthal.....	ɦ	eː	th	-
 24260	Freden.........	ɦ	ɐ→ɪ̣	th	-
 24178	Frohnhausen....	ɦ	ɐ̠→ɪ	s	-
-29944	Gelting........	h͡ɦʾ→ɔ̣→ə̜	-	s	ə̟
+29944	Gelting........	h͡ɦʾ	→ɔ̣→ə̜	s	ə̟
 24184	Gerbstedt......	ɦ	ɑ̟→ẹ	sː	-
 24267	Gersdorf.......	ɦ	eː	s	-
 24232	Gornsdorf......	ɦ	ɛ̣ː→ə	s̠ː	-

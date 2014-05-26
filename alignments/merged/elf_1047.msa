@@ -4,10 +4,12 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-11-30 16:56 by Michael Cysouw <cysouw@uni-marburg.de>
 # modified   : 2013-12-16 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:13 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7
 #
-:ANN	STANDARD.......	e	l	.	f	.	.	.
+:ANN	STANDARD.......	e	l	(e)	f	(e)	(n)	(e)
 #
 2570	Aachen.........	ɛ	l	ə	f	-	-	-
 2520	Adorf..........	œ	l	-	β	ə	-	-
@@ -104,14 +106,14 @@
 2597	Köln...........	œ	l	əʾ	f	-	-	-
 2581	Lampertswalde..	ɛʾ	l	ə̰	f	-	-	-
 2604	Landgrafroda...	ø̠ʿ	l	-	β	ə	-	-
-2513	Langenbruck....	ə̜→ɪ	-	-	f	-	-	-
+2513	Langenbruck....	ə̜	→ɪ	-	f	-	-	-
 2596	Leuth..........	ɛ̜ʾ	l̠	ə	f	-	-	-
 2634	Linz...........	œʿ	l	-	f	ə	-	-
 2624	Lippen.........	ɛ	l̠	-	v	ə	-	-
 2559	Lippramsdorf...	ɛ	l̠	-	f	-	-	-
 2565	Lohra..........	ɛ	l	-	f	-	-	-
 2501	Lohrhaupten....	ɛ	l	ə	f	-	-	-
-2500	Maibrunn.......	ɛ̠→ɪ̠	-	-	f	-	-	-
+2500	Maibrunn.......	ɛ̠	→ɪ̠	-	f	-	-	-
 2613	Mastershausen..	ɛ	l	ə	f	-	-	-
 2630	Maxweiler......	ɛ	l̠	-	f	-	-	-
 2491	Mirow..........	e→ə̟	l̠	-	-	-	m̩	-
@@ -126,7 +128,7 @@
 2557	Oberau.........	əʾ→ə̣+	-	-	f	-	-	-
 2590	Oberhomberg....	ɛ	l	-	f	-	-	-
 2577	Obermaisel.....	ʊ̟ʿ	l̠	-	f	-	-	-
-2493	Oberviehbach...	ɤʾ→ɪ	-	-	f	-	-	-
+2493	Oberviehbach...	ɤʾ	→ɪ	-	f	-	-	-
 2628	Oberwürzbach...	ẹ	d̰l	-	f	-	-	-
 2494	Odenspiel......	ɛ̜	ɫ	-	ɸ	-	-	-
 2508	Offdilln.......	e̜	l	-	f	-	-	-
@@ -137,13 +139,13 @@
 2562	Osterfeld......	ɛ	l̠	-	f͡v	ə	-	-
 2505	Osterhagen.....	ø̜ː	l	-	β	ə	-	-
 2588	Ottowind.......	œ	l	-	f	-	-	-
-2608	Peterskirchen..	ɛʾ→ɪ̠ʾ	-	-	f	ẹ	-	-
+2608	Peterskirchen..	ɛʾ	→ɪ̠ʾ	-	f	ẹ	-	-
 2621	Pfaffenrot.....	ɛ	l	-	f	-	-	-
 2489	Pielenhofen....	œ	l	-	f	-	-	-
 2640	Pretzsch(El)...	œ̠ʿ	l	-	f	-	-	-
 2525	Pöttmes........	ø	l̰	-	v	ə̟	-	-
 2543	Rammenau.......	ẹ	ɭ	-	f	ə	-	-
-2582	Ramsau(Berch)..	œ→ɪ	-	-	v	ɪ̣	-	-
+2582	Ramsau(Berch)..	œ	→ɪ	-	v	ɪ̣	-	-
 2486	Reelkirchen....	eː	l	-	-	-	m	-
 2605	Reetz..........	ø̜	l	-	β	ə̠	-	-
 2611	Rosenthal......	ɛ̣	l	-	v	ə	-	-

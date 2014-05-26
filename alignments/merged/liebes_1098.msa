@@ -5,6 +5,8 @@
 # modified   : 2013-11-30 22:33 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : columns 4/5/6 are sometimes collapsed into one segment "bes > bs > ps > f" ?
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 23:37 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #
@@ -44,7 +46,7 @@
 7139	Dreeke.........	l	ɛ→ɪ	β	ə	th
 7066	Ebertshausen...	l	iː	b	ə	s̠
 7217	Ebstorf........	l	ɛ→ɪ	β	ə	ʈ
-7094	Eichenhofen....	l	i→ə	p͡s̟	-	-
+7094	Eichenhofen....	l	i→ə	p͡	-	s̟
 7148	Einöllen.......	l	i̜ː	p	-	-
 7208	Endenburg......	l	ɪ→e̜	p	-	-
 7209	Endenburg......	l	ɪ→ə	p	-	-
@@ -118,7 +120,7 @@
 7128	Maibrunn.......	l	iː	β̫	ə	s
 7129	Maibrunn.......	l	i	β̫	ə	s
 7204	Mastershausen..	l	ẹː	f	-	-
-7191	Maxweiler......	l̥	ɪ̜ː	p͡s	-	-
+7191	Maxweiler......	l̥	ɪ̜ː	p͡	-	s
 7057	Mirow..........	l	eː	f	-	-
 7058	Mockern........	l	iː	w	əʾ	θ
 7183	Mörshausen.....	l	i̜ː	β	ə	s̠
@@ -130,7 +132,7 @@
 7153	Oberau.........	l	ɪ→ɐ	p	-	s
 7154	Oberau.........	l	ɪ→ɐ	β	-	s
 7122	Oberhomberg....	l	ɪ→ə̜	p	-	s
-7200	Obermaisel.....	l	ɪ̠→ə̟	p͡s̠	-	-
+7200	Obermaisel.....	l	ɪ̠→ə̟	p͡	-	s̠
 7076	Oberviehbach...	l	ɪ→ə	p	-	s
 7117	Oberwürzbach...	l	i	p	-	-
 7223	Odenspiel......	l	eː	f	-	-
@@ -148,7 +150,7 @@
 7108	Pretzsch(El)...	l	i̜ː	v	əʾ	s
 7097	Pöttmes........	l	ɪ̣ː	β	ə̟	s
 7165	Rammenau.......	l	iː	b	ə	s
-7038	Ramsau(Berch)..	l	i→ə	p͡s	-	-
+7038	Ramsau(Berch)..	l	i→ə	p͡	-	s
 7099	Reelkirchen....	l	ɔ̣ː	β	ə	-
 7213	Reetz..........	l	iː	v	ə	s
 7086	Rosenthal......	l	ɪ̣ː	β	ə	s

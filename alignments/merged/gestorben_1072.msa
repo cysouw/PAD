@@ -5,16 +5,18 @@
 # modified   : 2013-11-30 17:00 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : the first four columns are often condensed into clusters, most extremely "k͡ʃ̫͡t"
 # modified   : 2013-12-16 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-26 22:34 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10
 #
-:ANN	STANDARD.......	g	e	s	t	o	r	.	b	e	n
+:ANN	STANDARD.......	g	e	s	t	o	r	(e)	b	e	n
 #
 2787	Adorf..........	ʒ	ə	ʃ	t	ʊ→ɔʿ	-	-	β	ə	n
 2772	Albersloh......	-	-	ʃ̟	tʱ	ʊɔ	-	-	b	-	m̩̥
 2762	Allna..........	ɡ	ə	ʃ	t	oʿ	ɾ	-	β̫	ə̜	-
 2687	Altenberg......	k	ə	ʃ̨	t̰	ɔː	-	-	-	-	m̩
-2780	Altentrüdin....	-	-	x͡ʃ̠	t	ɔ	ɹ	-	β	ə	-
+2780	Altentrüdin....	x͡	-	ʃ̠	t	ɔ	ɹ	-	β	ə	-
 2686	Altlandsberg...	ɡ	e̠	ʃ	t	ɔː	-	-	-	-	m̩͡m̥
 2816	Altwarp........	-	-	ʃ	t̪	ɔ̜ː	-	-	b	-	m̩
 2756	Ballhausen.....	j	ə̣	ʃ	t	ɔː	-	-	b	-	m̩
@@ -35,7 +37,7 @@
 2710	Cursdorf.......	j	ə̣	ʃ	t	ɤ̥ː͡ɔ̠	-	-	-	-	m̩
 2786	Dexbach........	ɣ	ə	ʃ	t	o̜	ɹ	-	β	ə	-
 2715	Docelles.......	x	-	ʃ	t	ɔ̣ː	-	-	β	ə̰	-
-2779	Dreeke.........	-	-	s͡t	-	o	ʁ	-	-	-	m̥
+2779	Dreeke.........	-	-	s͡	t	o	ʁ	-	-	-	m̥
 2735	Ebertshausen...	ɡ	ə̟	ʃ̫	t	ɔ	ɹ	-	w	ə	-
 2658	Ebstorf........	-	-	s̟	t̪	o̜→ɐ̠ʾ	-	-	ʔ	-	m̩
 2763	Eichenhofen....	k	-	ʃ	t	o̜→ɐ̟	-	-	b	-	m̩
@@ -46,7 +48,7 @@
 2660	Engter.........	ɣ	ə	ʃ̟	t	ɔ→ə̜	-	-	b	-	m̩
 2775	Ensheim........	x	-	ʃ	-	ɤ͡ə̜	-	-	pʼ	-	-
 2663	Eschelbronn....	x	-	ʃ̟	t	ɔː	-	-	β	ə	-
-2691	Eversen........	-	-	s͡θ	-	o͡ɔ	-	-	b	-	m̩
+2691	Eversen........	-	-	s͡	θ	o͡ɔ	-	-	b	-	m̩
 2770	Exdorf.........	k̰	-	ʃ̫	t	ɔ	ɻ	-	w	ə̤͡ə̥	-
 2726	Falkenthal.....	-	-	ʃ	t	ɔː	-	-	b	-	m̩
 2807	Freden.........	ɡ	ə	ʃ	d	ɔ	r	-	b	ə	r̥
@@ -67,7 +69,7 @@
 2678	Hagen..........	-	-	ʃ̫	t	ɔ̜ː	-	-	b	-	m̩
 2760	Hammah.........	-	-	s̠	t	ɔ̜ː	-	-	b̰	-	m̩
 2734	Hartenfels.....	k	ə̣	ʃ	t	ɔ	ɾ	-	b̰	-	m̩
-2720	Hartenstein....	-	-	x̟͡ʃ	t	o̜ʿ→ə̜	-	-	-	-	m
+2720	Hartenstein....	x̟͡	-	ʃ	t	o̜ʿ→ə̜	-	-	-	-	m
 2805	Helmers........	k	ə	ʃ̫	t	ɔ̣→ɛ	-	-	β	ə̤	-
 2697	Herbornseelbach	k	ə	ʃ̫	t	ɔ	ɻ	-	β	ə	-
 2814	Herdecke.......	k	ə	ʃ̫	t	ʊ	ʁ	ʊ̟	f	-	-
@@ -105,7 +107,7 @@
 2819	Maibrunn.......	x	-	ʃ	t	o→ɐ	-	-	b̰	-	m̩͡m̥
 2794	Mastershausen..	ɡ	ə	ʃ	t	ɔ	ɾ	-	β	ə	-
 2745	Maxweiler......	k	-	ʃ̟	t	ɔʿ	ɾ	-	β̰	ə̰	-
-2685	Mirow..........	-	-	k͡ʃ̠	-	ɔː	-	-	-	-	m̩
+2685	Mirow..........	k͡	-	ʃ̠	-	ɔː	-	-	-	-	m̩
 2815	Mockern........	ɡ	əʾ	ʃ̫	t	ɔː	-	-	-	-	m̩
 2773	Mörshausen.....	-	ɪ	ʃ̫	t	ɔ͡ɐʾ	-	-	-	-	m̩
 2778	NeuSchadow.....	-	ə̣	ʃ	t̪	ɔ	ɹ	-	-	-	m̩
@@ -134,7 +136,7 @@
 2750	Pretzsch(El)...	j	ə	ʃ	t	ɔ̃ː	-	-	b	-	m̩
 2667	Pöttmes........	x	-	ʃ	t	o→ə̜	-	-	-	-	m
 2688	Rammenau.......	ɡ	ə	ʃ̫	t	ɔ̣	ɻ	-	β̰	ə	n
-2741	Ramsau(Berch)..	-	-	k͡ʃ̫͡t	-	ʊ̟→əʾ	-	-	-	-	m̩
+2741	Ramsau(Berch)..	k͡		ʃ̫͡	t	ʊ̟→əʾ	-	-	-	-	m̩
 2731	Reelkirchen....	-	-	ʃ̠	t	ɔ̣→ə̜	-	-	-	-	m̩
 2804	Reetz..........	j	ə	ʃ	t	oʿː	-	-	-	-	m̩
 2674	Rosenthal......	ɡ	ə	ʃ	t	ɔː→ə̜	-	-	β	ə	-
@@ -152,7 +154,7 @@
 2676	Schömberg......	x	-	ʃ	t	ɔ	r	-	b	ə	-
 2655	Schönbeck......	-	-	ʃ	t	ɔː	-	-	b	-	m̩
 2771	Seelbach.......	k	-	ʃ	t	ɔ	ʁ	-	β	ə	-
-2761	Siebenbach.....	-	ɪ→ə	ʃ	t	ɔ̜̠ː	-	-	v	ə̜	-
+2761	Siebenbach.....	ɪ→	ə	ʃ	t	ɔ̜̠ː	-	-	v	ə̜	-
 2736	Stöcken........	-	-	s	t	ɔ̣→ə̜	-	-	b	-	m̩
 2733	Tann(Rhön).....	ɣ̰	ə	ʃ	t	ʊ	ɹ	-	β	ə	-
 2684	Theuma.........	k	ə	ʃ	t	ɔ̃	-	-	-	-	m̩

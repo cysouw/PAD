@@ -8,12 +8,14 @@
 # modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
 # comment    : prefixes with "f" in column 3 are probably reflexes of "verbrannt".
 # comment    : glottal stop in Gelting is probably not a prefix: all of south Germany does not have a prefix here!
+# modified   : 2014-05-26 22:08 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7
 #
 :ANN	STANDARD.......	g	e	b	r	a	nn	t
 #
-25940	Aachen.........	-	ɪ→ə	b	ʁ	a	ŋk	th
+25940	Aachen.........	ɪ→	ə	b	ʁ	a	ŋk	th
 25938	Albersloh......	-	-	p	r	ɑ̟	n	tʼ
 25995	Altenberg......	ɡ	e̠	b	ʁ	a	n	th
 25964	Altentrüdin....	-	-	p	ɾ	ɛ	n	t͡θ
@@ -94,7 +96,7 @@
 25980	Klafferstrass..	-	-	p	ɾ	ɛ̠	n	th
 25907	Kleinbottwar...	-	-	p	r	ə̠	n	th
 26003	Kuhstedt.......	-	-	p	ɾ̥͡ɾ	ɛ̠	n	th
-26012	Köln...........	-	ɪ→e	β	ʁ	a	n̩	-
+26012	Köln...........	ɪ→	e	β	ʁ	a	n̩	-
 25955	Lampertswalde..	k	ə	p	ʁ	ɤ̟→ɐ	n	tʼ
 25930	Landgrafroda...	j	ə̟	b	ʁ	ɔ̜ʿ	n	th
 25892	Langenbruck....	-	-	p	ɾ	e͡ɪ	n	th
