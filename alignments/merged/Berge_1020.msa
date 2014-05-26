@@ -8,9 +8,9 @@
 # comment    : the diphthongs in column 7 are actually complex combinations of column 6 and 7
 #
 :ANN	COLUMNID.......	1	2	3	4	5
-#	
+#
 :ANN	STANDARD.......	B	er	g	e	.
-# 	
+#
 17620	Aachen.........	p	ɛ→ɐ	ʃ	-	-
 17693	Adorf..........	b	ẹ→ə̜	-	ɪ→ə	-
 17713	Ahrbergen......	b	a̠ʁ	ɣ̟	ə	-
