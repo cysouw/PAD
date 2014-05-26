@@ -6,17 +6,19 @@
 # comment    : column 3 and 5 often super complex: absence of 5 is correlated with complex 3
 # modified   : 2013-12-18 by Jelena Prokic <prokic@uni-marburg.de>
 # modified   : 2014-01-07 23:24 by Michael Cysouw <cysouw@uni-marburg.de>
+# modified   : 2014-05-27 01:31 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8
 #
-:ANN	STANDARD.......	m	i	t	.	g	ehe	n	.
+:ANN	STANDARD.......	m	i	t	(e)	g	ehe	n	.
 #
 17042	Adorf..........	m	ɪ̣	ɾ	ə	ɣ	ɔː	n	-
 17074	Ahrbergen......	m	ɪ	d	ə	ɣ	oɔʿ	n	-
 17097	Albersloh......	m	ɛ̣	t	-	χ	ɒ̣ːə̣	n	-
-17143	Allna..........	m	e̜	t͡k̟	-	-	ɪ̣ː	-	-
+17143	Allna..........	m	e̜	t͡	-	k̟	ɪ̣ː	-	-
 17155	Altenberg......	m	e	tʰ	-	k	ẹː	n	-
-17022	Altentrüdin....	m	iː	t͡k	-	-	ɑ̣ʾ	ŋ	ə
+17022	Altentrüdin....	m	iː	t͡	-	k	ɑ̣ʾ	ŋ	ə
 17120	Altlandsberg...	m	ɪ̣	t	-	k̟	e	n͡n̥	-
 17057	Altwarp........	m	ẹ	t̪	-	k	oɔʿ	n	-
 17035	Astfeld........	m	ɪ̣	ɾ	ə	ɡ	ɔ̜ː	n	-
@@ -42,13 +44,13 @@
 17025	Dreeke.........	m	ɪ	tʰ	-	k	ɔː	n̩	-
 17172	Ebertshausen...	m	ɪ	t	-	k̟	eːjə̟	-	-
 17008	Ebstorf........	m	ɪ	t͡ʔ	-	k	ɔ̃ː	n	-
-17058	Eichenhofen....	m	i̜	t͡h͡k	-	-	e̜͡ɪ̜̃	ŋ̰	-
+17058	Eichenhofen....	m	i̜	t͡h͡	-	k	e̜͡ɪ̜̃	ŋ̰	-
 17056	Einöllen.......	m	ɪ̜	t	-	k	eː	-	-
 17091	Endenburg......	m	ɪ	-	-	c͡k	o	-	-
 17171	Engelsbach.....	m	eː	t	-	c	i→ə̤	-	-
 17131	Engter.........	m	ɪ	tʰ	-	x	ɐ→ʊ̃	-	-
 17140	Ensheim........	m	ɪ̣	t	-	k	e͡ɪə	-	-
-17081	Eschelbronn....	m	ɪ̣ː	t͡k	-	-	e̜ːə	-	-
+17081	Eschelbronn....	m	ɪ̣ː	t͡	-	k	e̜ːə	-	-
 17011	Eversen........	m	ɪ̠	t	-	ɡ	ɤː	n	-
 17073	Exdorf.........	m	i	t	-	k̟	e̜ə̤	-	-
 17108	Falkenthal.....	m	e	t	-	j	ọː	n͡n̥	-
@@ -61,17 +63,17 @@
 17144	Gornsdorf......	m	iː	t	-	k̟	ẹə	-	ə̥
 17089	Gottsbüren.....	m	ɪ̜	d̰	ə	ʁ	ɒ̣	n	-
 17051	GrossJamno.....	m	ɪ	t	-	k	eː	n	-
-17015	GrossMohrdorf..	m	ɪ	t͡k	-	-	ʌʾ͡ɔ	n	-
+17015	GrossMohrdorf..	m	ɪ	t͡	-	k	ʌʾ͡ɔ	n	-
 17061	Grosswechsungen	m	ɪ̜	th	-	k	eː	-	-
 17142	Grünlichtenberg	m	ɪ̣	t	-	k̟	e̜͡ɪ̜	n	-
 17059	Grünow.........	m	ɛ̣	t	-	k	o͡ɔ̣̃ʿ	n	-
 17105	Haddorf........	m	ɛ	t	-	χ	ɒ̃	n	-
-17160	Hagen..........	m	ɪ	t͡k	-	-	ɔ̜ʿ̃ː	n	-
+17160	Hagen..........	m	ɪ	t͡	-	k	ɔ̜ʿ̃ː	n	-
 17122	Hammah.........	m	ɪ	t	-	k	ɒ̃ː	n	-
-17053	Hartenfels.....	m	ɪ̜	t͡k	-	-	ɔ̣+ː	n̰	-
+17053	Hartenfels.....	m	ɪ̜	t͡	-	k	ɔ̣+ː	n̰	-
 17145	Hartenstein....	m	ɪ	-	-	c͡k̟	ɛ̃→ɪ̃	-	-
-17046	Helmers........	m	ɪ	t͡k	-	-	æ	-	-
-17164	Herbornseelbach	m	ɪ̣	t͡c̠	-	-	ɪː	-	-
+17046	Helmers........	m	ɪ	t͡	-	k	æ	-	-
+17164	Herbornseelbach	m	ɪ̣	t͡	-	c̠	ɪː	-	-
 17064	Herdecke.......	m	æ̣	th	-	k	eə	n	-
 17065	Herdecke.......	m	ɪ	tʰ	-	ɡ	ɒː	n	-
 17060	Herrentrup.....	m	ɪː	-	-	ç	oː	n̰	-
@@ -94,31 +96,31 @@
 17100	Jesteburg......	m	ɪ̜	tʰ	ɪ	ɣ̟	ɒ̣ː	n	-
 17101	Jesteburg......	m	ɪ	t	-	k	ɒː	n	-
 17048	Jonsdorf.......	m	ɪ̠	t	-	kh	iː	n	-
-17117	Jürgenshagen...	m	ɪ	t͡k	-	-	ɔ̃͡ɔ̣̃	n	-
-17115	Kemmern........	m	ɪ	t͡c̠	-	-	eː	-	-
+17117	Jürgenshagen...	m	ɪ	t͡	-	k	ɔ̃͡ɔ̣̃	n	-
+17115	Kemmern........	m	ɪ	t͡	-	c̠	eː	-	-
 17069	KirchKogel.....	m	ɪ	ɬ	-	k	ɔ͡ɔ̃	n	-
 17068	Klafferstrass..	m	i̠	ʔ	-	k͡x̰	ɛ̜	-	-
-17026	Kleinbottwar...	m	i̠ː	t͡k	-	-	a̠→oʿ	-	-
+17026	Kleinbottwar...	m	i̠ː	t͡	-	k	a̠→oʿ	-	-
 17135	Kruft..........	m	e	t	-	j	o	n̥̩	-
 17050	Kuhstedt.......	m	ɪ̜	t	-	k	ɔː	n	-
 17141	Köln...........	m	e	t	-	ç	ɪ→aː	n	-
 17029	Lampertswalde..	m	ɪ	t	-	k̟	e̜→ɪ	n	-
 17085	Landgrafroda...	m	ɪ̜	th	-	ç͡j	eː	-	-
-17169	Langenbruck....	m	i̜	t͡ɡ	-	-	eː	-	-
+17169	Langenbruck....	m	i̜	t͡	-	ɡ	eː	-	-
 17107	Leuth..........	m	œ̠	t	-	ç͡j	o→ə̜	n	-
 17168	Lippen.........	m	i	t	-	cʰ	eː	n	-
 17151	Lippramsdorf...	m	ɛ̜	t	-	x	ɔː	n	-
-17166	Lohrhaupten....	m	ɪ̣	t͡k͡x̰	-	-	ɛ̣→ɪ	-	-
+17166	Lohrhaupten....	m	ɪ̣	t͡	-	k͡x̰	ɛ̣→ɪ	-	-
 17112	Maibrunn.......	m	i̜	-	-	çʰ	ẹ	-	-
-17161	Mastershausen..	m	e	t͡k	-	-	ẹː	-	-
+17161	Mastershausen..	m	e	t͡	-	k	ẹː	-	-
 17173	Maxweiler......	m	ɪ	t	-	kç	e͡ẹ	-	-
 17036	Mirow..........	m	ɪ	t	-	k	ɔ̃ː	-	-
 17086	Mockern........	m	ɪ̣	t	-	k	eɛ̣	-	-
 17009	Mörshausen.....	m	ɛ̠	ʁ	əʾ	k	e̠ʾː	n	-
 17128	NeuSchadow.....	m	ɪ	t	-	k	eːə	n	-
 17031	Niederasphe....	m	e	ɾ	ə	k	ɪ̣ː	-	-
-17045	Niederauerbach.	m	ɪ̣	t͡k	-	-	eː	n	-
-17075	Niedernhausen..	m	ɪ̣	t͡k	-	-	eːə	-	-
+17045	Niederauerbach.	m	ɪ̣	t͡	-	k	eː	n	-
+17075	Niedernhausen..	m	ɪ̣	t͡	-	k	eːə	-	-
 17113	Nürnberg.......	m	i	t	-	k	eː	-	-
 17041	Oberau.........	m	i	c	-	ɡ	eː	-	-
 17013	Oberhomberg....	m	i	tʼ	-	k	o	-	-
@@ -126,7 +128,7 @@
 17094	Oberviehbach...	m	ɪ	-	-	c͡k	ẽ	-	-
 17052	Oberwürzbach...	m	ɪ̠	t	-	ç	e	n̩	-
 17149	Odenspiel......	m	e	t	-	χ	ɤ͡ɔ̃ʿ	n	-
-17127	Offdilln.......	p	ɪ̣	t͡k̟	-	-	ɪ̣ːjə	-	-
+17127	Offdilln.......	p	ɪ̣	t͡	-	k̟	ɪ̣ːjə	-	-
 17106	Ohrdorf........	m	ɪ̠	t	-	k	o̜ː	n	-
 17147	Oiste..........	m	ɪ̜	t	-	k	ɑ̃ʾ→ʊ̰	n̥	-
 17146	Orferode.......	m	e̜	tʰ	-	j	eː	-	-
@@ -135,7 +137,7 @@
 17099	Osterhagen.....	m	ɪ̣→ə	-	-	ɣ	ọ→ə	n	-
 17076	Ottowind.......	m	ɪ	θ	-	k	eː	-	-
 17139	Peterskirchen..	m	i̜	-	-	kː	ẽ̠	-	-
-17014	Pfaffenrot.....	m	e̜	t͡k	-	-	eː	-	-
+17014	Pfaffenrot.....	m	e̜	t͡	-	k	eː	-	-
 17062	Pielenhofen....	m	ɪ̣	-	-	c͡k͡x̰	ẽː	-	-
 17044	Pretzsch(El)...	m	ɛ	th	-	j	eː	n	-
 17007	Pöttmes........	m	i̜ː	-	-	k͡k	ẽ͡ẹ̃	-	-
@@ -143,7 +145,7 @@
 17001	Ramsau(Berch)..	m	i͡ʔ	-	-	kh	ɛ̣̃	-	-
 17088	Reelkirchen....	m	ɪ̣ː	-	-	ç	o→ʊ	n̰	-
 17021	Reetz..........	m	e̜	tʰ	-	j	oː	n	-
-17037	Rosenthal......	m	e	t͡k̟	-	-	eː	-	-
+17037	Rosenthal......	m	e	t͡	-	k̟	eː	-	-
 17109	Rossau.........	m	e̜	d̪	-	j̟	o͡ʊ̜	n	-
 17030	Rosswein.......	ʜ	ɪ	t	-	cʰ	eː	n	-
 17174	Ruhlsdorf......	m	ɪ̠	t̰	-	k̟ʰ	ɛː	n	-
@@ -159,29 +161,29 @@
 17114	Schönbeck......	m	ɪ	t	-	kʰ	ɒ̃ː	-	-
 17078	Seelbach.......	m	ɪ	t	-	k	ɤʾː	-	-
 17038	Siebenbach.....	m	ɔ	t	-	-	ɪ̥͡ɪ→ɔ̜ː	n	-
-17170	Tann(Rhön).....	m	ɪ̣	t͡k	-	-	eː	-	-
+17170	Tann(Rhön).....	m	ɪ̣	t͡	-	k	eː	-	-
 17072	Theuma.........	m	i	t̰	-	c̠	ɪɐ̟̃	-	-
 17138	Treffelstein...	m	ɪ̣	-	-	c͡k	ɛ̃→ɪ̃	-	-
 17124	Ulbering.......	m	ɪ̣	-	-	c͡c	e	-	-
 17103	Ungstein.......	m	i̜	d	ɛ	ɡ	i̠̜	-	-
 17110	Unterellen.....	m	ɪ̜	t	-	c	i͡ĩ	-	-
 17111	Unterellen.....	m	iː	t	-	k	eː	-	-
-17129	Valdorf........	m	ɛ̣	t͡ç	-	-	ɒː	n	-
+17129	Valdorf........	m	ɛ̣	t͡	-	ç	ɒː	n	-
 17134	Verchen........	m	ɪ	t	-	k	ɒ̣ə̜	n	-
 17087	Vielbrunn......	m	ɪ̣	t	-	c	ɛ̣→ɪ	n	-
 17047	Vietmannsdorf..	m	ɪ̣	t	ɪ	k	ɔː	n̩	-
-17039	Volkershausen..	m	i̜ː	t͡k	-	-	e̜͡ə	-	-
+17039	Volkershausen..	m	i̜ː	t͡	-	k	e̜͡ə	-	-
 17023	Wasbüttel......	m	ɪ	d	ə	k	ɔ̜ʿ͡ɒ̣	n	-
 17095	Wehrsdorf......	m	ɪ̠	t	-	k	ɛ̣	n	-
 17090	Weidenbach.....	m	ɪ	c	-	ɡ	ɛ̃͡ɐ̃	-	-
 17020	Wemb...........	m	e	d	-	ç	ɔːt	n̩	-
 17017	Wentorf(Sand)..	m	ɪ	t	-	k	ɔ̃	n	-
 17119	Wernigerode....	p͡m	ɪ	d	ə	k	ɔ̃ə̥	-	-
-17093	Weyhers........	m̜	ɪ̣	t͡c̠	-	-	eː	-	-
+17093	Weyhers........	m̜	ɪ̣	t͡	-	c̠	eː	-	-
 17159	Wieda..........	m	ɪ	tʰ	-	c̠ʰ	eː	-	-
 17070	Wildpoldsried..	m	ɨ	ʔ	-	k	ɑ̃→ʊ̃	-	-
 17003	Winterspelt....	m	ɔ	t̠	-	ç͡j	ɔx̰	-	-
-17157	Wittelsberg....	m	ɪ̣	t͡k	-	-	i̜ː	-	-
-17010	Wolgast........	m	ɪ̜	t͡k	-	-	ɒ̃ː	n	-
+17157	Wittelsberg....	m	ɪ̣	t͡	-	k	i̜ː	-	-
+17010	Wolgast........	m	ɪ̜	t͡	-	k	ɒ̃ː	n	-
 17049	Wüllen.........	m	ɛ	tʰ	-	x	ɔː	-	-
 17016	Zellingen......	m	ɪ̣	t	-	k	ɛ→ə	-	-

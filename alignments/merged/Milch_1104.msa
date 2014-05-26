@@ -4,10 +4,12 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-11-29 14:15 by Johann-Mattis List <mattis.list@uni-marburg.de>
 # modified   : 2013-12-04 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-05-27 01:23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #
-:ANN	STANDARD.......	M	i	l	.	ch	.
+:ANN	STANDARD.......	M	i	l	(i)	ch	(e)
 #
 25642	Aachen.........	m	e̜	l	ə	ʃ	-
 25663	Adorf..........	m	ɪ͡ɪʿ	l	-	kh	-
@@ -44,11 +46,11 @@
 25641	Dreeke.........	m	ø̜	l	-	k̟͡x̟	-
 25584	Ebertshausen...	m	e	l	ɪ	ç	-
 25593	Ebstorf........	m	ẹ̠	ɭ	-	k	-
-25598	Eichenhofen....	m	y͡ʏʿ	ç	-	-	-
+25598	Eichenhofen....	m	y͡ʏʿ	-	-	ç	-
 25674	Einöllen.......	m	ɪ̠	l	ɪ̠	ʃ̠	-
 25516	Endenburg......	m	ɪ	l	-	χ	-
 25684	Engelsbach.....	m	e	l̠	ə̟	ç	-
-25566	Engter.........	m	ɛ→ə̜	k	ə	-	-
+25566	Engter.........	m	ɛ→ə̜	-	-	k	ə
 25618	Ensheim........	m	ɪ	l	ɪ	ç	-
 25656	Eschelbronn....	m	ɪ	l	-	ç	-
 25569	Eversen........	m	e	l	-	ʔ	-
@@ -56,7 +58,7 @@
 25535	Falkenthal.....	m	ɛ	l	-	ʔ	-
 25531	Freden.........	m	ɪ̠	l̠	ʏ̜ʿ	kh	-
 25631	Frohnhausen....	m	ɪ	l	-	j	ə
-25557	Gelting........	m	ɯʾ→ɪ̠	ç	-	-	-
+25557	Gelting........	m	ɯʾ	→ɪ̠	-	ç	-
 25562	Gerbstedt......	m	ẹ	ɭ	ɪ	ç	-
 25538	Gersdorf.......	m	ɪ	l	-	ç	-
 25635	Gornsdorf......	p	ə̣ʾ	ɭ	-	ʃ̫	-
@@ -78,14 +80,14 @@
 25669	Herbornseelbach	m	ɪ̣	l	-	ɕ	-
 25512	Herdecke.......	m	ɪ	l	ɪ̠	ʃ̠	-
 25513	Herdecke.......	m	ɪ̜	ɭ	-	k	ə̜
-25550	Hermannsreuth..	m	y→ɨ	ç+	-	-	-
+25550	Hermannsreuth..	m	y	→ɨ	-	ç+	-
 25588	Herrentrup.....	m	ø	l	ə	k͡x̰	ə
 25525	Herssum........	m	ɛ̜	ɭ	-	k̰	-
 25661	Herzfeld.......	m	ɪ̰→əʾ	ɫ	-	ʔ	-
 25681	Hesselteich....	m	i̜→ɐ̟	l	-	ç̠	ə
 25514	Hohenkörben....	m	ɪ̜	l̠	-	k͡x	-
 25628	Hohwacht(Os)...	m	ɛ	ʎ	-	kʰ	-
-25519	Holmkjer.......	m	ɪ̜→ə̜	k̰	-	-	-
+25519	Holmkjer.......	m	ɪ̜→ə̜	-	-	k̰	-
 25630	Horheim........	m	ɪ	l̠	-	χ	-
 25683	Huddestorf.....	m	ɛ̣	l	-	kʰ	-
 25667	Hundisburg.....	m	ɛ̣	ɭː	-	kʼ	-
@@ -101,7 +103,7 @@
 25528	Jonsdorf.......	m	ɪ̠	l	-	ç	-
 25653	Jürgenshagen...	m	ɪ̜→ɛ	l̠	-	ʔ	-
 25529	Kemmern........	m	ɪ̣	l	ɪ	ç	-
-25573	KirchKogel.....	m	ɛ̠	l͡ʔ	-	-	-
+25573	KirchKogel.....	m	ɛ̠	l͡	-	ʔ	-
 25526	Klafferstrass..	m	y	l	e	-	-
 25520	Kleinbottwar...	ʔ͡m	ɪ̣	l	ɪ	ç̠	-
 25532	Kruft..........	m	ɪ̠	l̠	-	ʒ̠̫	-
@@ -109,7 +111,7 @@
 25599	Köln...........	m	ɪ	ɫ	-	ʃ	-
 25539	Lampertswalde..	m	ʏ̠	ɭ	ə̣	ç̟	-
 25678	Landgrafroda...	m	e̜	l	ɪ̜̠	ç	-
-25582	Langenbruck....	m	ə→ɪ	ç	-	-	-
+25582	Langenbruck....	m	ə	→ɪ	-	ç	-
 25646	Leuth..........	m	ɛ̣	l	ə	k̟h	-
 25686	Linz...........	m	i	l	ə̣	ç	-
 25691	Lippen.........	m	ɪ̜	ɭ	-	ç	-
@@ -143,7 +145,7 @@
 25568	Ottowind.......	m	ɪ̣	l	ɪ	ç	-
 25666	Peterskirchen..	m	i̠	ɭ	əʾ	-	-
 25612	Pfaffenrot.....	m	ɪ̣	l	-	ç	-
-25510	Pielenhofen....	m	œ̣→ɪ	ç	-	-	-
+25510	Pielenhofen....	m	œ̣	→ɪ	-	ç	-
 25515	Pretzsch(El)...	m	ɪ̠	l	-	ç	-
 25608	Pöttmes........	m	ɯ	l	-	ç	-
 25668	Rammenau.......	m	ɪ	l͡ɮ	-	ç	-
