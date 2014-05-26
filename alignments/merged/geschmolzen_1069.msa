@@ -1,0 +1,56 @@
+# collection : 128 ("geschmolzen") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+# modified   : 2013-12-09 00:28 by Michael Cysouw <cysouw@uni-marburg.de>
+# modified   : 2013-12-18 by Jelena Prokic <prokic@uni-marburg.de>
+# comment    : No idea why there are only so few strings in this cognate set in the data
+#
+:ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9
+#
+:ANN	STANDARD.......	g	e	sch	m	o	l	z	e	n
+#
+19837	Adorf..........	-	-	ʃ	m	ɔ̣	l	t	-	n̩
+19835	Bempflingen....	x	-	ʃ	m	o̜	l	t͡s	ə	-
+19847	Billingsbach...	x	-	ʃ	m	ɔ̣ʿ	l	t͡s	ə	-
+19866	Brockhausen....	-	-	ʃ̟	m	ɔ̣	l	t	-	n̩
+19851	Bruch..........	k	ə	ʒ	m	ɤ̟	l̠	t͡s	-	-
+19867	Burgrieden.....	ɡ	ə̟	ʃ	m	ọ	l	t͡s	ə	-
+19868	Büdesheim......	k	ə	ʃ̠	m	o	l̻	s	ə	-
+19829	Docelles.......	ɣ	ə	ʃ	m	o̜	l	d̰͡z	ə	-
+19842	Eichenhofen....	k	-	ʃ	m	ọ→ɪ	-	t͡s	-	n̩
+19831	Endenburg......	x	-	ʃ	m	ɔ	ɫ	d͡z	ə	-
+19832	Endenburg......	x	-	ʃ	m	ɔ	ɫ	t͡z	ə	-
+19854	Ensheim........	k	-	ʃ	m	o͡ə̠	l	s	-	-
+19845	Eschelbronn....	k	-	ʃ	m	ɔ	l	d͡z̠	ə̟	-
+19852	Gelting........	k	-	ʃ	m	o→ɪ	-	s	-	n̩
+19850	Hartenstein....	x	-	ʃ	m	o̜	l	s	-	n̩
+19857	Höchstädt(Don).	k	-	ʃ	m	ɔ	l	t͡s	ə	-
+19839	Iggingen.......	x̰	-	ʃ	m	ɔ̣	-	t͡s	ə̜̃	-
+19863	Igling.........	x	-	ʃ	m	ɔ̣	l	t̰͡s	ə	-
+19840	Iversheim......	j	ə̣	ʃ̫	m	ɔ	ɫ	t͡s̟	ə̣	n̥
+19836	Kemmern........	k	-	ʃ̠	m	o	l	z	-	n̩
+19869	Klafferstrass..	x̰	-	ʃ	m	ʊ	l	t̰͡s	-	n̩
+19838	Langenbruck....	x	-	ʃ	m	ọʿ	l̰	s	-	n̩
+19860	Leuth..........	ɣ	ə	ʃ̫	m	o̜	l̻	tʰ	ə	-
+19872	Lippramsdorf...	-	-	ʃ̟	m	ɔ	l̠	t	-	n̩
+19848	Maxweiler......	k	-	ʃ	m	ɔ	l	t͡s̟	ə	-
+19859	Oberhomberg....	x	-	ʃ	m	ɔ̣	l̠	t͡s	ə	-
+19856	Obermaisel.....	k͡x	-	ʃ	m	ɔ	l̠	t͡s	ə̣	-
+19849	Orferode.......	ɣ	ə	ʃ	m	ɔ̣ː	l̠	s	ə	n
+19862	Pfaffenrot.....	k	-	ʃ	m	o̜ʿ	l	d̰͡z	ə̜	-
+19861	Pielenhofen....	k	-	ʃ	m	o	l	t͡s	-	n̩
+19841	Pöttmes........	k	-	ʃ	m	ʊ	l	t͡s	-	n̩
+19844	Reelkirchen....	-	-	ʃ	m	o	l	t	-	n̩
+19830	Schachach......	k	-	ʃ	m	ɔ	l̰	t͡s	-	n̥̩
+19843	Schauenstein...	k	-	ʃ	m	ɔ̣	l	t͡s	-	n̩
+19833	Schnepfenbach..	k	-	ʃ	m	ɔ̣	l	s	-	n̩
+19870	Seelbach.......	k	-	ʃ	m	ɤ̣	l	d͡s	ə	-
+19864	Siebenbach.....	-	ɪ→ə	ʃ	m	ɔ̣̠	l̠	t̰͡s	-	-
+19855	Ulbering.......	x	-	ʃ	m	ọ	l̰	s	-	n̩
+19853	Vielbrunn......	k	-	ʃ	m	o	l	z	ə	-
+19865	Volkershausen..	x	-	ʃ	m	ɔ̣	l	t͡s	ə	-
+19871	Weidenbach.....	k	-	ʃ	m	o̜ʿ	l	s	-	n̩
+19858	Wemb...........	ɣ	e	s̠	m	ɔ	l̠	t	ə̜	-
+19846	Wüllen.........	-	-	s	m	ɔ	l̠	t	-	n̩
+19834	Zellingen......	k	-	ʃ	m	o	l	t͡s	ə	-

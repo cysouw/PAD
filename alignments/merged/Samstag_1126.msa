@@ -1,0 +1,75 @@
+# collection : 144 ("Samstag") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+# modified   : 2013-12-10 23:53 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : removed cognates of "saterdag" and "sonnabend", and a few strange variants ("sorstag" ?)
+# modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
+#
+:ANN	COLUMNID.......	1	2	3	4	5	6	7
+#
+:ANN	STANDARD.......	S	a	m	s	t	a	g
+#
+22660	Aachen.........	s	a	m	s	t͡s	ɪ	ʃ
+22602	Albersloh......	s̠	a̠	m	p̰s̠	s̠	a̠ʾ	x
+22729	Altentrüdin....	s	ɔ̜	m	s	ð	ɪ̠	-
+22652	Bempflingen....	s	a	m	ʃ	t	ɪ	ç
+22581	Billingsbach...	s	a	m	s	d̪	ə	-
+22716	Bonn...........	s	a	m	s	t̪	ɑ̟	χ̰
+22659	Bruch..........	s	ɔː	m	p̰s	t	ɪ	ʃ
+22628	Burgrieden.....	s	ạ	m	s	s	ɑː	x
+22631	Büdesheim......	s	ɔ	m	s	ð	ɔ̟ː	χ
+22696	Docelles.......	s	a̠	m	s	d	ɔ	x
+22698	Eichenhofen....	s	ɔʿ̃	m	s	θ	ə̟ʾ	-
+22639	Einöllen.......	s	ɔ	m	ʃ̫	t	ɑʾː	x
+22588	Endenburg......	ð	ʌː	m	ʃ	t	i̜	kh
+22730	Ensheim........	s	ɔ	m	ʃ	t	ɑʾ	kʰ
+22662	Eschelbronn....	s	a̠ʿ	m	s	t	ɑ̟ː	χ
+22600	Gelting........	s	ɑ	m	s	t	ə̠	k̰
+22717	Hartenfels.....	s	ɑ	m	p͡s	ð	ɪ	ɕ
+22733	Hartenstein....	s	a̠	m	s	t̪	a̠	χ
+22617	Herbornseelbach	s	a̠	m	s	t	ɔː	χ
+22583	Hermannsreuth..	s	ɒʿ̃	m	s	θ	œ	-
+22577	Horheim........	s	a	m	ʃ̠	t	ɪ̠	k̰͡x
+22683	Höchstädt(Don).	s	a̠	m	s	t	ə̜	k
+22640	Iggingen.......	s	a	m	s	-	ɪ	kʰ
+22685	Igling.........	s	ɑ̟	m	s	t	ə	kʼ
+22719	Iversheim......	s̟	ɑ	m	ps̟	t̪	ɑː	χ
+22670	Kemmern........	s	a	m	s	t	ɔ̣	χ
+22608	Klafferstrass..	s	ɒ̣	m	s	θ	a̠	x
+22622	Kleinbottwar...	s	ɛ	m	p͡s	t	ɪ	ç
+22654	Kruft..........	s	ɑ	m	s	θ	ɑʾː	ʀ̥
+22702	Köln...........	z	a	m	s	ð	a	x
+22638	Langenbruck....	s	a̠	m	s	ð	ə̜	-
+22619	Lohrhaupten....	s	ɑ̟	m	ps	t	ʌ̜ʾː	χ
+22597	Maibrunn.......	s	ɒ̣̃	m	ps	t	ə̠	-
+22705	Mastershausen..	s	ɑ̟ː	m	s	t	o̜	x
+22707	Maxweiler......	s	a	m	s̟	t	ə̜	k
+22677	Niederauerbach.	s	a̠	m	p̰ʃ	t	ɑ̟ː	-
+22593	Niedernhausen..	s	a̠	m	s	t	ɑ̟ː	ʀ̥
+22649	Nürnberg.......	s	a̠	m	s	t	ɔ̣	x
+22743	Oberau.........	s	a	m	s	t	ə̜	x
+22744	Oberau.........	s	a	m	s	t	ə̜	-
+22742	Oberhomberg....	s	a̠	m	s	t	ɪ	cʰ
+22715	Obermaisel.....	s̠	ɑ̃	m	s̠	θ	ɑʾ	kʰ
+22585	Oberviehbach...	s	ɑ̣ʾ	m	p̰͡s	t̟	-	-
+22687	Oberwürzbach...	s	a̠	m	ʃ	θ	ɑː	-
+22708	Odenspiel......	s	a̠	m	p̰s	t	a̠	k̰
+22699	Peterskirchen..	s	ɔ	m	s	t	ɔ̣ʿ	kʰ
+22646	Pfaffenrot.....	s	a	m	s	θ	ɪ	ç
+22656	Pielenhofen....	s	ɒ̣	m	s	t	ə	-
+22645	Pöttmes........	s	ɑ̟̃ː	m	s	t͡θ	ə	s
+22726	Ramsau(Berch)..	s	ɑ̟̃ʾ	m	s	tʰ	ọ+	kʰ
+22679	Schachach......	s	a̠	m	s	θ	ɔ̣	k̰
+22614	Schnepfenbach..	s	a̠	m	s	t	ɔ	χ
+22723	Schömberg......	s	a	m	ʃ	t	ɪ	k
+22635	Seelbach.......	θ͡s	a̠	m	ʃ	θ	i̜	k̰
+22625	Siebenbach.....	s	a	m	s	θ	ə̣	ç
+22724	Treffelstein...	s	ɔ	m	s	t	ə	-
+22596	Ulbering.......	s̟	ɑ̟ː	m	p̰ʃ̟	t	ə	-
+22703	Ungstein.......	s	ɔʿ	m	s	t̪	ɑ̟	x̠͡x
+22591	Vielbrunn......	s	ɔ	m	ʃ	t	ɑ̟ː	χ
+22627	Weidenbach.....	s	a	m	s	t	ɔ̣	χ
+22695	Wildpoldsried..	s	ɑ	m	ps	t̪	a	kʰ
+22572	Winterspelt....	s	ɑ	m	s	t	ɪ	ɕ
+22675	Zellingen......	s	ɔ̣ː	m	s	t	ɪ	-

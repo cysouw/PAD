@@ -1,0 +1,66 @@
+# collection : 16 ("uns") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+# modified   : 2013-11-30 16:37 by Michael Cysouw <cysouw@uni-marburg.de>
+# modified   : 2013-12-16 by Jelena Prokic <prokic@uni-marburg.de>
+#
+:ANN	COLUMNID.......	1	2	3
+#
+:ANN	STANDARD.......	u	n	s
+#
+2060	Adorf..........	oː	-	s̠
+2076	Bempflingen....	ʊ	n	s
+2061	Billingsbach...	ʊʿ	n	s
+2045	Brockhausen....	ʊ	-	s
+2056	Bruch..........	ə	-	s
+2023	Burgrieden.....	ʏ→ɪ	-	s
+2034	Büdesheim......	ʊ	n	s
+2050	Docelles.......	ʊ	n	t̰͡s
+2022	Eichenhofen....	ʊ̣	n	s
+2071	Endenburg......	y	-	s
+2072	Endenburg......	ʏ	-	z̠
+2067	Engter.........	ʊ̣	-	s̠
+2051	Ensheim........	ʊ	n	s
+2026	Eschelbronn....	ʊ	n	s
+2070	Gelting........	ʊ	n	s
+2041	Hartenstein....	ʊʿ	n	s
+2038	Herrentrup.....	ɯ̟	-	z
+2046	Horheim........	ʊ	n	z
+2065	Höchstädt(Don).	ʊ̣	n	s
+2057	Iggingen.......	ʊ̟	n	s
+2068	Igling.........	ʊ̣	n	s
+2044	Iversheim......	ʊ	-	s̠
+2030	Kemmern........	ʊ	n	s
+2049	Klafferstrass..	ʊʿ	n	t͡s
+2027	Langenbruck....	ʊ	n	z
+2059	Leuth..........	ə	-	s
+2043	Lippramsdorf...	ʊ̜ʿ	-	z
+2048	Maxweiler......	ʊ̈	n	s
+2035	Niederauerbach.	ʊ̟	n	s
+2031	Oberau.........	ʊ	n̰	s
+2032	Oberau.........	ʊ̃	-	z
+2073	Oberhomberg....	ʊʿ	n	z
+2075	Obermaisel.....	ɪ͡i	-	s
+2037	Oberviehbach...	w	n	z
+2039	Oberwürzbach...	ʊ̟ʿ	n	s
+2042	Orferode.......	ʊ̜	n	s
+2040	Ottowind.......	ʊ	n	z
+2025	Pfaffenrot.....	ʊ	n	s
+2074	Pielenhofen....	ʊʿ	n	t̰͡s
+2054	Pöttmes........	ʊ̟	n̰	z
+2063	Reelkirchen....	ʏ	-	s
+2033	Schachach......	ʊ	n	s
+2029	Schauenstein...	ʊ	n	s
+2055	Schömberg......	ə̜→ɪ	-	z
+2028	Seelbach.......	ɯʾ	n	s
+2053	Siebenbach.....	ə	-	s
+2058	Treffelstein...	ʊ	n	z
+2069	Ulbering.......	ʊ	n	z
+2064	Vielbrunn......	ʊ̣	n	s
+2024	Volkershausen..	ʊ	n̰	s
+2047	Weidenbach.....	ʊ	n	s
+2062	Wemb...........	ʊ̜	n	s
+2066	Weyhers........	ʊʿ	n	s
+2052	Wüllen.........	ʊ	-	s
+2036	Zellingen......	ʊ̣	n	s

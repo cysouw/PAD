@@ -1,0 +1,69 @@
+# collection : 63 ("andern") 
+# aligned by : LingPy-2.2 <www.lingpy.org>
+# created on : 2013-11-27 13:16
+# parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
+# modified   : 2013-12-01 14:04 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : string 9452 has merged column 5/6/7
+# modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+#
+:ANN	COLUMNID.......	1	2	3	4	5	6	7
+#
+:ANN	STANDARD.......	a	n	d	e	r	e	n
+#
+9451	Adorf..........	a̠	n	d	-	-	a̠	n
+9488	Altentrüdin....	ɑʾ	n	d	ə	ʁ̰	ə	-
+9475	Bempflingen....	ɐ	n	d	-	ɾ	ə	-
+9487	Billingsbach...	ɑ̣	n	t	-	ɾ	ə	-
+9482	Brockhausen....	a̠	n	-	ə̰	ɾ̰	ə̰	-
+9450	Bruch..........	a	n	-	-	-	ɐ	n
+9441	Burgrieden.....	ạ	n	d	ə	ɾ	ə̟	-
+9461	Büdesheim......	ɔ	n	-	-	-	ə̜	n
+9442	Docelles.......	ɑ̟	n	-	-	-	ə̜	n
+9473	Eichenhofen....	ɑ̃ː	n	d	-	-	ə	n
+9454	Endenburg......	ɑ	n	d	ə	ɾ	ə	-
+9459	Engter.........	æ	n	d	-	-	ə̜	n
+9460	Engter.........	æ	n	-	-	-	ə̜	n
+9445	Ensheim........	ɒ̣	n	-	-	-	ə	n
+9447	Eschelbronn....	ɔʿ	n	-	ə	ʁ	ə	-
+9452	Gelting........	ɒ̃	n	ð	ə	-	-	ɾ͡n
+9443	Hartenstein....	ã̠	n	d	-	-	ə̜	n
+9468	Herrentrup.....	ɑ̟	n	-	-	-	ə̜	n
+9458	Horheim........	a	n	t	-	ʁ	ə	-
+9436	Höchstädt(Don).	a	n	t	ə	ɾ	ə̣	-
+9462	Iggingen.......	a	n	d	-	ɾ	eː	-
+9437	Igling.........	a	n	t	-	r	ə	-
+9446	Iversheim......	ɑ̃ʾ	n	d̪	ə	ɹ	ə	-
+9477	Kemmern........	ɔ	n	-	-	-	ə˻	n
+9471	Klafferstrass..	ɑ	n̰	-	-	-	ɐ	n
+9448	Langenbruck....	ɔ̜	n	-	-	-	ə̜	n
+9444	Leuth..........	ɒ	ŋ	ɡ	-	ʁ	ə̜	n
+9476	Lippramsdorf...	a̠	n	-	-	-	ə̜	n
+9485	Maxweiler......	ɑ̟	n	θ̰	-	ʁ̰	ə̟	-
+9439	Niederauerbach.	ɑ̟	n	-	ə	ɾ	ə	-
+9466	Oberau.........	ɒ	n	d	-	-	ə˻	n
+9467	Oberau.........	ɑ	n	d	-	-	ə˻	n
+9490	Oberhomberg....	a̠	n	d	-	ʁ	ə̟	-
+9480	Obermaisel.....	ɒ	n	d	-	ɾ	ə̟	-
+9440	Oberviehbach...	ɒ̣̃	n	-	-	-	ə̜	n
+9469	Oberwürzbach...	ɑʾ	n	-	ə̰ʾ	ɣ	əʾ	-
+9479	Orferode.......	ɛ̜	n	d	-	ɾ	-	n̩
+9486	Ottowind.......	ɔ	n	-	-	-	ə̜	n
+9464	Pfaffenrot.....	a	n	-	-	ʁ̰	ə	-
+9434	Pielenhofen....	ɒ̣	n	-	-	-	ə̜	n
+9455	Pöttmes........	ɔ̜̃	n	ð̰	-	-	ə̜	n
+9481	Reelkirchen....	a̠	n	-	-	-	ɐ	n
+9484	Schachach......	ɒ̣ʿ	n	d	-	-	ə	n
+9457	Schauenstein...	ɔʿ	n	d	-	-	ə̜	n
+9483	Schnepfenbach..	ɒ	n	-	ə	ʁ	ə	-
+9470	Schömberg......	ɐ	n	d	-	ɾ	ə	-
+9474	Seelbach.......	ɔ̜	n	d	-	ʁ	ə	-
+9453	Siebenbach.....	ɑ̟	n	-	-	-	ɐ	-
+9478	Treffelstein...	ɑ̣ʾ	n	d	-	-	ə̜	n
+9472	Ulbering.......	ɔ̜	n	-	-	-	ɐ	n
+9463	Vielbrunn......	ɒ̣	n	-	-	-	ə̜+	n
+9465	Volkershausen..	a̠	n	-	ə	ɾ̰	ə̰	-
+9489	Weidenbach.....	ʌ	n	t	-	-	ə	n
+9438	Wemb...........	ɑ̟ː	n	-	-	-	ə̜	n
+9456	Weyhers........	ɑ̟ʾː	n̜	-	ə	r	ə	-
+9449	Wüllen.........	ɑ͡ɒ	n	-	-	-	ə̜	n
+9435	Zellingen......	a	n	d	-	r	ə	-
