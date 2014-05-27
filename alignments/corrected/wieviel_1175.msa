@@ -5,6 +5,8 @@
 # modified   : 2013-12-10 23:53 by Michael Cysouw <cysouw@uni-marburg.de>
 # modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
 # modified   : 2014-01-08 00:39 by Michael Cysouw <cysouw@uni-marburg.de>
+# modified   : 2014-05-27 21:21 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : removed a non-cognate string 22935
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9
 #
@@ -209,7 +211,6 @@
 22994	Odenspiel......	-	f͡v	ɪ̠	f	i̜→ə	-	ɫ	-	-
 22995	Odenspiel......	-	ɸ͡β	i̜ː	f	i̜	ə	ɫ	-	-
 22934	Offdilln.......	-	b	ɛ̣→ɪ	f	ɪ	-	l	-	-
-22935	Offdilln.......	-	β	e̠	m	ɐ̟→ɪ	-	ç	-	-
 22786	Ohrdorf........	-	v	ɪ̣	β	-	-	l̩	-	-
 22787	Ohrdorf........	-	β	ɪ̣	β	-	-	l̰̩	-	-
 22813	Oiste..........	-	v	o	f	ɛ̜ː	-	l	-	-
