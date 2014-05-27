@@ -5,10 +5,11 @@
 # modified   : 2013-11-30 22:09 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : some strings are "selber", the "r" is put in a different column 10
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-27 20:44 by Michael Cysouw <cysouw@uni-marburg.de>
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9
 #
-:ANN	STANDARD.......	s	e	l	.	b	.	s	t	.
+:ANN	STANDARD.......	s	e	l	(e)	b	(e)	s	t	(r)
 #
 6251	Adorf..........	z	œʿ	l	-	β	ə̜	-	-	-
 6283	Altentrüdin....	s	ɛ	l	-	β	ə	-	-	ɾ̥͡ɕ
@@ -28,7 +29,7 @@
 6261	Hartenstein....	s	œʿ	l	-	β	ə̜	-	-	-
 6234	Herrentrup.....	s	ɯ̣ː	-	-	w	-	z	-	-
 6247	Horheim........	s	ɛ	l	-	p	ə̜	-	-	-
-6278	Höchstädt(Don).	s	ɛ→ɪ	-	-	p	ə	-	-	-
+6278	Höchstädt(Don).	s	ɛ	→ɪ	-	p	ə	-	-	-
 6248	Iggingen.......	s	æ̣	l	-	β	ə	-	-	-
 6264	Igling.........	s	e̜	l	-	b	-	-	-	ɾ̩
 6238	Iversheim......	s̟	ɛ	l̠	-	-	əʾ	ʃ̫	-	-
@@ -44,7 +45,7 @@
 6267	Oberau.........	s	ɛʾ	l̰	-	β	ə̜	-	-	-
 6282	Oberhomberg....	s	ɛ̜	l̠	-	p	ə	-	-	ʁ̰
 6249	Obermaisel.....	s	ɛ	ɭ	-	-	-	-	-	-
-6253	Oberviehbach...	z	ɛ̠→ə̣	-	-	β	ə	-	-	-
+6253	Oberviehbach...	z	ɛ̠	-	→ə̣	β	ə	-	-	-
 6233	Oberwürzbach...	s	ɛ̠	l	-	β	əʾ	-	-	-
 6250	Orferode.......	s	ạ̠	l̠	-	β	ə̰	-	-	ɾ̰
 6237	Ottowind.......	s	ɐ̟	l	-	β	ə	-	-	-

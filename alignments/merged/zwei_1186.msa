@@ -5,6 +5,8 @@
 # modified   : 2013-11-30 23:14 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : string 8094, 7992, 7996 combine first three columns
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-27 21:36 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segment
 #
 :ANN	COLUMNID.......	1	2	3
 #
@@ -114,7 +116,7 @@
 7966	Gottsbüren.....	th	v	e͡ɪ̜
 7967	Gottsbüren.....	th	β	eːə
 7991	Gresenhorst....	tʰ	β	ɐ→ɪ̣
-7992	Gresenhorst....	t͡ɸ	-	ɐ̠→ɪ
+7992	Gresenhorst....	t͡	ɸ	ɐ̠→ɪ
 8066	Grossenwiehe...	tʰ	f	e̜͡ɪ
 8067	Grossenwiehe...	th	ɸ	ɛ̣→ɪ
 8166	GrossJamno.....	sː	v	e͡e̠
@@ -130,7 +132,7 @@
 8248	Götz...........	sː	β	a→ɪɪə
 8249	Götz...........	s	β	eː
 7995	Haddorf........	t	β	eː
-7996	Haddorf........	t͡β̫	-	eː
+7996	Haddorf........	t͡	β̫	eː
 8160	Hagen..........	tʰ	ɸ	e̜→ɪ
 8161	Hagen..........	th	β	ɛ̣→ɪ
 8234	Hammah.........	th	β	ɛ̜→ɪ
@@ -213,7 +215,7 @@
 8026	Lippen.........	t͡s	v	aː→ɪjɛ̜
 8027	Lippen.........	t͡s	v	a̠→ɪ
 8113	Lippramsdorf...	t	v	ɛ̣
-8114	Lippramsdorf...	t͡v	-	ɛ̣ː
+8114	Lippramsdorf...	t͡	v	ɛ̣ː
 8091	Lohra..........	t͡s	β	ɛː
 7976	Lohrhaupten....	t͡s	β	ɐ
 7977	Lohrhaupten....	t͡s	β	aː
@@ -225,7 +227,7 @@
 8178	Maxweiler......	t͡s̟	β	ɔ͡ə
 8179	Maxweiler......	t͡s	β	ɛ̜ʔ
 8059	Mirow..........	th	ɸ	e→ɪ̣
-8060	Mirow..........	t͡ɸ	-	e̜→ɪ
+8060	Mirow..........	t͡	ɸ	e̜→ɪ
 8070	Mockern........	s	β	e
 8071	Mockern........	t͡s	ʋ	e̜ɛ̠
 8242	Mörshausen.....	t͡s	v	e̜

@@ -5,10 +5,12 @@
 # modified   : 2013-11-30 17:19 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : the column 7/8 are related to different morphology ("sollen" vs. "sollt")
 # modified   : 2013-12-27 by Johann-Mattis List <mattis.list@uni-marburg.de>
+# modified   : 2014-05-27 20:46 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #
-:ANN	STANDARD.......	s	o	ll	e	n	.
+:ANN	STANDARD.......	s	o	ll	e	n	(t)
 #
 3017	Ahrbergen......	s	æʾ	-	-	-	t
 3018	Ahrbergen......	s	œ̜ʿ	l̰	-	-	t
@@ -46,7 +48,7 @@
 2965	Endenburg......	s	ɔ	l	ə	-	-
 3065	Engelsbach.....	sː	ɔʿ	l̠	-	-	-
 3066	Engelsbach.....	s	ʊʿ	-	-	n	-
-2987	Engter.........	f	ʏ̣→ə	-	-	-	-
+2987	Engter.........	f	ʏ̣	-	→ə	-	-
 2996	Ensheim........	s	ɔʿ	l	-	-	-
 2983	Eschelbronn....	s	ɔ̣ʿ	l	ə	-	-
 3006	Eversen........	ʃ	ʊ	-	-	-	-
@@ -54,7 +56,7 @@
 2968	Falkenthal.....	s	o	l	-	-	-
 2980	Freden.........	z	ø̣	l	ə	-	-
 3009	Frohnhausen....	s	ʏ̣	-	-	-	-
-3024	Gelting........	s	ɔ→ɪ	-	-	-	-
+3024	Gelting........	s	ɔ	→ɪ	-	-	-
 3043	Gresenhorst....	t̰s	ɔ̜ʿ	l̰	-	-	-
 3097	Grossenwiehe...	s	ʏ̜	l	-	-	-
 2993	GrossMohrdorf..	s	ʌ̜	l̠	-	-	-
@@ -99,8 +101,8 @@
 3014	Lippramsdorf...	z	ø̜̠	-	-	-	-
 2991	Lohra..........	s	ɤ̟	-	-	n	-
 3090	Lohrhaupten....	s	ɔ	l	ə	-	-
-3059	Maibrunn.......	s̠ː	ø͡ɪʾ	-	-	-	-
-3060	Maibrunn.......	s̠	ø͡ʏ	-	-	-	-
+3059	Maibrunn.......	s̠ː	ø͡	ɪʾ	-	-	-
+3060	Maibrunn.......	s̠	ø͡	ʏ	-	-	-
 3050	Mastershausen..	s	ə	l	ə	-	-
 2984	Mirow..........	t̰͡s	œ	l	-	-	-
 3085	Niederasphe....	s	ɪ̣	-	-	n	-
@@ -120,7 +122,7 @@
 2972	Osterhagen.....	z̟	ø̜	l̠	-	-	d
 3063	Ottowind.......	s	o̜	l	-	-	-
 3067	Pfaffenrot.....	s	oʿ	l	ə	-	-
-3016	Ramsau(Berch)..	s	ø͡ɪ	-	-	-	t
+3016	Ramsau(Berch)..	s	ø͡	ɪ	-	-	t
 2954	Reelkirchen....	s	ɤ	-	-	-	t
 3055	Reetz..........	s	ọ	l̠	-	-	-
 2967	Rossau.........	s	ɤ	l̩	-	n̰	-
@@ -145,7 +147,7 @@
 2997	Vietmannsdorf..	s	ɔ̣	l	-	n	-
 2998	Vietmannsdorf..	z	ʌ̟	l	-	n	-
 3062	Volkershausen..	s	ɤ	l	-	n	-
-3037	Wasbek.........	s̠	œ͡ɪ	-	-	-	-
+3037	Wasbek.........	s̠	œ͡	ɪ	-	-	-
 2986	Wasbüttel......	s	ʏ	l	-	-	t
 2966	Wehrsdorf......	θ͡s	ɤ̟	ɭ	-	-	-
 2962	Weidenbach.....	s	ɤ	l	-	n̩	-

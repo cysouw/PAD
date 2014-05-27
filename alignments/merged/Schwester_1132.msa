@@ -4,10 +4,12 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-11-29 14:16 by Johann-Mattis List <mattis.list@uni-marburg.de>
 # modified   : 2013-12-04 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-05-27 20:38 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8
 #
-:ANN	STANDARD.......	Sch	w	e	s	t	e	r	.
+:ANN	STANDARD.......	Sch	w	e	s	t	e	r	(n)
 #
 25804	Aachen.........	z	-	øː	s	t̪	ɐ	-	-
 25727	Adorf..........	ʃ̫	β	ɛ̜ʾ	s	t	ɐ̠	-	-
@@ -24,11 +26,11 @@
 25746	Bardenfleth....	ʃ	v	ɛ̜ː	s	θ	ə	ɾ	-
 25722	Barssel........	z̠	-	ʏ̜	s̠	t̪	ə	ɾ	-
 25818	Bempflingen....	ʃ	β	e̠	ʃ	t	ə	ɾ	-
-25724	Bennin.........	s͡β	-	ɛ̜	s͡θ	-	ɛ	-	-
+25724	Bennin.........	s͡	β	ɛ̜	s͡	θ	ɛ	-	-
 25774	Billingsbach...	ʃ	β	e̜	ʃ	t	ə	ɾ̥	-
 25709	Bockelwitz.....	ʃ	β	ɛ	s̟	t	ʌ̟	-	-
 25874	Bonn...........	ʃ	β	æː	s̟͡s̟	-	ə	-	-
-25824	Borstendorf....	ʃ͡β	-	ɛ̜	s	t̪	ɒ	-	-
+25824	Borstendorf....	ʃ͡	β	ɛ̜	s	t̪	ɒ	-	-
 25820	Breddin........	ʃ	β	ɛ	s	θ	ɛ̜	-	-
 25841	Brelingen......	ʃ	β̫	ɛ̠ʾ	s	s̟	ɐ̟	-	-
 25752	Bremscheid.....	ʃ̟	-	ʏ	s̠	θ	əʾ	-	-
@@ -41,7 +43,7 @@
 25748	Dexbach........	ʃ	β	ɛ	s	θ	ɛ	-	-
 25807	Diekhusen......	ʃ	β	ɛ̠	s	θ	ə̜	-	-
 25778	Docelles.......	ʃ	β	ɛ̠	s	t̪	ə̜+	-	-
-25811	Dreeke.........	ʃ	β	ɛ	s͡θ	-	ə̠ʾ	-	-
+25811	Dreeke.........	ʃ	β	ɛ	s͡	θ	ə̠ʾ	-	-
 25742	Ebertshausen...	ʃ	v	ɑ̟ː	s	ð	-	ɹ̩	-
 25769	Ebstorf........	ʃ̫	β	ɛ	s̟	θ	ə	-	-
 25781	Eichenhofen....	ʃ	β	e̜	s	θ	ɐ̠	-	-
@@ -84,14 +86,14 @@
 25694	Herssum........	z	-	ʏ	s	th	ạ	-	-
 25716	Herzfeld.......	s̠	v	ɛ	s̟	θ	ə̜	-	-
 25866	Hesselteich....	s̠	-	y	s	s	ɐ	-	-
-25703	Hohenkörben....	z̠	-	ʏ	s̠͡θ	-	ə̜+	-	-
+25703	Hohenkörben....	z̠	-	ʏ	s̠͡	θ	ə̜+	-	-
 25852	Hohwacht(Os)...	ɕ	β	ɛ	s	d̪	ə	-	-
 25729	Holmkjer.......	ʃ	β	ɛ̜	s	s	ə̤	-	-
 25873	Horheim........	ʒ̰	β	ø	ʃ	t	ə̜	-	-
-25708	Huddestorf.....	ʃ̠	β	ɛ̠	s̟͡θ	-	ɔ̟	-	-
+25708	Huddestorf.....	ʃ̠	β	ɛ̠	s̟͡	θ	ɔ̟	-	-
 25842	Hundisburg.....	ʃ̫	β	ɛ̠	s̠	θ	ɔ̟ʿ	-	-
 25799	Höchstädt(Don).	ʃ	β	œʿ	ʃ	t	ə	ɾ	-
-25740	Hönebach.......	ʃ̫	β	æ̜	s͡θ	-	ə̜̠̃	-	-
+25740	Hönebach.......	ʃ̫	β	æ̜	s͡	θ	ə̜̠̃	-	-
 25831	Iggingen.......	ʃ̟	β	e	ʃ̟	t̰	ə	ɾ	-
 25704	Igling.........	ʒ	β	e	ʃ	t	-	ɾ̩͡ɕ	-
 25794	Iversheim......	ʃ̫̰̠	w	ɛː	s	θ	ə	-	-
@@ -117,7 +119,7 @@
 25763	Lippramsdorf...	z	-	ø	s	t	ə	-	-
 25876	Lohra..........	ʃ	β	ɛ̜	s	t	-	ɾ̩͡ɕ	-
 25843	Lohrhaupten....	ʃ	β	ɛ	s	t	ə	ɾ̰	-
-25828	Maibrunn.......	ʃ̠	β̫	ẹ	s͡t̪	-	ɑ̟	-	-
+25828	Maibrunn.......	ʃ̠	β̫	ẹ	s͡	t̪	ɑ̟	-	-
 25695	Mastershausen..	ʃ	v	ɛ	s	t	ə̜	-	-
 25760	Maxweiler......	ʃ	β	e͡ɪ	s	t	ə	-	-
 25849	Mirow..........	ʃ	β	ɛ̜	s	s+	ɐ	-	-
@@ -156,7 +158,7 @@
 25819	Rossau.........	ʃ	β̫	ɛ	s͡s+	-	ạ	-	-
 25718	Rosswein.......	ʃ̫	β	ɛ	s̟	t̪	ɔ̟	x	-
 25789	Ruhlsdorf......	ʃ̫	β	ɛ̠	s	θ	ɐ	-	-
-25706	Röhrda.........	ʃ	β	æː	s͡θ	-	ə̠ʾ	-	-
+25706	Röhrda.........	ʃ	β	æː	s͡	θ	ə̠ʾ	-	-
 25787	Schachach......	ʃ	β	ɛ	s̠	t	ə̜	-	-
 25850	Schauenstein...	ʃ	β	e̜	s	t	-	ɾ̩͡ɕ	-
 25766	Schellroda.....	ʃ	v	ɛ	s̟	t̪	ɔ̟	-	-

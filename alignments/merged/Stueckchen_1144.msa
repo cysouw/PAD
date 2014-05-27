@@ -5,10 +5,11 @@
 # modified   : 2013-12-08 22:26 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : column 6 to 12 consist of different diminitive suffixes. These columns have to be treated morphologically!
 # modified   : 2014-01-05 00:34 by Michael Cysouw <cysouw@uni-marburg.de>
+# modified   : 2014-05-27 20:58 by Michael Cysouw <cysouw@uni-marburg.de>
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10
 #
-:ANN	STANDARD.......	S	t	ü	ck	ch	e	n	.	.	.
+:ANN	STANDARD.......	S	t	ü	ck	ch	e	n	(t)	(j)	(e)
 #
 15935	Adorf..........	ɕ͡θ	-	ʏ̣	k͡k	-	ə	n	-	-	-
 15922	Ahrbergen......	s	t	ʏ̣	kh	-	ə	-	-	-	-
@@ -25,7 +26,7 @@
 15827	Bempflingen....	ʃ	t	ɪ	k	-	-	l	-	-	ə̟
 15849	Bennin.........	s̠	t	ʏ	k	-	-	-	-	-	-
 15857	Billingsbach...	ʃ	t	ɪ̣	ɡ	-	-	l	-	-	ə
-15783	Bockelwitz.....	ʃ	t	y	k͡ç	n̩	-	-	-	-	-
+15783	Bockelwitz.....	ʃ	t	y	k͡	ç	-	n̩	-	-	-	-	-
 15786	Bonn...........	ʃ	t	ʏ̠	l̠	ʃ̠	ə	-	-	-	-
 15883	Borstendorf....	ʃ̠	t	ɪ̠	ɡ	-	əʾ	ɭ	-	-	-
 15902	Breddin........	ʃ	t̪	ʏ̜	ɡ	-	-	-	-	-	-

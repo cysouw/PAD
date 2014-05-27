@@ -5,10 +5,11 @@
 # modified   : 2013-12-01 15:48 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : complex combination 4+5 in strings 11881, 11879, 11955
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-27 21:09 by Michael Cysouw <cysouw@uni-marburg.de>
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8
 #
-:ANN	STANDARD.......	v	e	r	s	t	eh	t	.
+:ANN	STANDARD.......	v	e	r	s	t	eh	t	(e)
 #
 11895	Aachen.........	f	ə̜	-	ʃ	t	ɛ̣ː→ə	t	-
 11927	Adorf..........	v	ə̜	-	ʃ	t	ɛ→ɪd̰ə	d̰	-
@@ -35,7 +36,7 @@
 11977	Büdesheim......	f	ə̜	-	ʃ̠	t	eː	t	-
 11956	Clausthal(Zf)..	f	ə̠	-	ʃ̫	tʰ	ɪ̣ː	tʰ	-
 11923	Docelles.......	β	ə	-	ʃ̰	t	ɪ	ð	-
-11879	Dreeke.........	f	ə	-	s͡θ	-	ɐ̟→ɪ	ɾ	ə̰
+11879	Dreeke.........	f	ə	-	s͡	θ	ɐ̟→ɪ	ɾ	ə̰
 11970	Ebertshausen...	f	ɛ̠	-	ʃ	t	ejə	tʼ	-
 11912	Ebstorf........	f	əʾ	-	s̟	t̪	a→ɪ	t	-
 11896	Eichenhofen....	f	ə̜	-	ʃ	t	ɐ̟→ɪ	t	-
@@ -89,7 +90,7 @@
 11972	Nürnberg.......	f	ə	-	ʃ	t	eə̣+	t	-
 11953	Oberau.........	f	ə˻	-	ʃ	t	eː	d	-
 11954	Oberau.........	f	ə˻	-	ʃ	t	eː	ð	-
-11955	Oberau.........	v	ə	-	ʒ͡ʃ͡t	-	e	ð	-
+11955	Oberau.........	v	ə	-	ʒ͡ʃ͡	t	e	ð	-
 11915	Oberhomberg....	v	ə	-	ʃ̠	t	ɔː	t	-
 11942	Obermaisel.....	f	ə	-	ʃ̨	t	ɔ̜→ʊ̜	t	-
 11932	Oberviehbach...	f͡v	ə̜	-	ʃ	t	eː	d̰	-
@@ -124,7 +125,7 @@
 11889	Vietmannsdorf..	f	ə	-	s	t	a→ɪ	t	-
 11876	Volkershausen..	f͡v	ə	-	ʃ	t	ɛ	ð	-
 11870	Warpe..........	f	ə	-	s	t	ɐ̟→ɪ	s	-
-11881	Wehrsdorf......	f	ɐ̠	-	ʃ͡t	-	e	ð	-
+11881	Wehrsdorf......	f	ɐ̠	-	ʃ͡	t	e	ð	-
 11900	Weidenbach.....	f	ə	-	ʃ	t͡ð	ɛʾ	ð	-
 11984	Wemb...........	v	ə̜	-	s̠	t	ɛ	d	-
 11901	Wentorf(Sand)..	f	ə	-	s̠	t	e̜→ɪ	t	-

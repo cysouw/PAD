@@ -5,10 +5,12 @@
 # modified   : 2013-12-01 15:57 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : context is "wollt ihr", so possibly often "wolltes" or "wollts". Columns 4/5/6 have to be treated together
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-27 21:28 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #
-:ANN	STANDARD.......	w	o	ll	t	.	.
+:ANN	STANDARD.......	w	o	ll	t	(e)	(s)
 #
 12544	Aachen.........	v	ø̠	l̰	-	-	-
 12501	Ahrbergen......	v	ɔ̣	l	-	ə	-
@@ -39,7 +41,7 @@
 12578	Ensheim........	β	o̜	l	t̪	-	-
 12537	Eversen........	v	ɔ	l	-	-	-
 12539	Frohnhausen....	β	ɪ	l	-	-	-
-12567	Gelting........	βʾ	ọ→ɪ	-	t͡s	-	-
+12567	Gelting........	βʾ	ọ	→ɪ	t͡s	-	-
 12484	Gerbstedt......	β	ʊ̜	l	-	ə	-
 12500	Gersdorf.......	β	ʊ	l	t	ə	-
 12548	Gornsdorf......	v	ɤ̣ʾ	l̠	-	-	s̠
@@ -67,10 +69,10 @@
 12533	Kuhstedt.......	v	ʊ	l	-	-	-
 12516	Köln...........	v	ɔ̣	l	-	ə	th
 12552	Landgrafroda...	β	u̜	l	-	-	-
-12507	Langenbruck....	β	ʊ̜→ɪ	-	th	-	-
+12507	Langenbruck....	β	ʊ̜	→ɪ	th	-	-
 12498	Leuth..........	β	ø̣	l	-	-	-
 12553	Lippramsdorf...	β	ɔ̣	l	-	-	-
-12525	Maibrunn.......	w	ʊ̜→ɪ̠	-	t͡s	-	-
+12525	Maibrunn.......	w	ʊ̜	→ɪ̠	t͡s	-	-
 12560	Maxweiler......	β	ɔ	l	t	-	-
 12572	Nürnberg.......	β	i̜	l	-	-	-
 12510	Oberau.........	β	ɔ̣	l	d	e	-

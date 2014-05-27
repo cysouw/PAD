@@ -6,6 +6,8 @@
 # comment    : columns 5/6 is next word "es/et"
 # comment    : diphthong in 2 is correlated to absence of "l" in 4!
 # modified   : 2013-12-20 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-05-27 21:23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3
 #
@@ -34,7 +36,7 @@
 30424	Docelles.......	β	ɪ̣	l
 30391	Dreeke.........	v	ʏ	l
 30456	Ebertshausen...	β	i	ʎ
-30395	Eichenhofen....	v	y→ɪʾ	-
+30395	Eichenhofen....	v	y	→ɪʾ
 30385	Endenburg......	β	i̜	l
 30445	Engter.........	β	ʏ	l
 30452	Ensheim........	β	ɪ	l
@@ -42,7 +44,7 @@
 30368	Eversen........	v	ɪ̠	l
 30438	Freden.........	v	ɪ	l
 30422	Frohnhausen....	β	o	l
-30384	Gelting........	βʾ	u→ɪ	-
+30384	Gelting........	βʾ	u	→ɪ
 30375	Gresenhorst....	v	ɪ̜	l
 30420	Grossenwiehe...	β	ɪ	l̰
 30396	GrossMohrdorf..	f͡v	ɪ̠	l̠
@@ -52,7 +54,7 @@
 30427	Hartenfels.....	v	ɛ̠	l
 30426	Hartenstein....	β	ɪ	l
 30443	Herbornseelbach	β	ɪ̣	l
-30408	Hermannsreuth..	β	ʏɪ̠	-
+30408	Hermannsreuth..	β	ʏ	ɪ̠
 30367	Herrentrup.....	β	ɪ	l
 30463	Herssum........	v	ɪ	l
 30435	Hesselteich....	v	ɪ̣	l
@@ -85,13 +87,13 @@
 30442	Osterhagen.....	β	ɪ	l
 30402	Ottowind.......	β	ɪ̜	l
 30437	Pfaffenrot.....	β	ɪ̣	l
-30429	Pöttmes........	β	ʊ→ɪ	-
+30429	Pöttmes........	β	ʊ	→ɪ
 30464	Reelkirchen....	β	ɪ̣	l
 30453	Rosenthal......	v	ɛ	l
 30403	Rosswein.......	v	ẹ	l̠
 30467	Ruhlsdorf......	v	ɪ̠	l
 30459	Röhrda.........	v	ɛ	l
-30401	Schachach......	ɸ	ɯ→ɪ	-
+30401	Schachach......	ɸ	ɯ	→ɪ
 30433	Schauenstein...	w	ɪʾ	l
 30415	Schnepfenbach..	β	i	l
 30400	Schömberg......	β	i	l

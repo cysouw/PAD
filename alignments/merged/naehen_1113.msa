@@ -6,6 +6,7 @@
 # comment    : status of last column is unclear
 # comment    : the columns 2-5 were mixed up in automatic alignment
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-05-27 20:03 by Michael Cysouw <cysouw@uni-marburg.de>
 #
 :ANN	COLUMNID.......	1	2	3	4
 #
@@ -47,7 +48,7 @@
 10961	Gottsbüren.....	n	ɐ̠→ɪj	ɪ̜	n
 10874	Grossenwiehe...	n	a̠ː	-	n̩
 10853	GrossJamno.....	n	ɛ̣	ə	n
-10920	GrossMohrdorf..	n	a̠→ɪɡ	-	ŋ̩
+10920	GrossMohrdorf..	n	a̠→ɪ	-	ɡŋ̩
 10942	Grosswechsungen	n	ɛ̜ː͡ɛ̥	-	-
 10882	Grünlichtenberg	n	ɛː	-	n̩
 10960	Grünow.........	n	ẹː	-	ŋ̩
@@ -62,7 +63,7 @@
 10928	Hermannsreuth..	n	ɑː	-	n̥
 10958	Herssum........	n	ɑʾː→ɪ̣	-	n
 10930	Herzfeld.......	n	ɪ̠t	-	n̩
-10925	Hesselteich....	n	ɛ→ɪɡ	-	n̩
+10925	Hesselteich....	n	ɛ→ɪ	-	ɡn̩
 10912	Hohenkörben....	n	ɛ→ɪ͡ɪ̣	-	n̩
 10898	Hohwacht(Os)...	n	a̠→ɪ	-	n
 10875	Holmkjer.......	n	ɐ̟→ɪ	-	n
@@ -125,7 +126,7 @@
 10862	Vietmannsdorf..	n	ɛ̣	-	ŋ̩
 10851	Wasbüttel......	n	aː→ɪ	-	n
 10880	Wehrsdorf......	n	æ̣ː	-	n̩
-10940	Wentorf(Sand)..	n	ɛ̣→ɪd	-	n̩
+10940	Wentorf(Sand)..	n	ɛ̣→ɪ	-	dn̩
 10888	Wernigerode....	n	ạː	-	n̩̥
 10968	Wildpoldsried..	n	æ̃j	ə̜	-
 10907	Wittelsberg....	n	ɪ̜ː	ə	-

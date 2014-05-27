@@ -4,6 +4,8 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-12-13 12:38 by Michael Cysouw <cysouw@uni-marburg.de>
 # modified   : 2013-12-20 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-05-27 20:49 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : split complex segments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #
@@ -37,7 +39,7 @@
 29366	Burgrieden.....	s	o̜	n	t	ɑː	k͡x
 29448	Büdesheim......	s	ɔ̣	n	t	ɔ̟ː	χ
 29374	Clausthal(Zf)..	s	ʊ̟	n	t	ɪ̠	ç+
-29378	Cursdorf.......	s	ɤ	n	t͡ʃ̫	-	-
+29378	Cursdorf.......	s	ɤ	n	t͡		ʃ̫
 29445	Dexbach........	s	o̜	n	t	ɔ̣ʿː	kh
 29414	Diekhusen......	z	ʏ̜ʿ	n	-	a	χ͡x
 29415	Diekhusen......	s͡z	ʏ	n	t	ɑ̟	x
@@ -61,8 +63,8 @@
 29375	Frohnhausen....	s	ʊ	n	t	ɔ	x
 29295	Gelting........	s	ɔ	n	t	ə	kʼ
 29377	Gerbstedt......	s	ɤ̣	n	d	ɑ→ɐ	χː
-29407	Gersdorf.......	s	ʊ	n	çː	-	-
-29345	Gornsdorf......	s	ɤ	n	t͡ʃ̠ː	-	-
+29407	Gersdorf.......	s	ʊ	n	-	-	çː
+29345	Gornsdorf......	s	ɤ	n	t͡	-	ʃ̠ː
 29325	Gottsbüren.....	s	ʊʿ	n	d	ɑ̟	ɣ̠
 29435	Gresenhorst....	s	ø̠	n	-	a̠ː	χ
 29359	Grossenwiehe...	s	ʊ	n	t	a	x
@@ -143,8 +145,8 @@
 29362	Oiste..........	s͡z	œ	n	d	a	x
 29309	Orferode.......	s	ʊ̣	n	t	ɔ̜ː	k͡x̰
 29430	Osterbruch.....	z	ʏ̜	n	d	a̠ː	x
-29356	Osterfeld......	θ	ɯ̜ʾ	n	t͡ʃ̠	-	-
-29357	Osterfeld......	θ	ɤ	n	t͡ʃ̠	-	-
+29356	Osterfeld......	θ	ɯ̜ʾ	n	t͡	-	ʃ̠
+29357	Osterfeld......	θ	ɤ	n	t͡	-	ʃ̠
 29328	Osterhagen.....	z	ʊʿ	n	d	ɑ	χ͡ʀ̥
 29300	Ottowind.......	s	ʊ̣	n	d	ɪ	ç
 29344	Peterskirchen..	s	ɔ̣̃	n	t	ɔ̣	k̠ʰ

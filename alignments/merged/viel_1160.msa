@@ -9,7 +9,7 @@
 #
 :ANN	COLUMNID.......	1	2	3	4
 #
-:ANN	STANDARD.......	v	ie	l	.
+:ANN	STANDARD.......	v	ie	l	(e)
 #
 20696	Adorf..........	f	ɪ	l	-
 20644	Ahrbergen......	f	i̜ː	l	-
@@ -37,7 +37,7 @@
 20629	Clausthal(Zf)..	f	iː→ə	-	-
 20648	Cursdorf.......	f	ɪ̜ː	l	-
 20627	Dexbach........	f	eː	l	-
-20709	Diekhusen......	f	e̜ʾ→ɪ	-	-
+20709	Diekhusen......	f	e̜ʾ	→ɪ	-
 20594	Docelles.......	f	ɪ	l	-
 20650	Dreeke.........	f	ɛ̜	l	-
 20595	Ebertshausen...	f	i	ɭ	-
@@ -52,7 +52,7 @@
 20614	Falkenthal.....	f	ɪ̠	l	-
 20749	Freden.........	f	iː	l	-
 20684	Frohnhausen....	f	ɪə	l	-
-20665	Gelting........	f	ʊ̣→ɪ	-	-
+20665	Gelting........	f	ʊ̣	→ɪ	-
 20600	Gerbstedt......	β	i→ə	ɭ	-
 20752	Gersdorf.......	f	iː	l	-
 20753	Gersdorf.......	f	i̜	l	-
@@ -109,7 +109,7 @@
 20724	Lippramsdorf...	fː	ɪ	l̠	-
 20615	Lohra..........	f	iː	l	-
 20705	Lohrhaupten....	f	ɪ	l	-
-20635	Maibrunn.......	p͡f	ʉ→ɪ	-	-
+20635	Maibrunn.......	p͡f	ʉ	→ɪ	-
 20607	Mastershausen..	f	ɪ	l	-
 20593	Mirow..........	f	ɛ̜ː	l	-
 20740	Mockern........	p̰͡f	ɨə	l̩	-
@@ -121,18 +121,18 @@
 20698	Nürnberg.......	f	ɪ	l	-
 20673	Oberhomberg....	p͡f	ɪ	l	-
 20589	Obermaisel.....	ɸ	i	ɭ	-
-20625	Oberviehbach...	f͡v	ẉʾ→ɪ	-	-
+20625	Oberviehbach...	f͡v	ẉʾ	→ɪ	-
 20641	Oberwürzbach...	f	i̜	d̰l	-
 20619	Odenspiel......	p͡f	i̜ə	l	-
 20623	Offdilln.......	f	ɪ̣	l	-
 20659	Ohrdorf........	f	œ̣ː	-	-
 20668	Oiste..........	f	ɛ̜ː	l	-
 20669	Orferode.......	f	ɪ	l	-
-20652	Osterbruch.....	f	eː→ɪ	-	-
+20652	Osterbruch.....	f	eː	→ɪ	-
 20742	Osterfeld......	f	i̠ː	l	-
 20755	Osterhagen.....	f͡ç	ɪ̣̰→ə	l	ə̰
 20746	Ottowind.......	f	ɪ	l	-
-20726	Peterskirchen..	f	u̜→i̜	-	-
+20726	Peterskirchen..	f	u̜	→i̜	-
 20651	Pfaffenrot.....	f	ɪ̣ː	l	-
 20704	Pretzsch(El)...	f	ə̣+	l̠	-
 20682	Pöttmes........	v	ɪː	-	-
