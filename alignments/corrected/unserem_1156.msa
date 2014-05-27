@@ -6,11 +6,13 @@
 # comment    : columns 3 and 4 are only necessary for two string 27842, 27842
 # modified   : 2013-12-20 by Jelena Prokić <prokic@uni-marburg.de>
 # comment    : string 27842 is strange
+# modified   : 2014-05-27 21:05 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : corrected complex annotation
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10	11
 #
 :ANN	STANDARD.......	.	u	.	.	n	.	s	e	r	e	m
-:ANN	COMPLEX........	.	<	-	-	>	<	>	.	.	.	.
+:ANN	COMPLEX........	.	.	<	-	>	<	>	.	.	.	.
 :ANN	IGNORE.........	x	.	.	.	.	.	.	.	.	.	.
 #
 27878	Aachen.........	-	o	-	-	-	-	z	ə	ʁ	ə	-
@@ -30,7 +32,7 @@
 27819	Borstendorf....	-	ʊ	-	-	n	-	z	ɔ+	-	-	n
 27880	Breddin........	-	ʊ̜	-	-	n	-	z	ə̰	-	-	-
 27796	Brelingen......	-	u̜→ɪ	-	-	-	-	z̟	ə̟	-	-	n
-27863	Clausthal(Zf)..	-	ʊ̣	-	-	n	-	-	ə̜	n	ə̰	-
+27863	Clausthal(Zf)..	-	ʊ̣	n	ə̜	n	-	-	ə̰	-	-	-
 27897	Cursdorf.......	-	ʊʿ	-	-	n	t͡s	z̰	ɔ̠	ʁ̰	-	n
 27858	Dexbach........	-	i̜ː	-	-	-	-	z	ə	-	-	m
 27867	Diekhusen......	-	õ̜	-	-	n	-	s	-	-	-	-
@@ -66,7 +68,7 @@
 27872	Herdecke.......	-	u	-	-	-	-	z	ə	-	-	m
 27874	Hermannsreuth..	-	ʊ̃	-	-	n̰	-	z	ə	-	-	m
 27832	Herzfeld.......	-	ọ̃	-	-	n	-	t̰͡s̟	-	-	-	n̩
-27877	Hesselteich....	-	ɪ	j	ʊ	-	-	z	-	-	-	n̩
+27877	Hesselteich....	-	ɪjʊ	-	-	-	-	z	-	-	-	n̩
 27805	Hohenkörben....	-	u̜ʿ	-	-	-	-	z̠	ə	-	-	-
 27825	Hohwacht(Os)...	-	õ	-	-	n	-	s̠	-	-	-	-
 27856	Holmkjer.......	-	ɔ̃ː	-	-	n	-	s̠	ə	-	-	-
