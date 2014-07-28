@@ -13,7 +13,7 @@
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #
-:ANN	STANDARD.......	K	ü	h	e	.
+:ANN	STANDARD.......	K	ü	h	e	(n)
 #
 4868	Aachen.........	kh	œ̣→ɪ	-	-	-
 4942	Adorf..........	kh	œ→ɪ͡	ɪ	ə	-
@@ -23,7 +23,7 @@
 4963	Altenberg......	k̟h	yʿ	j	ɛ̠	-
 4947	Altentrüdin....	c͡ç	i̜	-	ə	-
 4889	Altlandsberg...	kh	yː	-	əʾ	-
-4984	Altwarp........	kʰ	øʏ̣	-	-	ç̫
+4984	Altwarp........	kʰ	øʏ̣	ç̫	-	-
 4848	Astfeld........	kh	ɔʿ→ɪ	-	ə	-
 4835	Atzendorf......	k	ɔʿ→ɪ	j	ɛ̠	-
 4952	Ballhausen.....	kʰ	ɛ→ɪ	β	əʾ	-
@@ -72,7 +72,7 @@
 4953	GrossJamno.....	c̠h	i	j	ə	-
 4823	GrossMohrdorf..	kʰ	ɤ̜ʾ→ɪʾ	-	-	-
 4849	Grünlichtenberg	ch	iː	j	ə	-
-4969	Grünow.........	k̟ʰ	ø̣͡ʏ̣	-	-	ç̫
+4969	Grünow.........	k̟ʰ	ø̣͡ʏ̣	ç̫	-	-
 4912	Götz...........	k̟ʰ	yː	j	ə	-
 4948	Haddorf........	k	øː	-	-	-
 4817	Hagen..........	kʰ	ɔ→ɪʾ	ɪʾ	əʾ	-
@@ -181,7 +181,7 @@
 4887	Verchen........	kh	ɑʏ	-	ø	-
 4858	Vielbrunn......	k̟h	iː	-	-	-
 4985	Vietmannsdorf..	kh	ɔ→ɪ	-	-	-
-4986	Vietmannsdorf..	k̟ʰ	øː	-	-	ç̫
+4986	Vietmannsdorf..	k̟ʰ	øː	ç̫	-	-
 4974	Volkershausen..	kh	y̜ː	-	-	-
 4983	Wasbek.........	kh	œɪʾ	-	-	-
 4907	Wasbüttel......	kh	ɤ→ɪ	-	əʾː	ʁ

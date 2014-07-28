@@ -6,6 +6,8 @@
 # modified   : 2013-12-04 by Jelena Prokić <prokic@uni-marburg.de>
 # modified   : 2014-05-26 22:30 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : split complex segment
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	7	8
 #
@@ -146,7 +148,7 @@
 25245	Rammenau.......	k	ɛ	s	θ	ə	-	n
 25107	Ramsau(Berch)..	ɣ̟	e	s	t̪	ə	-	n
 25201	Reelkirchen....	ç͡j̰	ɪ̣	s	t	ə̜	-	n
-25103	Reetz..........	j	ɪ	s	s̟	ə̠	-	-
+25103	Reetz..........	j	ɪ	ss̟		ə̠	-	-
 25234	Rosenthal......	k	ɛ	s̟͡	θ	ə̜	-	n
 25215	Rossau.........	j	ɛ	s͡s	-	ɐ	-	n
 25231	Rosswein.......	ɣ̟	ɛ̠	s̟	t	-	-	n̩

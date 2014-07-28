@@ -11,7 +11,7 @@
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8
 #
-:ANN	STANDARD.......	m	i	t	(e)	g	ehe	n	.
+:ANN	STANDARD.......	m	i	t	(e)	g	ehe	n	(e)
 #
 17042	Adorf..........	m	ɪ̣	ɾ	ə	ɣ	ɔː	n	-
 17074	Ahrbergen......	m	ɪ	d	ə	ɣ	oɔʿ	n	-
@@ -142,7 +142,7 @@
 17044	Pretzsch(El)...	m	ɛ	th	-	j	eː	n	-
 17007	Pöttmes........	m	i̜ː	-	-	k͡k	ẽ͡ẹ̃	-	-
 17079	Rammenau.......	m	ɪ	t	-	c	ɪ̣ə̟	n	-
-17001	Ramsau(Berch)..	m	i͡ʔ	-	-	kh	ɛ̣̃	-	-
+17001	Ramsau(Berch)..	m	i͡	ʔ	-	kh	ɛ̣̃	-	-
 17088	Reelkirchen....	m	ɪ̣ː	-	-	ç	o→ʊ	n̰	-
 17021	Reetz..........	m	e̜	tʰ	-	j	oː	n	-
 17037	Rosenthal......	m	e	t͡	-	k̟	eː	-	-
@@ -160,7 +160,7 @@
 17024	Schömberg......	m	i	-	-	c͡k	ɐ̠→ʊ̜ə̰̩	-	-
 17114	Schönbeck......	m	ɪ	t	-	kʰ	ɒ̃ː	-	-
 17078	Seelbach.......	m	ɪ	t	-	k	ɤʾː	-	-
-17038	Siebenbach.....	m	ɔ	t	-	-	ɪ̥͡ɪ→ɔ̜ː	n	-
+17038	Siebenbach.....	m	ɔ	t	-	ɪ̥͡	ɪ→ɔ̜ː	n	-
 17170	Tann(Rhön).....	m	ɪ̣	t͡	-	k	eː	-	-
 17072	Theuma.........	m	i	t̰	-	c̠	ɪɐ̟̃	-	-
 17138	Treffelstein...	m	ɪ̣	-	-	c͡k	ɛ̃→ɪ̃	-	-
