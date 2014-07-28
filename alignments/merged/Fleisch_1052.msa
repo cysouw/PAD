@@ -5,7 +5,8 @@
 # modified   : 2013-11-28 11:24 by Johann-Mattis List <mattis.list@uni-marburg.de>
 # modified   : 2013-12-04 by Jelena Prokić <prokic@uni-marburg.de>
 # modified   : 2014-01-05 00:12 by Michael Cysouw <cysouw@uni-marburg.de>
-# comment    : columns 5-11 are only here because of unwanted parts of the next word "gestohlen"
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4
 #

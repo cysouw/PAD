@@ -5,6 +5,8 @@
 # modified   : 2013-12-01 15:20 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : the status of the last column is unclear
 # modified   : 2013-12-17 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3
 #

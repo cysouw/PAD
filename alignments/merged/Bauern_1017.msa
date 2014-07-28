@@ -4,6 +4,8 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-11-29 14:33 by Johann-Mattis List <mattis.list@uni-marburg.de>
 # modified   : 2013-12-04 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #

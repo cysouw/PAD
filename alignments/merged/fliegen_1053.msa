@@ -7,6 +7,8 @@
 # comment    : the difference 't' vs. 'n' in the last columns is no phonetic shift, but different paradigms of the verb!
 # comment    : vocalic nasal in the last column are in complementary distribution with the schwa before.
 # modified   : 2013-12-20 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7
 #

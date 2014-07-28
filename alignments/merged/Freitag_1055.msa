@@ -7,6 +7,8 @@
 # modified   : 2013-12-18 by Jelena Prokic <prokic@uni-marburg.de>
 # modified   : 2014-05-26 21:56 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : split complex segments
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #
@@ -63,7 +65,7 @@
 19327	Gelting........	f	ɾ	a→ɪ	t	ɔ̣ʿ	k̰
 19348	Gerbstedt......	ɸ	ʁ	ɑ̟→ɪ̜	t	ʌː	χ
 19448	Gersdorf.......	f	ɾ	a̠→ɪ̜	t	-	ʃ̠ː
-19339	Gornsdorf......	f	ʁ	a̠→ɪ	t͡	-	-ʃ̠ː
+19339	Gornsdorf......	f	ʁ	a̠→ɪ	t͡	-	ʃ̠ː
 19307	Gottsbüren.....	f	ʁ	ɪː	d	ɑ	χ̰
 19343	Gresenhorst....	f	ʁ	i	ð	a̠ː	χ
 19396	Grossenwiehe...	f	ɹ	ɪ	d̰	a̠	-

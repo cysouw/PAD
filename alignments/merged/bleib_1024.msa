@@ -5,10 +5,12 @@
 # modified   : 2013-12-09 22:44 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : string 20451 might be something different, a participle maybe?
 # modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #
-:ANN	STANDARD.......	b	.	l	ei	b
+:ANN	STANDARD.......	b	(e)	l	ei	b
 #
 20508	Aachen.........	b	-	l	ɪ̣ː	f
 20531	Adorf..........	b	-	l	ɪː	f

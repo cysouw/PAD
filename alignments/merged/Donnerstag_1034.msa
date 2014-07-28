@@ -5,6 +5,8 @@
 # modified   : 2013-11-30 11:21 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : removed "pfingstag" cognates
 # modified   : 2013-12-16 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10	11
 #

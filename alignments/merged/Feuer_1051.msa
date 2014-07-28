@@ -4,191 +4,194 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-11-29 13:23 by Johann-Mattis List <mattis.list@uni-marburg.de>
 # modified   : 2013-12-04 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
+# comment    : columns 2/3/4 are often merged into one complex segment in column 2. Probably better realigned
 #
-:ANN	COLUMNID.......	1	2	3	4	5
+:ANN	COLUMNID.......	1	2	3	4
 #
-:ANN	STANDARD.......	F	.	eue	r	.
+:ANN	STANDARD.......	F	eue	r	(e)
 #
-21041	Aachen.........	f	-	y̜ːə̜	-	-
-21061	Adorf..........	f	-	ọʿ→ɪə̜	-	-
-20997	Ahrbergen......	f	-	ujɑ̟	-	-
-21161	Albersloh......	f	-	yːəʾ	-	-
-21109	Allna..........	ɸ͡f	-	ɤ̟→ɪə	-	-
-21175	Altenberg......	f	-	ɐ→ɪɪɐ	-	-
-21046	Altentrüdin....	f	-	ɐ→ɪə	ɾ	-
-21160	Altlandsberg...	f	-	ɔ̣ʿ→ɪ͡ɪɐʾ	-	-
-21142	Altwarp........	f	-	yːœ	-	-
-21168	Astfeld........	f	ʁ	ʏ̣ɔ	ʁ	-
-21176	Atzendorf......	f	-	ɪ̣ɐ̃	-	-
-21114	Ballhausen.....	f	-	iɔ̜	-	-
-21062	Bardenfleth....	f	-	y̜ː→ə̜	-	-
-21052	Barssel........	f	-	ʏ̣ː→ə	-	-
-21127	Bempflingen....	f	-	ʊ̣→ɪə	ɾ	-
-21050	Bennin.........	ɸ͡f	-	y→ə	-	-
-21055	Billingsbach...	f	-	ɐ̣→ɪə	ɾ	-
-21154	Bockelwitz.....	f	-	o̜ʿ→ɪjʌ̟	-	-
-21099	Bonn...........	f	-	yəʾ	-	-
-21080	Borstendorf....	f	-	o̜ʿ→ɪ͡ɪɔ̟	-	-
-21119	Breddin........	f	-	y→əʾ	-	-
-21177	Brelingen......	f	-	ʏ̣	ʁ	-
-21173	Bremscheid.....	f	-	u̜→ɪʾjəʾ	-	-
-21108	Brockhausen....	f	-	ʊ̣→ɪə̜+	-	-
-21150	Bruch..........	f	-	ɛ→ɪə̜	-	-
-20999	Burgrieden.....	f	-	ɛ→ɪə	ɾ	-
-21143	Büdesheim......	f	-	ɤ→ɪə	ɾ	-
-21133	Clausthal(Zf)..	f	-	ɐ→ɪə̠	ʁ	-
-21148	Cursdorf.......	f	-	i̜ə̠	-	-
-21087	Dexbach........	f	-	a̠→ɪ̣ɛ	-	-
-21145	Diekhusen......	p͡ɸ	-	y→ə	-	-
-21095	Docelles.......	f	-	ɤ→ɪə˻	-	-
-21136	Dreeke.........	f	-	yːə	-	-
-21131	Ebertshausen...	f	-	ʌ→ɪə	ɹ	-
-21129	Ebstorf........	f	-	y→ø̠	-	-
-21163	Eichenhofen....	f	-	a→ɪəʾ	-	-
-21011	Einöllen.......	f	-	a̠→ɪ͡ɪ→a̠	-	-
-21159	Endenburg......	f	-	yʿ͡ə	ɾ	-
-21077	Engelsbach.....	f	-	yːɐʾ	-	-
-21065	Engter.........	f	-	yːə̰	-	-
-21085	Ensheim........	f	-	ɐ→ɪə	-	-
-21008	Eschelbronn....	f	-	ɐ→ɪə̜	-	-
-21015	Eversen........	f	-	y→ə̠	-	-
-21135	Exdorf.........	f	-	ɔʿ→ɪɪə	-	-
-21048	Falkenthal.....	f	-	yːəʾ	-	-
-21107	Freden.........	f	-	ɤ→ɪə	r	-
-21044	Frohnhausen....	f	-	ɤ→ɪə̜	-	-
-21066	Gelting........	f	-	a→ɪə̜	-	-
-21027	Gerbstedt......	ɸ	-	ɑ̟→ɪjɐ̤	-	-
-21171	Gersdorf.......	f	-	ɤʾ→ɪ͡ɪa̠	-	-
-21001	Gornsdorf......	ɸ	-	o̜ʿ→ɪ͡ɪɐʾ	-	-
-21167	Gottsbüren.....	f	-	ø	ʁ	-
-21026	Gresenhorst....	f	-	y→əʾ	-	-
-21054	Grossenwiehe...	f	-	ʏ̣	ʁ̰	-
-21110	GrossJamno.....	f	-	ɤ→ɪ͡ɪɐʾ	-	-
-21060	GrossMohrdorf..	f	-	yːəʾ	-	-
-21106	Grosswechsungen	f	-	iɑ̟̃	-	-
-21007	Grünlichtenberg	f	-	ʌ→ɪ͡ɪɐ	-	-
-21141	Grünow.........	f	-	yːœ̠ʿ	-	-
-21166	Götz...........	f	-	yːɐʾ	-	-
-21025	Haddorf........	f	-	yːə	-	-
-21014	Hagen..........	f	-	yʿːjəʾ	-	-
-21083	Hammah.........	ɸ̰͡f	-	yːə̠	-	-
-21101	Hartenfels.....	f	-	ɐ→ʊə̠ʾ	-	-
-21002	Hartenstein....	f	-	ɐ̟→ɪə̜	-	-
-21078	Helmers........	f	-	y→əʾ	-	-
-21059	Herbornseelbach	f	-	ɐ→ʊə	ɹ	-
-21104	Herdecke.......	f	-	yːø͡ø̜	-	-
-21105	Herdecke.......	f	-	ɛ̣→ɪjə̠	-	-
-21098	Hermannsreuth..	f	-	a→ɪ͡ɪə	-	-
-21144	Herrentrup.....	ɸ	-	ʊ̣→ə̜	-	-
-21121	Herssum........	f	-	y̜ʿ→ə	-	-
-21032	Herzfeld.......	f	-	yːəʾ	-	-
-21084	Hesselteich....	f	-	u̜jəʾ	-	-
-21039	Hohenkörben....	f	-	yə	-	-
-21086	Hohwacht(Os)...	f	-	yː→ə̜	-	-
-21009	Holmkjer.......	f	-	yː→ə	-	-
-21075	Horheim........	f	-	yː	x̰	-
-21069	Huddestorf.....	f	-	y̜ː→ə	-	-
-21057	Hundisburg.....	f	-	y̜o̠	-	-
-21116	Höchstädt(Don).	f	-	a→ɪə	ɾ	-
-20998	Hönebach.......	f	-	iə̠	-	-
-21031	Iggingen.......	f	-	ʊ→ɪ	ɾ̥	-
-21165	Igling.........	f	-	uː→ɪ	r̥	-
-21137	Iversheim......	f	-	yæ	-	-
-21038	Jacobsdorf.....	ɸ	-	ʌ→ɪjɐ	-	-
-21102	Jeetzel........	f	-	ỵ→ɐ	-	-
-21004	Jesteburg......	f	-	yː→ə	-	-
-21005	Jesteburg......	fʰ	-	yː→ə	-	-
-21178	Jonsdorf.......	f	-	ɔ̣→ɪjɐʾ	-	-
-21010	Jürgenshagen...	f	-	yːə̟ʾ	-	-
-21064	Kemmern........	f	-	ɤ→ɪə˻	-	-
-21017	KirchKogel.....	f	-	y→ə	-	-
-21149	Klafferstrass..	f	-	ɐ̟→ɪʾə̜	-	-
-21124	Kleinbottwar...	f	-	ʊ̟→ɪə̰	ʁ	ə
-21169	Kruft..........	f	-	ɤʾ→ɪ̠ə	-	-
-21018	Kuhstedt.......	f	-	y→əʾ	-	-
-21100	Köln...........	f	-	ʏə	-	-
-21112	Lampertswalde..	ɸ	-	ʌʾ→ɪ͡ɪɐ	-	-
-21172	Landgrafroda...	ɸ	-	ɔʿ→ɪʾ͡ɪʾɐ	-	-
-21103	Langenbruck....	f	-	ɐ̟→ɪə	-	-
-21113	Leuth..........	f	-	y̜ː	ʁ	-
-21079	Linz...........	f	-	ɔ→ɪjɐʾ	-	-
-21138	Lippen.........	f	-	ʌ→ɪjɐ	-	-
-21073	Lohra..........	f	-	ə→ɪə̜	-	-
-21155	Lohrhaupten....	f	-	ɐ̟ʾ→ɯə	ɾ	-
-21035	Maibrunn.......	f	-	ạ→ɪə	-	-
-21051	Mastershausen..	f	-	ɐ→ʊə	-	-
-21000	Maxweiler......	f	-	a→ɪə	-	-
-21092	Mirow..........	f	-	yœ̠	-	-
-21115	Mockern........	f	-	ʌ→ɪɑ̠̃	-	-
-21070	Mörshausen.....	f	-	iə̠ʾ	-	-
-21076	NeuSchadow.....	ɸ	-	ạ→ɪ͡ɪɐ	-	-
-21013	Niederasphe....	f	-	ɐ̠→ɪɛ	-	-
-21128	Niederauerbach.	f	-	ɐ̟→ɪɐ	-	-
-21029	Niedernhausen..	f	-	ɤ→ɪə̜	-	-
-21074	Nürnberg.......	f	-	a→ɪə̜	-	-
-21058	Oberau.........	f	-	ɐ→ɪə˻	-	-
-21063	Oberhomberg....	f	-	ɛ→ɪə	x	-
-21146	Obermaisel.....	f	-	ʊʿ→ɪ̣	ɾ	-
-21072	Oberviehbach...	f	-	ɐ̟→ɪɐ	-	-
-21006	Oberwürzbach...	f	-	ʌ→ɪə̜	-	-
-21125	Odenspiel......	f	-	y̜ø̠	-	-
-21081	Offdilln.......	f	-	ɐ→ʊə̜	-	-
-21082	Ohrdorf........	f	-	y̠ː→ə	-	-
-21053	Oiste..........	f	-	yːəʾ	-	-
-21049	Orferode.......	f	-	i̜ː	ɾ	-
-21120	Osterbruch.....	f	-	ʏːə̜	-	-
-21021	Osterfeld......	ɸ	-	a̠→ɪa̠	-	-
-21170	Osterhagen.....	f̫	-	yːɔ̤+	-	-
-21152	Ottowind.......	f	-	ɤ→ɪə˻	-	-
-21123	Peterskirchen..	f	-	æ→ɪɐ̣	-	-
-21126	Pfaffenrot.....	p̰͡f	-	ɐ→ɪə̜	-	-
-21020	Pielenhofen....	f	-	ɐ̟→ɪ̜ə̜	-	-
-21111	Pretzsch(El)...	f	-	ạ→ɪjɐʾ	-	-
-21056	Pöttmes........	f	-	ạ→ɪə̜	-	-
-21118	Rammenau.......	f	-	oʿ→ɪjɐʾ	-	-
-21162	Reelkirchen....	f	-	ʊ̣ə̜	-	-
-21122	Reetz..........	f	-	e̜→ɪ͡ɪɐ	-	-
-21036	Rosenthal......	f	-	ɪ̣→ə̜	-	-
-21158	Rossau.........	f	-	yø̜	-	-
-21164	Rosswein.......	f	-	ɔ̣ʿ→ɪjʌʾ	-	-
-21042	Ruhlsdorf......	f	-	æ̣→ɪ͡ɪa̠	-	-
-21147	Röhrda.........	f	-	i→ə̠	-	-
-21033	Schachach......	f	-	æ→ɪə	-	-
-21132	Schauenstein...	f	-	ɐ→ɪə	ɾ	-
-21140	Schellroda.....	f	-	a̠ːjɐ	-	-
-21130	Schmannewitz...	f	-	ɔ̣→ɪjɔ̟	-	-
-21030	Schnepfenbach..	f	-	e̜ːə	ɾ	-
-20996	Schraden.......	f	-	ɔ̣→ɪ͡ɪɐ	-	-
-21174	Schwabstedt....	f	-	y̜→ə	-	-
-21090	Schömberg......	f	-	ɪ̣ː	ɾ	-
-21016	Schönbeck......	f	-	y̜œ̠	-	-
-21093	Seelbach.......	f	-	i͡ə	-	-
-21012	Siebenbach.....	f	-	ə̜→wə	-	-
-21097	Stöcken........	f	-	y̜ːə	-	-
-21043	Tann(Rhön).....	f	-	ʏː	ɾ	-
-21024	Theuma.........	f	-	a̠→ɪɑ̃ʾ	-	-
-21134	Treffelstein...	f	-	ɐ→ɪə̜	-	-
-21094	Ulbering.......	f	-	ɑ̟→ə̣ə̜	-	-
-21071	Ungstein.......	f	-	ɤ→ɪɐ	-	-
-21068	Unterellen.....	f	-	iːɐ	-	-
-21037	Valdorf........	f	-	uːjɐ	-	-
-21045	Verchen........	f	-	y→ø	s	-
-21151	Vielbrunn......	f	-	ɤ→ɪə̜	-	-
-21156	Vietmannsdorf..	f	-	yœ̠	-	-
-21157	Vietmannsdorf..	f	-	yːə	-	-
-21019	Volkershausen..	f	-	ɔ→ɪə̰	-	-
-21091	Wasbek.........	f	-	yə̜	-	-
-21088	Wasbüttel......	f	-	i→ə̟	-	-
-21028	Wehrsdorf......	f	-	ɤ→ɪ͡ɪ→ə	ɻ	-
-21040	Weidenbach.....	f	-	ɑ̟→ɪə	-	-
-21047	Wemb...........	f	-	y→ə̜	-	-
-21034	Wentorf(Sand)..	f	-	ʏ→ə̠	-	-
-21089	Wernigerode....	p͡f	-	iə	ɹ̰	-
-21022	Weyhers........	ɸ	-	ɐ̣ʾ→ɪə	ɾ	-
-21023	Wieda..........	f	-	iəʾ	ʁ	-
-21153	Wildpoldsried..	f	-	u̜→ɪə	ɹ	-
-21096	Winterspelt....	f	-	ɛ̣→ɪɐʾ	-	-
-21067	Wittelsberg....	f	-	ɤ→ɪə	ɾ	-
-21139	Wolgast........	f	-	yːœ̠	-	-
-21003	Wüllen.........	f	-	øː→ə̜	-	-
-21117	Zellingen......	f	-	ɐʾ→ʏə	ɾ̰	-
+21041	Aachen.........	f	y̜ːə̜	-	-
+21061	Adorf..........	f	ọʿ→ɪə̜	-	-
+20997	Ahrbergen......	f	ujɑ̟	-	-
+21161	Albersloh......	f	yːəʾ	-	-
+21109	Allna..........	ɸ͡f	ɤ̟→ɪə	-	-
+21175	Altenberg......	f	ɐ→ɪɪɐ	-	-
+21046	Altentrüdin....	f	ɐ→ɪə	ɾ	-
+21160	Altlandsberg...	f	ɔ̣ʿ→ɪ͡ɪɐʾ	-	-
+21142	Altwarp........	f	yːœ	-	-
+21168	Astfeld........	fʁ	ʏ̣ɔ	ʁ	-
+21176	Atzendorf......	f	ɪ̣ɐ̃	-	-
+21114	Ballhausen.....	f	iɔ̜	-	-
+21062	Bardenfleth....	f	y̜ː→ə̜	-	-
+21052	Barssel........	f	ʏ̣ː→ə	-	-
+21127	Bempflingen....	f	ʊ̣→ɪə	ɾ	-
+21050	Bennin.........	ɸ͡f	y→ə	-	-
+21055	Billingsbach...	f	ɐ̣→ɪə	ɾ	-
+21154	Bockelwitz.....	f	o̜ʿ→ɪjʌ̟	-	-
+21099	Bonn...........	f	yəʾ	-	-
+21080	Borstendorf....	f	o̜ʿ→ɪ͡ɪɔ̟	-	-
+21119	Breddin........	f	y→əʾ	-	-
+21177	Brelingen......	f	ʏ̣	ʁ	-
+21173	Bremscheid.....	f	u̜→ɪʾjəʾ	-	-
+21108	Brockhausen....	f	ʊ̣→ɪə̜+	-	-
+21150	Bruch..........	f	ɛ→ɪə̜	-	-
+20999	Burgrieden.....	f	ɛ→ɪə	ɾ	-
+21143	Büdesheim......	f	ɤ→ɪə	ɾ	-
+21133	Clausthal(Zf)..	f	ɐ→ɪə̠	ʁ	-
+21148	Cursdorf.......	f	i̜ə̠	-	-
+21087	Dexbach........	f	a̠→ɪ̣ɛ	-	-
+21145	Diekhusen......	p͡ɸ	y→ə	-	-
+21095	Docelles.......	f	ɤ→ɪə˻	-	-
+21136	Dreeke.........	f	yːə	-	-
+21131	Ebertshausen...	f	ʌ→ɪə	ɹ	-
+21129	Ebstorf........	f	y→ø̠	-	-
+21163	Eichenhofen....	f	a→ɪəʾ	-	-
+21011	Einöllen.......	f	a̠→ɪ͡ɪ→a̠	-	-
+21159	Endenburg......	f	yʿ͡ə	ɾ	-
+21077	Engelsbach.....	f	yːɐʾ	-	-
+21065	Engter.........	f	yːə̰	-	-
+21085	Ensheim........	f	ɐ→ɪə	-	-
+21008	Eschelbronn....	f	ɐ→ɪə̜	-	-
+21015	Eversen........	f	y→ə̠	-	-
+21135	Exdorf.........	f	ɔʿ→ɪɪə	-	-
+21048	Falkenthal.....	f	yːəʾ	-	-
+21107	Freden.........	f	ɤ→ɪə	r	-
+21044	Frohnhausen....	f	ɤ→ɪə̜	-	-
+21066	Gelting........	f	a→ɪə̜	-	-
+21027	Gerbstedt......	ɸ	ɑ̟→ɪjɐ̤	-	-
+21171	Gersdorf.......	f	ɤʾ→ɪ͡ɪa̠	-	-
+21001	Gornsdorf......	ɸ	o̜ʿ→ɪ͡ɪɐʾ	-	-
+21167	Gottsbüren.....	f	ø	ʁ	-
+21026	Gresenhorst....	f	y→əʾ	-	-
+21054	Grossenwiehe...	f	ʏ̣	ʁ̰	-
+21110	GrossJamno.....	f	ɤ→ɪ͡ɪɐʾ	-	-
+21060	GrossMohrdorf..	f	yːəʾ	-	-
+21106	Grosswechsungen	f	iɑ̟̃	-	-
+21007	Grünlichtenberg	f	ʌ→ɪ͡ɪɐ	-	-
+21141	Grünow.........	f	yːœ̠ʿ	-	-
+21166	Götz...........	f	yːɐʾ	-	-
+21025	Haddorf........	f	yːə	-	-
+21014	Hagen..........	f	yʿːjəʾ	-	-
+21083	Hammah.........	ɸ̰͡f	yːə̠	-	-
+21101	Hartenfels.....	f	ɐ→ʊə̠ʾ	-	-
+21002	Hartenstein....	f	ɐ̟→ɪə̜	-	-
+21078	Helmers........	f	y→əʾ	-	-
+21059	Herbornseelbach	f	ɐ→ʊə	ɹ	-
+21104	Herdecke.......	f	yːø͡ø̜	-	-
+21105	Herdecke.......	f	ɛ̣→ɪjə̠	-	-
+21098	Hermannsreuth..	f	a→ɪ͡ɪə	-	-
+21144	Herrentrup.....	ɸ	ʊ̣→ə̜	-	-
+21121	Herssum........	f	y̜ʿ→ə	-	-
+21032	Herzfeld.......	f	yːəʾ	-	-
+21084	Hesselteich....	f	u̜jəʾ	-	-
+21039	Hohenkörben....	f	yə	-	-
+21086	Hohwacht(Os)...	f	yː→ə̜	-	-
+21009	Holmkjer.......	f	yː→ə	-	-
+21075	Horheim........	f	yː	x̰	-
+21069	Huddestorf.....	f	y̜ː→ə	-	-
+21057	Hundisburg.....	f	y̜o̠	-	-
+21116	Höchstädt(Don).	f	a→ɪə	ɾ	-
+20998	Hönebach.......	f	iə̠	-	-
+21031	Iggingen.......	f	ʊ→ɪ	ɾ̥	-
+21165	Igling.........	f	uː→ɪ	r̥	-
+21137	Iversheim......	f	yæ	-	-
+21038	Jacobsdorf.....	ɸ	ʌ→ɪjɐ	-	-
+21102	Jeetzel........	f	ỵ→ɐ	-	-
+21004	Jesteburg......	f	yː→ə	-	-
+21005	Jesteburg......	fʰ	yː→ə	-	-
+21178	Jonsdorf.......	f	ɔ̣→ɪjɐʾ	-	-
+21010	Jürgenshagen...	f	yːə̟ʾ	-	-
+21064	Kemmern........	f	ɤ→ɪə˻	-	-
+21017	KirchKogel.....	f	y→ə	-	-
+21149	Klafferstrass..	f	ɐ̟→ɪʾə̜	-	-
+21124	Kleinbottwar...	f	ʊ̟→ɪə̰	ʁ	ə
+21169	Kruft..........	f	ɤʾ→ɪ̠ə	-	-
+21018	Kuhstedt.......	f	y→əʾ	-	-
+21100	Köln...........	f	ʏə	-	-
+21112	Lampertswalde..	ɸ	ʌʾ→ɪ͡ɪɐ	-	-
+21172	Landgrafroda...	ɸ	ɔʿ→ɪʾ͡ɪʾɐ	-
+21103	Langenbruck....	f	ɐ̟→ɪə	-	-
+21113	Leuth..........	f	y̜ː	ʁ	-
+21079	Linz...........	f	ɔ→ɪjɐʾ	-	-
+21138	Lippen.........	f	ʌ→ɪjɐ	-	-
+21073	Lohra..........	f	ə→ɪə̜	-	-
+21155	Lohrhaupten....	f	ɐ̟ʾ→ɯə	ɾ	-
+21035	Maibrunn.......	f	ạ→ɪə	-	-
+21051	Mastershausen..	f	ɐ→ʊə	-	-
+21000	Maxweiler......	f	a→ɪə	-	-
+21092	Mirow..........	f	yœ̠	-	-
+21115	Mockern........	f	ʌ→ɪɑ̠̃	-	-
+21070	Mörshausen.....	f	iə̠ʾ	-	-
+21076	NeuSchadow.....	ɸ	ạ→ɪ͡ɪɐ	-	-
+21013	Niederasphe....	f	ɐ̠→ɪɛ	-	-
+21128	Niederauerbach.	f	ɐ̟→ɪɐ	-	-
+21029	Niedernhausen..	f	ɤ→ɪə̜	-	-
+21074	Nürnberg.......	f	a→ɪə̜	-	-
+21058	Oberau.........	f	ɐ→ɪə˻	-	-
+21063	Oberhomberg....	f	ɛ→ɪə	x	-
+21146	Obermaisel.....	f	ʊʿ→ɪ̣	ɾ	-
+21072	Oberviehbach...	f	ɐ̟→ɪɐ	-	-
+21006	Oberwürzbach...	f	ʌ→ɪə̜	-	-
+21125	Odenspiel......	f	y̜ø̠	-	-
+21081	Offdilln.......	f	ɐ→ʊə̜	-	-
+21082	Ohrdorf........	f	y̠ː→ə	-	-
+21053	Oiste..........	f	yːəʾ	-	-
+21049	Orferode.......	f	i̜ː	ɾ	-
+21120	Osterbruch.....	f	ʏːə̜	-	-
+21021	Osterfeld......	ɸ	a̠→ɪa̠	-	-
+21170	Osterhagen.....	f̫	yːɔ̤+	-	-
+21152	Ottowind.......	f	ɤ→ɪə˻	-	-
+21123	Peterskirchen..	f	æ→ɪɐ̣	-	-
+21126	Pfaffenrot.....	p̰͡f	ɐ→ɪə̜	-	-
+21020	Pielenhofen....	f	ɐ̟→ɪ̜ə̜	-	-
+21111	Pretzsch(El)...	f	ạ→ɪjɐʾ	-	-
+21056	Pöttmes........	f	ạ→ɪə̜	-	-
+21118	Rammenau.......	f	oʿ→ɪjɐʾ	-	-
+21162	Reelkirchen....	f	ʊ̣ə̜	-	-
+21122	Reetz..........	f	e̜→ɪ͡ɪɐ	-	-
+21036	Rosenthal......	f	ɪ̣→ə̜	-	-
+21158	Rossau.........	f	yø̜	-	-
+21164	Rosswein.......	f	ɔ̣ʿ→ɪjʌʾ	-	-
+21042	Ruhlsdorf......	f	æ̣→ɪ͡ɪa̠	-	-
+21147	Röhrda.........	f	i→ə̠	-	-
+21033	Schachach......	f	æ→ɪə	-	-
+21132	Schauenstein...	f	ɐ→ɪə	ɾ	-
+21140	Schellroda.....	f	a̠ːjɐ	-	-
+21130	Schmannewitz...	f	ɔ̣→ɪjɔ̟	-	-
+21030	Schnepfenbach..	f	e̜ːə	ɾ	-
+20996	Schraden.......	f	ɔ̣→ɪ͡ɪɐ	-	-
+21174	Schwabstedt....	f	y̜→ə	-	-
+21090	Schömberg......	f	ɪ̣ː	ɾ	-
+21016	Schönbeck......	f	y̜œ̠	-	-
+21093	Seelbach.......	f	i͡ə	-	-
+21012	Siebenbach.....	f	ə̜→wə	-	-
+21097	Stöcken........	f	y̜ːə	-	-
+21043	Tann(Rhön).....	f	ʏː	ɾ	-
+21024	Theuma.........	f	a̠→ɪɑ̃ʾ	-	-
+21134	Treffelstein...	f	ɐ→ɪə̜	-	-
+21094	Ulbering.......	f	ɑ̟→ə̣ə̜	-	-
+21071	Ungstein.......	f	ɤ→ɪɐ	-	-
+21068	Unterellen.....	f	iːɐ	-	-
+21037	Valdorf........	f	uːjɐ	-	-
+21045	Verchen........	f	y→ø	s	-
+21151	Vielbrunn......	f	ɤ→ɪə̜	-	-
+21156	Vietmannsdorf..	f	yœ̠	-	-
+21157	Vietmannsdorf..	f	yːə	-	-
+21019	Volkershausen..	f	ɔ→ɪə̰	-	-
+21091	Wasbek.........	f	yə̜	-	-
+21088	Wasbüttel......	f	i→ə̟	-	-
+21028	Wehrsdorf......	f	ɤ→ɪ͡ɪ→ə	ɻ	-
+21040	Weidenbach.....	f	ɑ̟→ɪə	-	-
+21047	Wemb...........	f	y→ə̜	-	-
+21034	Wentorf(Sand)..	f	ʏ→ə̠	-	-
+21089	Wernigerode....	p͡f	iə	ɹ̰	-
+21022	Weyhers........	ɸ	ɐ̣ʾ→ɪə	ɾ	-
+21023	Wieda..........	f	iəʾ	ʁ	-
+21153	Wildpoldsried..	f	u̜→ɪə	ɹ	-
+21096	Winterspelt....	f	ɛ̣→ɪɐʾ	-	-
+21067	Wittelsberg....	f	ɤ→ɪə	ɾ	-
+21139	Wolgast........	f	yːœ̠	-	-
+21003	Wüllen.........	f	øː→ə̜	-	-
+21117	Zellingen......	f	ɐʾ→ʏə	ɾ̰	-

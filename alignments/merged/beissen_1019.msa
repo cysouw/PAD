@@ -3,7 +3,9 @@
 # created on : 2013-11-27 13:16
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-11-30 23:08 by Michael Cysouw <cysouw@uni-marburg.de>
-# comment    : column 6 vs. 7 probably represent different kinds of morphology, however, they are in complementary distribution, so the might be merged for interpretation. In some cases, column 6 might possibly be better aligned with column 3 (e.g. strings 7692, 7631, 7763)
+# comment    : column 5 vs. 6 probably represent different kinds of morphology, however, they are in complementary distribution, so the might be merged for interpretation. In some cases, column 6 might possibly be better aligned with column 3 (e.g. strings 7692, 7631, 7763)
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #

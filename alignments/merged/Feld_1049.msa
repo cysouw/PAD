@@ -6,10 +6,12 @@
 # modified   : 2013-11-30 11:18 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : collection 2 "Feld" is added to this set, and re-sorted to village name
 # comment    : This whole file is problematic, since in the first column we don't know whether the p-f-initial is due to assimilation (the word before is "dem") or strengthening of initial f. @JML
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #
-:ANN	STANDARD.......	F	e	l	d	e
+:ANN	STANDARD.......	F	e	l	d	(e)
 #
 87	Aachen.........	f	ɛː	l	t̪h	-
 132	Adorf..........	f	ɛ̜	l	d	ə

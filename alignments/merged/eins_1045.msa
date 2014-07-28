@@ -4,9 +4,10 @@
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-11-30 19:00 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : I removed the last part of 5093 from the alignment
-# comment    : the columns 6/7 and 8 are in complementary distribution "eins" vs. "eine" !
+# comment    : the columns 3 and 4 are in complementary distribution "eins" vs. "eine" !
 # modified   : 2014-01-04 23:53 by Michael Cysouw <cysouw@uni-marburg.de>
-# comment    : added final column to ignore part of one string
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4
 #

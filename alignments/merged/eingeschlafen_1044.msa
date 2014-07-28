@@ -10,6 +10,8 @@
 # modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
 # modified   : 2014-05-26 21:51 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : split complex segment
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10
 #

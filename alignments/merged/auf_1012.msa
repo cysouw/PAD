@@ -5,10 +5,12 @@
 # modified   : 2013-12-13 09:10 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : column 4 is the article ("dem"), often completly fused with this preposition though. Note string 25363, which has "s", probably from "das"
 # modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3
 #
-:ANN	STANDARD.......	au	f	.
+:ANN	STANDARD.......	au	f	(m)
 #
 25383	Aachen.........	o	p	-
 25424	Ahrbergen......	ʊ	ph	-

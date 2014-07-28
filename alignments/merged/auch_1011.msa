@@ -6,6 +6,8 @@
 # modified   : 2013-12-04 by Jelena Prokić <prokic@uni-marburg.de>
 # modified   : 2014-01-05 00:58 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : removed "crossed" annotation and ignored glottal stop at the start
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2
 #

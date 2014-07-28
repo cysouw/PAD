@@ -4,14 +4,16 @@
 # created on : 2013-11-27 13:16
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-12-01 15:59 by Michael Cysouw <cysouw@uni-marburg.de>
-# comment    : complex 1+3 in string 12774
+# comment    : complex segment in string 12774
 # comment    : included collection 12 "dreschen" into here
 # comment    : participles are moved back into here, but separated visually at top. There are just very few of them
 # modified   : 2013-12-27 by Johann-Mattis List <mattis.list@uni-marburg.de>
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9	10
 #
-:ANN	STANDARD.......	.	.	D	(e)	r	e	sch	(k)	e	n
+:ANN	STANDARD.......	(g)	(e)	D	(e)	r	e	sch	(k)	e	n
 #
 # "gedrescht"
 #

@@ -9,6 +9,8 @@
 # comment    : columns 12-13-14 are plural variants
 # modified   : 2013-12-27 by Johann-Mattis List <mattis.list@uni-marburg.de>
 # modified   : 2014-01-05 00:53 by Michael Cysouw <cysouw@uni-marburg.de>
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9
 #

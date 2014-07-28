@@ -9,6 +9,8 @@
 # modified   : 2014-01-05 01:29 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : merged "35-Ei" into this one. The number distinction does not seem to be consistently separated (in 171 there seem to be singular forms as well). 
 # comment    : I have separated monosyllabic forms at the top. They might be singulars. Some duplicates are commented out
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #

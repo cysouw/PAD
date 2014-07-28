@@ -3,10 +3,12 @@
 # created on : 2013-11-28 10:47
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-12-18 by Jelena Prokic <prokic@uni-marburg.de>
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5	6
 #
-:ANN	STANDARD.......	B	.	r	o	t	.
+:ANN	STANDARD.......	B	(e)	r	o	t	(e)
 #
 20091	Aachen.........	p	-	ʁ	uʿː	th	-
 20209	Adorf..........	b	-	ʁ	ɐ→ʊ	tʰ	-

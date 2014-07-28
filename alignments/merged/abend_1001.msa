@@ -3,11 +3,13 @@
 # created on : 2013-11-27 13:16
 # parameters : library_asjp_-5_0.5_0.3_neighbor_0.5__T
 # modified   : 2013-11-30 17:34 by Michael Cysouw <cysouw@uni-marburg.de>
-# comment    : columns 7/8/9 are connected: bən > bə̃, bn̩ > b̰m̩ > m. This could be interpreted as one complex column
+# comment    : columns 2/3/4 are connected: bən > bə̃, bn̩ > b̰m̩ > m. This could be interpreted as one complex column
 # comment    : the "p" in string 3409 is strange. there is nothing similar in the data
 # modified   : 2013-12-16 by Jelena Prokic <prokic@uni-marburg.de>
-# modified   : 2014-01-05 00:00 by Michael Cysouw <cysouw@uni-marburg.de>
+# modified   : 2014-01-05 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : added column at the start to ignore leftover parts
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #

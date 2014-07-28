@@ -7,10 +7,12 @@
 # modified   : 2013-12-20 by Jelena Prokić <prokic@uni-marburg.de>
 # modified   : 2014-01-04 18:46 by Michael Cysouw <cysouw@uni-marburg.de>
 # comment    : merged "Eis-177" into this one
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3
 #
-:ANN	STANDARD.......	Ei	s	e
+:ANN	STANDARD.......	Ei	s	(e)
 #
 31507	Aachen.........	ɪ̣ː	s	-
 27689	Adorf..........	e͡ɪ	s	-

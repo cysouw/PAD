@@ -6,6 +6,8 @@
 # comment    : columns 3+4 are only relevant for string 24459
 # comment    : columns 5 and 6 are sometimes reduced to one sound, but mostly not
 # modified   : 2013-12-19 by Jelena Prokić <prokic@uni-marburg.de>
+# modified   : 2014-07-23 by Michael Cysouw <cysouw@uni-marburg.de>
+# comment    : merged columns are removed ignore parts to simplify alignments
 #
 :ANN	COLUMNID.......	1	2	3	4	5
 #
