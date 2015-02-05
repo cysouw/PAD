@@ -27,13 +27,11 @@
 4656	Büdesheim......	ɐː→ɪ	-	-	-	-
 4679	Burgrieden.....	ɐ̟→ɪ	-	-	-	-
 4636	Docelles.......	a̠→ɪ	-	-	-	-
-4673	Eichenhofen....	oæ	-	-	-	-
 4639	Endenburg......	ɐ̟→ɪ	-	-	-	-
 4682	Engter.........	ɛ→ɪ	-	-	-	-
 4677	Ensheim........	o̜ː→ɪ	-	-	-	-
 4652	Eschelbronn....	ɐ→ɪ	-	-	-	-
 4654	Gelting........	o→ə	-	-	r̥	-
-4642	Hartenstein....	oːɐ	-	-	ɾ	-
 4646	Herrentrup.....	œ	-	-	ç	-
 4635	Höchstädt(Don).	ɔʿ→ɪ	-	-	-	-
 4653	Horheim........	ɐ̠→ɪ	-	-	-	-
@@ -65,7 +63,6 @@
 4671	Schömberg......	ɔ→ɐ	-	-	-	-
 4683	Seelbach.......	ɐ→ɪ̣	-	-	-	-
 4643	Siebenbach.....	ɛ̣͡e̜	-	-	-	-
-4662	Treffelstein...	o̜ːɐ	-	-	-	-
 4657	Ulbering.......	ɔ̣→ɐ	-	-	-	-
 4669	Vielbrunn......	a̠ː→ɪ	-	-	-	-
 4638	Volkershausen..	ɛ̣ː	-	-	-	-
@@ -123,6 +120,7 @@
 26807	Dreeke.........	ɐ→ɪ̣	j̰	ə̟	ʁ	-
 26751	Ebertshausen...	a̠→ɪ	-	ə	r͡r̥	-
 26742	Ebstorf........	a̠	j	ə̜	-	-
+4673	Eichenhofen....	o	-	æ	-	-
 26826	Einöllen.......	ɑː	j	ɑ̟	-	-
 26788	Endenburg......	ɐ→ɪ	-	ə	ɾ	-
 26722	Engelsbach.....	a̠→ɪ͡ɪ	-	ʌ	-	-
@@ -130,7 +128,7 @@
 26708	Ensheim........	ɔ͡o̜→ɪ͡ə̜+	-	-	-	-
 26780	Eschelbronn....	ɑ̟ː	-	ɪ→ə̜	-	-
 26852	Eversen........	ɐ→ɪ	-	əʾ	-	-
-26817	Exdorf.........	ɑ̟→ɪ	ɪ	ɛ̠	-	-
+26817	Exdorf.........	ɑ̟→ɪ	-	ɪ	-	ɛ̠
 26759	Falkenthal.....	ɐ→ɪ͡ɪ	-	œ̠	-	-
 26841	Freden.........	ɐʾ→ɪ̠	-	əʾː	-	-
 26695	Frohnhausen....	ɐ→ɪ	-	ə̜	-	-
@@ -145,12 +143,13 @@
 26750	GrossMohrdorf..	a̠→ɪ̣	x	ɛ̣	-	-
 26740	Grosswechsungen	a	j	a̠	-	-
 26863	Grünlichtenberg	a̠→ɪ͡ɪ	-	ɐ	-	-
-26798	Grünow.........	æ→ɪ	ɪ	œ̠ʿ	-	-
+26798	Grünow.........	æ→ɪ	-	ɪ	-	œ̠ʿ
 26787	Götz...........	a̠→ɪ͡ɪ	-	ɛ̠	-	-
 26770	Hagen..........	a→ɪ̣	j	ə̟ʾ	-	-
 26809	Hammah.........	ɐ̟→ɪ͡ɪ→ə	-	-	-	-
 26867	Hartenfels.....	ɑʾ→ɪ	j	ɛ̠ʾː	-	-
 26796	Hartenstein....	o→ɪ	-	ɪ→ə̜	-	-
+4642	Hartenstein....	oː	-	ɐ	ɾ	-
 26710	Helmers........	a	-	ɪ→əʾ	-	-
 26734	Herbornseelbach	ɐ̜→ɪ	-	ə	ɹ	-
 26783	Herdecke.......	ɑ→ɪ͡ɪ	j	ə̜+	-	-
@@ -237,6 +236,7 @@
 26743	Tann(Rhön).....	ɐ→ɪ	-	ə	ɾ	-
 26696	Theuma.........	a→ɪ	-	ɔ̣+	-	-
 26814	Treffelstein...	oː	-	ɪ→ɐ	-	-
+4662	Treffelstein...	o̜ː	-	ɐ	-	-
 26778	Ungstein.......	ɒː	j	ɛ	-	-
 26705	Unterellen.....	a̠→ɪ	j	ɐ	-	-
 26829	Valdorf........	ɤʾ→ɪ̠	-	ɐ	-	-
