@@ -10,7 +10,7 @@
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8	9
 #
 :ANN	STANDARD.......	G	a	.	r	.	t	e	n	.
-:ANN	COMPLEX........	.	<	-	>	.	.	.	.	.
+:ANN	COMPLEX........	.	<	>	.	.	.	.	.	.
 :ANN	IGNORE.........	.	.	.	.	.	.	.	.	x
 #
 887	Aachen.........	-	ɪ→aː	-	-	-	d	ə	-	-

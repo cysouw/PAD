@@ -10,7 +10,7 @@
 :ANN	COLUMNID.......	1	2	3	4	5	6	7	8
 #	
 :ANN	STANDARD.......	B	e	r	.	.	g	e	.
-:ANN	COMPLEX........	.	<	-	>	<	>	.	.
+:ANN	COMPLEX........	.	.	.	>	<	>	.	.
 #	
 17620	Aachen.........	p	ɛ→ɐ	-	-	-	ʃ	-	-
 17693	Adorf..........	b	ẹ→ə̜	-	-	-	-	ɪ→ə	-
