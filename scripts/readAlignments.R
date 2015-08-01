@@ -56,7 +56,7 @@ nr_cols <- as.numeric(nr_cols)-2
 library(stringi)
 
 remove.diacritics <- function(x) {
-	stri_replace_all_regex(stri_trans_nfd(x),"\\p{Diacritic}","")
+	stri_replace_all_regex(stri_trans_nfd(x),"\\p{Mn}","")
 }
 all <- apply(all,2,remove.diacritics)
 rownames(all) <- rows
@@ -155,10 +155,12 @@ sim <- sim.obs(t(all2))
 #====
 
 #library(fpc)
-#p <- pamk(as.dist(1-sim),krange=10:30,critout=T)$pamobject
+#p <- pamk(as.dist(1-sim),krange=20:40,critout=T)$pamobject
 
 library(cluster)
 p <- pam(as.dist(1-sim),24)
+p <- pam(as.dist(1-sim),30)
+
 
 # this is necessary because of reordering
 cl <- p$clustering
