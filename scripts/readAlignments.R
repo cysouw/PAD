@@ -53,10 +53,14 @@ nr_cols <- as.numeric(nr_cols)-2
 
 #=====
 
-library(stringi)
+# library(stringi)
 
 remove.diacritics <- function(x) {
-	stri_replace_all_regex(stri_trans_nfd(x),"\\p{Mn}","")
+	stringi::stri_replace_all_regex(
+		stringi::stri_trans_nfd(x)
+		, "\\p{Mn}"
+		, ""
+		)
 }
 all <- apply(all,2,remove.diacritics)
 rownames(all) <- rows
@@ -66,6 +70,10 @@ all <- gsub("\\+", "", all)
 all <- gsub("˻", "", all)
 all <- gsub("ʿ", "", all)
 all <- gsub("ʾ", "", all)
+
+# correct cedilla
+
+all <- gsub("c", "ç", all)
 
 #=====
 
@@ -81,9 +89,9 @@ colnames(all) <- paste(1:ncol(all), words, nr_cols, cols)
 
 #=====
 
-# tensor lect x correspondence x character
-
 library(qlcMatrix)
+
+# tensor lect x correspondence x character
 # library(slam)
 # source("/Users/cysouw/Documents/Github/R/slam/R/unfold.R")
 
@@ -107,10 +115,9 @@ library(qlcMatrix)
 #		, dimnames = list( rownames(all), colnames(all), levels(letters))
 #		)
 
-library(reshape2)
-
+# library(reshape2)
 long <- function(DF) {
-	melt(as.matrix(DF)
+	reshape2::melt(as.matrix(DF)
 		 , varnames = c("observation", "attribute")
 		 , na.rm = TRUE
 		 )
@@ -133,44 +140,81 @@ all2 <- all
 all2[all2=="-"] <- NA
 sim <- sim.obs(t(all2))
 
-# sim@x[sim@x<0] <- 0
-# sim <- drop0(sim)
-# plot(hclust(as.dist(1-sim)),labels=rownames(sim),cex=.3)
+# context ???
+# does not really improve things
+
+last <- diff(nr_words)
+first <- head(c(1,last),-1)
+U <- bandSparse(n = nrow(sim), k = 1) * 1
+
+sim_before <- t(U) %*% sim %*% U
+sim_before[first == 1, first == 1] <- 1
+
+sim_after <- U %*% sim %*% t(U)
+sim_after[last == 1, last == 1] <- 1
+
+sim_context <- sim + sim_before/3 + sim_after/3
+
+# =========
+# villages
+
+sim.loc <- sim.obs(all)
+#plot(hclust(as.dist(max(sim.loc)-sim.loc),method="ward.D2"),cex=.7)
+
+library(apcluster)
+clusters <- apcluster(sim.loc)
+hier <- aggExCluster(sim.loc,clusters)
+
+cl.vec <- c()
+for (i in 1:length(clusters@clusters)){cl.vec[clusters[[i]]] <- i}
+
+library(qlcVisualize)
+library(mapdata)
+
+loc <- doculects[,c(1,2)]
+
+map("worldHires","Germany",fill=T,col="grey90")
+lmap(loc,cl.vec,draw=1:max(cl.vec),levels=c(0.25),size=.5,col="rainbow", position="topleft",add=T)
+
+#plot(hier)
 
 # ===
 
 #library(igraph)
-#g <- graph.adjacency(sim, mode="undirected", weighted = T)
-#cl <- infomap.community(g)$membership
-#sapply(1:max(cl),function(x){table(cols[cl== x])})
+
+# g <- igraph::graph.adjacency(sim_context, mode="undirected", weighted = T)
+# cl <- igraph::infomap.community(g)$membership
+
+# sapply(1:max(na.omit(cl)),function(x){table(cols[cl== x])})
 
 #=====
 
-#library(apcluster)
-#colnames(sim) <- cols
-#tmp <- apcluster(as.matrix(sim))
-#cl <- c()
-#for (i in 1:length(tmp@clusters)){cl[tmp[[i]]] <- i}
+# library(apcluster)
+# colnames(sim) <- cols
+# tmp <- apcluster::apcluster(as.matrix(sim))
+# cl <- c()
+# for (i in 1:length(tmp@clusters)){cl[tmp[[i]]] <- i}
 
 #====
 
-#library(fpc)
-#p <- pamk(as.dist(1-sim),krange=20:40,critout=T)$pamobject
+# library(fpc)
+# p <- pamk(as.dist(1-sim),krange=20:40,critout=T)$pamobject
 
 library(cluster)
-p <- pam(as.dist(1-sim),24)
 p <- pam(as.dist(1-sim),30)
-
 
 # this is necessary because of reordering
 cl <- p$clustering
-sil <- silhouette(cl,as.dist(1-sim))
+sil <- silhouette(cl,as.dist(1-sim_context)) # this is an ERROR!!!
 cl[sil[,"sil_width"] < 0.01] <- NA
 
-tmp <- sapply(1:max(na.omit(cl)),function(x){table(cols[which(cl==x)])})
-n <- sapply(tmp,function(x){paste(names(x),collapse="/")})
+# tmp <- sapply(1:max(na.omit(cl)),function(x){table(cols[which(cl==x)])})
+# n <- sapply(tmp,function(x){paste(names(x),collapse="/")})
+
+# sapply(1:max(na.omit(cl)),function(x){table(cols[cl== x])})
 
 # ===
+
 library(qlcVisualize)
 library(seriation)
 
@@ -179,27 +223,25 @@ draw.cluster <- function(cluster
 						, order = "R2E"
 						, member = cl
 						, control = NULL
-						, screen.width = 12
+						, ...
 						) {
+
 	sel <- which(member ==  cluster)
 	data <- all[,sel]
 	colnames(data) <- paste(1:ncol(all), words, nr_cols, cols)[sel]
 
-	
-#	quartz(width=screen.width,height=2+(screen.width-4)*ncol(data)/nrow(data))
-
 	limage(data
 		, col = rainbow(ncol)
 		, order =  order
-		, show.remaining = F
-		, cex.axis=0.3
+		, cex.axis = 0.3
 		, cex.legend = 0.7
-		, cex.remaining = .2
+		, cex.remaining = 0.2
+		, ...
 		)
 
 }
 
-seg <- function(h, lwd) {
+seg <- function(h, lwd = 1) {
 	segments(rep(0,length(h))
 			, rep(h, length(h))
 			, rep(183, length(h))
@@ -208,288 +250,370 @@ seg <- function(h, lwd) {
 			)
 }
 
+# =====
+m <- cl
 
-draw.cluster(14,10,"R2E") # u
-draw.cluster(1,12,"MDS_angle") # o
-draw.cluster(5,12,"MDS_angle") # a
-draw.cluster(7,12,"MDS") # e
-draw.cluster(13,12,"R2E") # i
+draw.cluster(1,10,"MDS_angle") # kurz a
 
-draw.cluster(9,11) # schwa
-	seg(c(22,56),1) # en, er, other schwa
-	seg(c(23,24,65,66),0.5) # these seem to be "er" cases
-
-draw.cluster(16,10) # au
-	seg(c(3),1) # au/u, au/o
-draw.cluster(19,10) # ei/eu
-	seg(c(4,9),1) # ei/i, eu, ei/e
-
-draw.cluster(8,4,"MDS_angle") # bp
-	seg(4,1) # b/p, p/pf
-draw.cluster(11) # fv
-	seg(10,1) # p/f, f
-
-draw.cluster(4) # dt
-	seg(c(20,51,59),1) # t/th (final) vs t/0 vs d/t vs t
-draw.cluster(23,6,"MDS") # t>ts
-
-draw.cluster(15,8,"MDS_angle") # k
-	seg(c(9,12),1) # inital, final, ach
-draw.cluster(20) # g
-	seg(c(10,13,17),1) # ges/gef-, geb/gek-, -ge/gen, initial
-	seg(c(15,16),0.5)
-draw.cluster(22,9,"R2E") # ich
-draw.cluster(6,12) # ach
-	seg(7,1) # ach vs. tag
-
-draw.cluster(12,10) # sz
-	seg(c(5,7,23,27,36),1) # ks, t>s, s
-draw.cluster(21,6,"MDS") # sch
+draw.cluster(2) # w/v
+	seg(25) # ben
+	m[c(254,323,2,561)] <- 31 # b/_en
+	draw.cluster(2,4,"MDS_angle",m=m)
+	seg(21) # be, but note "Mittwoch"!
+	m[c(416,328,602)] <- 32 # b/_e
 
 draw.cluster(3) # m
-	seg(7,1) # ben
-draw.cluster(18,5,"MDS") # n
-	seg(c(7,45),1) # ken/gen/chen , nt/nd/schn/n-syllable initial
-draw.cluster(10,6,"MDS_angle") # l
-	seg(c(1,18,37,38),1) # initial/gl/fl/bl, final/ld/lb/lt
-draw.cluster(17,6,"MDS_angle") # r
-	seg(c(6),1) # initial vs. final
-draw.cluster(24,3,"MDS") # h
-draw.cluster(2,6,"MDS_angle") # vw
-	seg(25,1) # ben
+	seg(c(5,7,9))
+	m[c(573,3,324,255,563,623)] <- 33 # n/be_
+	m[c(169,623)] <- 34 # n/fe_
+	m[c(664,711)] <- 35 # Dativ m
+	draw.cluster(3,m=m)
 
-# === manual
+draw.cluster(4,8,"MDS") # t/d final
 
-m <- cl
+draw.cluster(5,8) # kurz a
+	seg(5)
+	m[c(144,579,136,462,235)] <- 36 # a/t_g
 
-#------
-# schwa
+draw.cluster(6) # ach
+	seg(6)
+	m[c(580,463,236,137,145)] <- 37 # g/ta_
 
-# schwa + N or L
-25 -> m[c(103, 690, 298, 274, 493, 157, 622, 398, 287, 615, 54, 422, 489, 431, 562, 226, 645, 31, 528, 10, 62)]
+draw.cluster(7,5) # t/d, mostly "st", but not consistently
+	seg(c(4,31))
+	m[c(670,23,384,93)] <- 38 # t/zero
+	m[c(146,122,119,138,49,598,161,131,596,629,150,153,159,170,585,593,588,593,588,126,129,234,476,461,578,683,248,707,409)] <- 56 # d
+	draw.cluster(7,5,m=m)
 
-# schwa + R
-26 -> m[c(94, 175, 66, 125, 592, 141, 684, 308, 410, 603, 82, 118, 477, 671, 337, 652, 618, 202, 503, 625, 368, 543, 348, 217)]
+draw.cluster(8,12,"MDS_angle") # e/a ???
 
-draw.cluster(9,6,"MDS_angle",m)
+draw.cluster(9) # p/b
+	seg(20)
+	m[c(30,9)] <- 39 # pf
 
-# GB + schwa prefix
-27 -> m[c(283,165,250,277,271,318,311,264,290,257,165,178)]
+draw.cluster(10)
+	seg(c(22,56)) # en, er, other schwa
+	seg(c(23,24,65,66)) # these seem to be "er" cases
+	m[c(103, 690, 298, 274, 493, 157, 622, 398, 287, 615, 54, 422, 489, 431, 562, 226, 645, 31, 528, 10, 62)] <- 40 # schwa/_[nl]
+	m[c(94, 175, 66, 125, 592, 141, 684, 308, 410, 603, 82, 118, 477, 671, 337, 652, 618, 202, 503, 625, 368, 543, 348, 217)] <- 41 # schwa/_r
 
-# 675 wievIEl wrongly categorized
-13 -> m[675]
+	draw.cluster(10,6,"MDS_angle",m)
+	seg(20)
+	m[c(283,165,250,277,271,318,311,264,290,257,165,178)] <- 42 # schwa/[gb]_ (Prefix)
 
-draw.cluster(9,6,"MDS",m)
-draw.cluster(25,6,"MDS",m)
-draw.cluster(26,8,"MDS_angle",m)
-draw.cluster(27,8,"MDS_angle",m)
+	draw.cluster(10,4,"MDS",m=m)
+	draw.cluster(40,4,"MDS",m=m)
+	draw.cluster(41,4,"MDS",m=m)
+	draw.cluster(42,4,"MDS",m=m)
 
-#------
-# au
+draw.cluster(11,5) # l
 
-# au/o
-28 -> m[c(41, 620, 327)]
+draw.cluster(12,12) # f/v
+	seg(10)
+	m[c(492,397,502,168,191,621,40,549,149,13)] <- 43 # f/p Note voicing!!!
+	draw.cluster(12,m=m)
+	draw.cluster(43,m=m)
+	m[c(240,200,719)] <- 44 # f final
 
-draw.cluster(16,12,"MDS",m)
-draw.cluster(28,12,"MDS_angle",m)
+draw.cluster(13,11,"MDS_angle") # s
+	seg(c(15,17,25,33))
+	seg(c(4,6,7,11))
+	m[c(644,488)] <- 45 # chs
+	m[c(375,195,469,418)] <- 46 # s vs. zero (possible two groups: final s loss and s before a t)
+	m[c(341,473,121,660,72,651,81,336)] <- 47 # s vs. t
+	m[c(134,20,306,213,541,378)] <- 48 # s vs sch, typicaly before t
+	draw.cluster(13,6,"MDS",m=m)
 
-#----
-# ei
+draw.cluster(14) # n/[g ch]e_
+	seg(6)
+	m[c(27,52)] <- 49 # ng
 
-# ei/e
-29 -> m[c(548,356,220,174)]
+draw.cluster(15,6) # e/ö ???
 
-# eu
-30 -> m[c(412,482,346,485,216)]
+draw.cluster(16) # o
+	seg(4)
+	m[116] <- 50 # brUder
 
-draw.cluster(19,14,"MDS_angle",m)
-draw.cluster(29,12,"MDS_angle",m)
-draw.cluster(30,12,"MDS_angle",m)
+draw.cluster(17) # och vs. k
+	seg(1)
+	m[42] <- 51 # auGenblick
 
-#----
-# b/p
+draw.cluster(18) # u/o ???
 
-# pf
-31 -> m[c(30,9,504,500)]
+draw.cluster(19) # i
 
-draw.cluster(8,4,"MDS",m)
-draw.cluster(31,4,"MDS_angle",m)
+draw.cluster(20) # au
 
-#-----
-# f
+draw.cluster(21) # r
+	seg(14)
+	m[c(635,76,148,322,163)] <- 52 # r/V_C
 
-# f/p
-32 -> m[c(13,149,549,40,621,191,168,502,397,492)]
+draw.cluster(22) # n, Lot's of differences, but no clear groups
+	seg(21)
 
-draw.cluster(11,4,"MDS",m)
-draw.cluster(32,6,"MDS_angle",m)
+draw.cluster(23,8) # ei
+	seg(11)
+	m[c(412, 346, 216, 485)] <- 53 # eu
 
-#------
-# t/d
+draw.cluster(24) # g initial
+	seg(c(10,13,17))
+	seg(c(15,16),0.3)
+	m[c(310,282,317,270,276,186)] <- 54 # g/_e[sf]
+	m[c(256,263,289)] <- 55 # g/_e[bk]
+	m[c(225,421,77)] <- 51 # g/_e(n)
 
-# t-d
-33 -> m[c(511,294,697,113,427,574,701,4,391,262,89,206,269,595,173)]
+draw.cluster(25,o="MDS_angle") # sch
 
-# t-ø
-34 -> m[c(210,466,413,23,384,670,93,59)]
+draw.cluster(26,o="MDS") # ich
 
-draw.cluster(33,6,"MDS",m)
-draw.cluster(34,6,"MDS_angle",m)
+draw.cluster(27) # o
 
+draw.cluster(28) # ts
 
+draw.cluster(29) # kh
 
+draw.cluster(30) # h
 
 
+# ======
+# manual decision on difficult cases (only consonants)
 
+# which(is.na(cl))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# ===
-
-m <- cl
-
-pf <- c(30,9,500,504)
-m[pf] <- 30
-draw.cluster(8,4,"MDS",member=m)
-
-b_en <- c(254,323,2,561)
-m[b_en] <- 31
-draw.cluster(2,6,"MDS_angle",member=m)
-
-dativ <- c(711,664)
-m[dativ] <- 32
-
-be_n <- c(573, 3, 255, 324, 563, 623, 43)
-m[be_n] <- 18
-draw.cluster(18,7,"R2E",member=m)
-
-
-chs <- c(644, 488)
-std <- c(336, 81, 651, 72, 660, 121, 341, 473, 357, 418, 195, 469, 375)
-
-m[chs] <- 40
-m[std] <- 41
-draw.cluster(12,10,"MDS",m=m)
-draw.cluster(41,8,"MDS_angle",m=m)
-
-dt <- c(511,294,697,113,427,574,701,4,391,262,89,206,269,595,173)
-d0 <- c(210,466,413,23,384,670,93)
-m[dt] <- 50
-m[d0] <- 51
-draw.cluster(4,6,"MDS_angle",m) # dt
-
-#===
-kgx <- cl
-kgx[kgx==15] <- 6
-kgx[kgx==20] <- 6
-kgx[kgx==22] <- 6
-draw.cluster(6,8,"R2E",kgx)
-
-# ===
-
-#colnames(all) <- paste(words, nr_cols, cols)
-#quartz(width=12,height=48)
-#limage(all, rainbow(60), order="GW", show=T, cex.axis=.3,cex.remaining=.2,font="CharisSIL")
-
-# ===
-
-
-
-
-draw.cluster(1,8,"R2E") # schwa
-draw.cluster(2,6,"mds") # t/d
-draw.cluster(3,6,"R2E") # n
-draw.cluster(4,10,"R2E") # i/e
-draw.cluster(5,10,"R2E") # o/u/a
-draw.cluster(6,8,"R2E") # k/x/g
-draw.cluster(7,4,"R2E")	# l
-draw.cluster(8,8,"R2E") # f/p/v
-draw.cluster(9,10,"R2E") # s/z
-draw.cluster(10,6,"mds") # b/v ~ w
-draw.cluster(11,4,"mds") # p/b/pf
-draw.cluster(12,4,"mds") # sch
-draw.cluster(13,8,"R2E") # r
-draw.cluster(14,4,"mds") # m
-draw.cluster(15,4,"mds") # h
-
-#=======
-
-seg <- function(h, lwd) {
-	segments(rep(0,length(h))
-			, h
-			, rep(183, length(h))
-			, h
-			, lwd = lwd
-			)
+get.best <- function(corr,range=10,levels=.3){
+	print(names(cl)[corr])
+	table <- m[names(sort(sim[,corr],decreasing=T)[1:range])]
+	print(table)
+	print(sort(table(table),decreasing=T))
+	tmp <- m[corr]
+	m[corr] <<- 100
+	plot.corr(100,draw=6,levels=levels,main=names(cl)[corr],size=0.6)
+	m[corr] <<- tmp
 }
 
-# == fpb ===
+#get.best(7)
+m[7] <- 4
 
-fpb <- cl$membership
-fpb[fpb==11] <- 8
-draw.cluster(8,8,"R2E",fpb)
+#get.best(38)
+m[38] <- 17
 
-seg(c(4,25,49),2)
-seg(c(2,24,47),0.5)
+#get.best(47)
+m[47] <- 29
 
-text(-4,54,"*p")
-text(-4,35,"*f")
-text(-4,15,"*b")
-text(-4,2,"*pf")
+#get.best(53)
+m[53] <- 29
 
-# === fpb++ with *w ===
+#get.best(59)
+#get.best(95)
+m[95] <- 52
 
-fpb[fpb==10] <- 8
-draw.cluster(8,10,"R2E",fpb)
+#get.best(99)
+m[99] <- 12
 
-# === schwa ===
+#get.best(117)
+m[117] <- 38
 
-draw.cluster(1,8,"R2E")
+#get.best(294)
+m[294] <- 4
 
-seg(c(10,32,55),2)
-seg(c(4,5,6,7,51,65,71,72),0.5)
+#get.best(344)
+m[344] <- 4
 
-text(-4,74,"*ə",cex=.6)
-text(-4,60,"*ə/g_",cex=.6)
-text(-4,42,"*ə/_[nl]",cex=.6)
-text(-4,22,"*ə/_r",cex=.6)
-text(-4,3,"*ə",cex=.6)
+#get.best(357,20)
+m[357] <- 47
 
-# === tdz ====
+#get.best(391,20)
+m[391] <- 4
 
-td <- cl$membership
-z <- which(colnames(all)=="z")
-td[z] <- 20
+#get.best(413,20)
+m[413] <- 38
 
-draw.cluster(20,8,"mds",td)
+#get.best(427,20)
+m[427] <- 4
 
-draw.cluster(2,8,"R2E",td)
+#get.best(500)
+m[500] <- 39
 
-seg(c(17,60),2)
-seg(c(1,21,27,29,49),0.5)
+#get.best(504)
+m[504] <- 39
 
-text(-4,70,"*t/_#",cex=.5)
-text(-4,54,"*d/V_V",cex=.5)
-text(-4,35,"*d",cex=.5)
-text(-4,8,"*t/[sx]_",cex=.5)
-text(-4,10,"*-t",cex=.5)
+#get.best(511)
+m[511] <- 4
 
-# === sz ===
+#get.best(546)
+m[546] <- 45
 
-sz <- cl$membership
-sz[sz == 12] <- 9
-draw.cluster(9,10,"R2E",sz)
+#get.best(584)
+m[584] <- 29
+
+#get.best(697)
+m[697] <- 4
+
+#get.best(701)
+m[701] <- 4
+
+# sound change models
+
+library(corHMM)
+tree <- nj(as.dist(1-sim.loc))
+
+which(m==47)
+tmp <- all[,na.omit(which(m==47))]
+(sort(table(tmp))->tab)
+
+# 43
+tmp <- gsub("ː","",tmp)
+tmp <- gsub("ʰ","",tmp)
+tmp <- gsub("h","",tmp)
+tmp <- gsub("ʱ","",tmp)
+tmp <- gsub("ʼ","",tmp)
+tmp <- gsub("β","v",tmp)
+tmp <- gsub("ɸ","f",tmp)
+tmp <- gsub("ff","f",tmp)
+tmp <- gsub("fv","f",tmp)
+
+# 47
+tmp <- gsub("ː","",tmp)
+tmp <- gsub("ʰ","",tmp)
+tmp <- gsub("h","",tmp)
+tmp <- gsub("ʱ","",tmp)
+tmp <- gsub("ʼ","",tmp)
+tmp <- gsub("ʔ","t",tmp)
+tmp <- gsub("ð","d",tmp)
+tmp <- gsub("θ","t",tmp)
+tmp <- gsub("ss","s",tmp)
+tmp <- gsub("zs","z",tmp)
+tmp <- gsub("zz","z",tmp)
+tmp <- gsub("sz","s",tmp)
+tmp <- gsub("tt","t",tmp)
+tmp <- gsub("ɾ","d",tmp)
+tmp <- gsub("ɹ","d",tmp)
+tmp <- gsub("ɻ","d",tmp)
+tmp <- gsub("ʒ","z",tmp)
+tmp <- gsub("ʈ","t",tmp)
+
+(sort(table(tmp))->tab)
+(rem <- names(tab[tab<100]))
+
+for (i in rem) {
+	tmp[tmp==i] <- NA
+}
+
+sort(table(tmp))
+tmp <- as.matrix(tmp)
+tmp[is.na(tmp)] <- "?"
+tmp <- cbind(location=rownames(tmp),tmp)
+
+models <- sapply(1:(ncol(tmp)-1),function(x){rayDISC(tree,tmp,charnum=x,model="ARD",node.states="marginal")},simplify=F)
+
+# ====
+
+# library(raster)
+# deu <- getData("GADM", country = "DEU", level = 0)
+# plot(deu, col = "grey90")
+
+
+loc <- doculects[,c(1,2)]
+library(mapdata)
+
+plot.corr <- function(c, levels, main = "", ...) {
+
+	tmp <- A[ , which(m == c),]
+	tmp <- rollup(tmp, 2, FUN = sum, DROP = T)
+	tmp <- as.matrix(as.simple_triplet_matrix(tmp))
+	tmp <- tmp[ , colSums(tmp) > 0]
+
+	if (length(which(m==c))==1) {
+		cex=.7
+	} else {
+		cex=.1
+	}
+
+	map("worldHires","Germany",fill=T,col="grey90")
+	lmap(loc, tmp, cex = cex, add = T, position =  "topleft", levels = levels, ...)
+
+	text(14.5, 48, cex = 0.5, labels=paste("Level =",100*levels, "%"))
+	title(main = main)
+}
+
+# ====
+
+plot.corr(6, draw = 4, levels = 0.30, size = 0.7, main = "Correspondences “x”")
+plot.corr(37, draw = 5, levels = 0.20, size = 0.6, main = "Correspondences “(ta)g”")
+plot.corr(17, draw = 6, levels = 0.20, size = 0.6, main = "Correspondences “k/x”")
+plot.corr(26, draw = 6, levels = 0.20, size = 0.6, main = "Correspondences “ç”")
+plot.corr(29, draw = 4, levels = 0.10, size = 0.7, main = "Correspondences “k”")
+plot.corr(24, draw = 4, levels = 0.15, size = 0.7, main = "Correspondences “k/g”")
+plot.corr(45, draw = 4, levels = 0.25, size = 0.7, main = "Correspondences “ks”")
+plot.corr(51, draw = 6, levels = 0.20, size = 0.6, main = "Correspondences “g loss”")
+plot.corr(54, draw = 5, levels = 0.25, size = 0.6, main = "Correspondences “ge prefix”")
+plot.corr(55, draw = 5, levels = 0.25, size = 0.6, main = "Correspondences “ge prefix”")
+
+
+plot.corr(2, draw = 3, levels = 0.30, size = 0.7, main = "Correspondences “β/v”")
+plot.corr(31, draw = 3, levels = 0.25, size = 0.7, main = "Correspondences “b before en”")
+plot.corr(32, draw = 6, levels = 0.15, size = 0.5, main = "Correspondences “β/p”")
+
+
+plot.corr(4, draw = 4, levels = 0.15, size = 0.7, main =  "Correspondences “t final”")
+plot.corr(7, draw = 3, levels = 0.30, size = 0.7, main =  "Correspondences “t”")
+plot.corr(38, draw = 4, levels = 0.25, size = 0.7, main = "Correspondences “t loss”")
+plot.corr(56, draw = 4, levels = 0.25, size = 0.7, main = "Correspondences “t/d”")
+plot.corr(28, draw = 4, levels = 0.25, size = 0.7, main = "Correspondences “ts”")
+
+
+plot.corr(9, draw = 3, levels = 0.30, size = 0.7, main = "Correspondences “p/b”")
+plot.corr(12, draw = 3, levels = 0.30, size = 0.7, main = "Correspondences “f”")
+plot.corr(43, draw = 4, levels = 0.20, size = 0.7, main = "Correspondences “f/p”")
+plot.corr(44, draw = 7, levels = 0.15, size = 0.5, main = "Correspondences “f final”")
+plot.corr(39, draw = 5, levels = 0.20, size = 0.6, main = "Correspondences “pf”")
+
+
+plot.corr(13, draw = 3, levels = 0.25, size = 0.7, main = "Correspondences “s/z”")
+plot.corr(45, draw = 5, levels = 0.25, size = 0.6, main = "Correspondences “ks”")
+plot.corr(46, draw = 4, levels = 0.20, size = 0.7, main = "Correspondences “s loss”")
+plot.corr(47, draw = 5, levels = 0.15, size = 0.6, main = "Correspondences “s/t”")
+plot.corr(48, draw = 3, levels = 0.25, size = 0.7, main = "Correspondences “s before t”")
+plot.corr(25, draw = 3, levels = 0.25, size = 0.7, main = "Correspondences “sch”")
+
+
+plot.corr(21, draw = 5, levels = 0.30, size = 0.6, main = "Correspondences “r”")
+plot.corr(52, draw = 5, levels = 0.25, size = 0.6, main = "Correspondences “r loss”")
+plot.corr(30, draw = 3, levels = 0.30, size = 0.7, main = "Correspondences “h”")
+plot.corr(11, draw = 3, levels = 0.30, size = 0.7, main = "Correspondences “l”")
+
+
+plot.corr(3, draw = 3, levels = 0.30, size = 0.7, main = "Correspondences “m”")
+plot.corr(33, draw = 3, levels = 0.30, size = 0.7, main = "Correspondences “n after be”")
+plot.corr(34, draw = 3, levels = 0.30, size = 0.7, main = "Correspondences “n after fe”")
+plot.corr(35, draw = 3, levels = 0.30, size = 0.7, main = "Correspondences “Dativ m”")
+plot.corr(22, draw = 3, levels = 0.25, size = 0.7, main = "Correspondences “n”")
+plot.corr(14, draw = 3, levels = 0.30, size = 0.7, main = "Correspondences “n loss”")
+plot.corr(49, draw = 3, levels = 0.30, size = 0.7, main = "Correspondences “ŋ”")
+
+
+plot.corr(20, draw = 6, levels = 0.17, size = 0.6, main = "Correspondences “au”")
+plot.corr(23, draw = 5, levels = 0.20, size = 0.6, main = "Correspondences “ei”")
+plot.corr(53, draw = 8, levels = 0.15, size = 0.5, main = "Correspondences “eu”")
+
+
+plot.corr(10, draw = 3, levels = 0.25, size = 0.7, main = "Correspondences “schwa”")
+plot.corr(40, draw = 3, levels = 0.25, size = 0.7, main = "Correspondences “schwa before n/l”")
+plot.corr(41, draw = 4, levels = 0.20, size = 0.7, main = "Correspondences “schwa before r”")
+plot.corr(42, draw = 4, levels = 0.25, size = 0.7, main = "Correspondences “schwa in prefix”")
+
+
+# monophtonghs
+
+plot.corr(1, draw = 5, levels = 0.15)
+plot.corr(5, draw = 5, levels = 0.15)
+plot.corr(8, draw = 3, levels = 0.15)
+plot.corr(15, draw = 4, levels = 0.30)
+plot.corr(16, draw = 5, levels = 0.15)
+plot.corr(18, draw = 5, levels = 0.15)
+plot.corr(19, draw = 5, levels = 0.15)
+plot.corr(27, draw = 5, levels = 0.15)
+
+
+
+
